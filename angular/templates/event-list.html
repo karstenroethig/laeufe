@@ -1,0 +1,68 @@
+﻿<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+	<div class="container">
+		<div class="navbar-header">
+			<a class="navbar-brand" href="#">Läufe - Termine & Ergebnisse</a>
+		</div>
+		<div class="collapse navbar-collapse">
+			<ul class="nav navbar-nav">
+				<li class="active"><a href="#/events"><span class="glyphicon glyphicon-home"></span></a></li>
+				<li><a href="#/map">Karte</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<div class="jumbotron">
+	<div class="container">
+		<h1>Läufe - Termine & Ergebnisse</h1>
+		<p>Auf dieser Übersicht werden alle absolvierten und geplanten Läufe aufgelistet. Klicke auf einen der Läufe, um mehr zu erfahren.</p>
+		<p><a class="btn btn-primary btn-lg" role="button" href="#/map">Zur Karte &raquo;</a></p>
+	</div>
+</div>
+
+<div class="container">
+
+	<form class="form-horizontal" role="form">
+		<div class="form-group">
+			<label for="query" class="col-sm-1 control-label">Suche</label>
+			<div class="col-sm-4">
+				<input type="text" class="form-control" id="query" placeholder="Suche" ng-model="query">
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="order" class="col-sm-1 control-label">Sortierung</label>
+			<div class="col-sm-4">
+				<select class="form-control" id="order" ng-model="order">
+					<option value="name">alphabetisch</option>
+					<option value="age">chronologisch aufsteigend</option>
+					<option value="-age">chronologisch absteigend</option>
+				</select>
+			</div>
+		</div>
+
+		
+	</form>
+
+	<table class="table table-striped">
+		<thead>
+			<th>Datum</th>
+			<th>Startzeit</th>
+			<th>Bezeichnung</th>
+			<th>Ort</th>
+			<th class="text-right">Distanz</th>
+			<th class="text-right">Zeit</th>
+			<th class="text-right">Teilnahmegebühr</th>
+		</thead>
+		<tbody>
+			<tr ng-repeat="event in events | filter: query | orderBy: order">
+				<td>{{event.date}}</td>
+				<td>{{event.startTime}}</td>
+				<td><a href="#/events/{{event.key}}">{{event.name}}</a></td>
+				<td>{{event.location}}</td>
+				<td class="text-right">{{event.distance}}</td>
+				<td class="text-right">{{event.time}}</td>
+				<td class="text-right">{{event.costs}}</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
