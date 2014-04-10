@@ -16,9 +16,11 @@ laeufeControllers.controller( 'EventListController', [ '$scope', '$http',
 	}
 ]);
 
-laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams',
-	function( $scope, $routeParams ) {
+laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams', '$http',
+	function( $scope, $routeParams, $http ) {
 
-		$scope.eventKey = $routeParams.eventKey;
+		$http.get( 'data/' + $routeParams.eventKey + '.json' ).success( function( data ) {
+			$scope.event = data;
+		});
 	}
 ]);
