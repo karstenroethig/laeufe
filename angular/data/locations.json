@@ -1,0 +1,103 @@
+[
+	{
+		"name": "Sportforum Leipzig",
+		"latitude": 51.34631,
+		"longitude": 12.35065,
+		"events": [
+			{
+				"key": "2010-firmenlauf-leipzig",
+				"name": "3. Leipziger Firmenlauf (2010)"
+			},
+			{
+				"key": "2011-firmenlauf-leipzig",
+				"name": "4. Leipziger Firmenlauf (2011)"
+			},
+			{
+				"key": "2012-firmenlauf-leipzig",
+				"name": "5. Leipziger Firmenlauf (2012)"
+			},
+			{
+				"key": "2013-firmenlauf-leipzig",
+				"name": "6. Leipziger Firmenlauf (2013)"
+			}
+		]
+	},
+	{
+		"name": "Markkleeberger See",
+		"latitude": 51.25534,
+		"longitude": 12.42442,
+		"events": [
+			{
+				"key": "2012-cross-de-luxe",
+				"name": "CROSS DE LUXE 2012"
+			},
+			{
+				"key": "2013-cross-de-luxe",
+				"name": "CROSS DE LUXE 2013"
+			},
+			{
+				"key": "2014-cross-de-luxe",
+				"name": "CROSS DE LUXE 2014"
+			}
+		]
+	},
+	{
+		"name": "Fürsten Forest, Fürstenau",
+		"latitude": 52.53311,
+		"longitude": 7.65893,
+		"events": [
+			{
+				"key": "2013-tough-mudder-nordwestdeutschland",
+				"name": "Tough Mudder - Nordwestdeutschland 2013"
+			}
+		]
+	},
+	{
+		"name": "Lausitzring, Klettwitz",
+		"latitude": 51.53698,
+		"longitude": 13.92824,
+		"events": [
+			{
+				"key": "2013-tough-mudder-berlin-brandenburg",
+				"name": "Tough Mudder - Berlin-Brandenburg 2013"
+			},
+			{
+				"key": "2014-tough-mudder-berlin-brandenburg",
+				"name": "Tough Mudder - Berlin-Brandenburg 2014"
+			}
+		]
+	},
+	{
+		"name": "Olympiapark, München",
+		"latitude": 48.1729,
+		"longitude": 11.5438,
+		"events": [
+			{
+				"key": "2014-spartan-race-sprint-muenchen",
+				"name": "Spartan Race - München (Sprint) 2014"
+			}
+		]
+	},
+	{
+		"name": "Nürburgring, Nürburg",
+		"latitude": 50.333909,
+		"longitude": 6.94706,
+		"events": [
+			{
+				"key": "2014-fishermans-friend-strongmanrun",
+				"name": "Fisherman's Friend StrongmanRun 2014"
+			}
+		]
+	},
+	{
+		"name": "Pippingford Park, East Sussex, UK",
+		"latitude": 51.05738,
+		"longitude": 0.05457,
+		"events": [
+			{
+				"key": "2014-spartan-race-beast-south-london",
+				"name": "Spartan Race - South London (Beast) 2014"
+			}
+		]
+	}
+]
