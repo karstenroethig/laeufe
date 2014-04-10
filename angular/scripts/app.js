@@ -16,6 +16,10 @@ laeufeApp.config( [ '$routeProvider',
 				templateUrl: 'templates/event-detail.html',
 				controller: 'EventDetailController'
 			}).
+			when( '/map', {
+				templateUrl: 'templates/map.html',
+				controller: 'MapController'
+			}).
 			otherwise( {
 				redirectTo: '/events'
 			});

@@ -24,3 +24,10 @@ laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams
 		});
 	}
 ]);
+
+laeufeControllers.controller( 'MapController', [ '$scope', '$http',
+	function( $scope, $http ) {
+
+		$scope.locations = [];
+	}
+]);
