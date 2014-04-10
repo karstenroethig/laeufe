@@ -29,5 +29,9 @@ laeufeControllers.controller( 'MapController', [ '$scope', '$http',
 	function( $scope, $http ) {
 
 		$scope.locations = [];
+
+		$http.get( 'data/locations.json' ).success( function( data ) {
+			$scope.locations = data;
+		});
 	}
 ]);
