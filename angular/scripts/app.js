@@ -2,7 +2,8 @@
 
 var laeufeApp = angular.module( 'laeufeApp', [
 	'ngRoute',
-	'laeufeControllers'
+	'laeufeControllers',
+	'laeufeFilters'
 ]);
 
 laeufeApp.config( [ '$routeProvider',
