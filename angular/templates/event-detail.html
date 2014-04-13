@@ -12,4 +12,33 @@
 	</div>
 </nav>
 
-TODO: detail view for {{eventKey}}
+<div class="jumbotron">
+	<div class="container">
+		<h1>{{event.name}}</h1>
+		<p>{{event.date}}, {{event.location.name}}</p>
+	</div>
+</div>
+
+<div class="container">
+	
+	<div class="row">
+		<div class="col-md-4">
+			<dl class="dl-horizontal">
+				<dt>Team</dt>
+				<dd>{{event.team}}</dd>
+				<dt>Startzeit</dt>
+				<dd>{{event.startTime}}</dd>
+				<dt>Startnummer</dt>
+				<dd>{{event.startNumber}}</dd>
+				<dt>Distanz</dt>
+				<dd>{{event.distance}}</dd>
+				<dt>Zeit</dt>
+				<dd>{{event.time}}</dd>
+			</dl>
+		</div>
+		<div class="col-md-8">
+			<div id="map" style="width: 600px; height: 400px; background-color: green;"></div>
+		</div>
+	</div>
+	
+</div>

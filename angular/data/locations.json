@@ -90,6 +90,17 @@
 		]
 	},
 	{
+		"name": "Serengeti Park, Hodenhagen",
+		"latitude": 52.754,
+		"longitude": 9.6205,
+		"events": [
+			{
+				"key": "2014-survival-run",
+				"name": "Survival Run 2014"
+			}
+		]
+	},
+	{
 		"name": "Pippingford Park, East Sussex, UK",
 		"latitude": 51.05738,
 		"longitude": 0.05457,
@@ -97,6 +108,17 @@
 			{
 				"key": "2014-spartan-race-beast-south-london",
 				"name": "Spartan Race - South London (Beast) 2014"
+			}
+		]
+	},
+	{
+		"name": "Fockeberg, Leipzig",
+		"latitude": 51.3187,
+		"longitude": 12.3655,
+		"events": [
+			{
+				"key": "2014-fockeberglauf",
+				"name": "47. Fockeberglauf (2014)"
 			}
 		]
 	}
