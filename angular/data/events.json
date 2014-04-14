@@ -120,6 +120,18 @@
 		"finshed": false
 	},
 	{
+		"key": "2014-firmenlauf-leipzig",
+		"name": "7. Commerzbank Firmenlauf",
+		"date": "04.06.2014",
+		"startTime": "19:00",
+		"location": "Sportforum, Leipzig",
+		"distance": "5 km",
+		"time": "",
+		"costs": "0,00 €",
+		"age": 11,
+		"finshed": false
+	},
+	{
 		"key": "2014-spartan-race-super-koeln",
 		"name": "Spartan Race - Köln (Super)",
 		"date": "28.06.2014",
@@ -128,7 +140,7 @@
 		"distance": "13+ km",
 		"time": "",
 		"costs": "62,75 €",
-		"age": 11,
+		"age": 12,
 		"finshed": false
 	},
 	{
@@ -140,7 +152,7 @@
 		"distance": "18+ km",
 		"time": "",
 		"costs": "50,00 €",
-		"age": 12,
+		"age": 13,
 		"finshed": false
 	},
 	{
@@ -152,7 +164,7 @@
 		"distance": "2 x 8 km",
 		"time": "",
 		"costs": "49,00 €",
-		"age": 13,
+		"age": 14,
 		"finshed": false
 	},
 	{
@@ -164,7 +176,7 @@
 		"distance": "2 x 8 km",
 		"time": "",
 		"costs": "32,00 €",
-		"age": 14,
+		"age": 15,
 		"finshed": false
 	},
 	{
@@ -176,7 +188,7 @@
 		"distance": "20+ km",
 		"time": "",
 		"costs": "75,52 €",
-		"age": 15,
+		"age": 16,
 		"finshed": false
 	},
 	{
@@ -188,7 +200,7 @@
 		"distance": "12 km (6 Runden)",
 		"time": "",
 		"costs": "5,00 €",
-		"age": 16,
+		"age": 17,
 		"finshed": false
 	}
 ]
