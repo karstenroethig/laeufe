@@ -6,7 +6,7 @@ laeufeControllers.controller( 'EventListController', [ '$scope', '$http',
 	function( $scope, $http ) {
 
 		$scope.query = '';
-		$scope.order = '-age';
+		$scope.order = '-date';
 
 		$scope.events = [];
 
