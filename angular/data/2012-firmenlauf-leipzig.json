@@ -1,9 +1,9 @@
 {
 	"name": "5. Commerzbank Firmenlauf",
-	"team": "???",
+	"team": null,
 	"date": "20. Juni 2012",
-	"startTime": "???",
-	"startNumber": "???",
+	"startTime": null,
+	"startNumber": null,
 	"location": {
 		"name": "Sportforum, Leipzig",
 		"latitude": 51.34631,

@@ -1,9 +1,9 @@
 {
 	"name": "6. Commerzbank Firmenlauf",
-	"team": "???",
+	"team": null,
 	"date": "10. Juli 2013",
 	"startTime": "19:00",
-	"startNumber": "???",
+	"startNumber": null,
 	"location": {
 		"name": "Sportforum, Leipzig",
 		"latitude": 51.34631,

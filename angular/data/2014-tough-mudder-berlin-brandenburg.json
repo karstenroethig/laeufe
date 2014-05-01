@@ -3,12 +3,12 @@
 	"team": "Beavis and Mud-Head",
 	"date": "27. Juli 2014",
 	"startTime": "11:00",
-	"startNumber": "???",
+	"startNumber": null,
 	"location": {
 		"name": "Lausitzring, Klettwitz",
 		"latitude": 51.53698,
 		"longitude": 13.92824
 	},
 	"distance": "18+ km",
-	"time": "???"
+	"time": null
 }

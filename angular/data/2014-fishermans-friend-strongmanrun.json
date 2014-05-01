@@ -1,6 +1,6 @@
 {
 	"name": "Fisherman's Friend StrongmanRun",
-	"team": "???",
+	"team": null,
 	"date": "10. Mai 2014",
 	"startTime": "13:00",
 	"startNumber": "1610",
@@ -10,5 +10,5 @@
 		"longitude": 6.94706
 	},
 	"distance": "2 x 11 km",
-	"time": "???"
+	"time": null
 }

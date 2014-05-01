@@ -83,7 +83,7 @@
 		"dateString": "19.10.2013 12:40",
 		"location": "Lausitzring, Klettwitz",
 		"distance": "18+ km",
-		"time": "???",
+		"time": null,
 		"costs": "112,82 €",
 		"finshed": true
 	},
@@ -94,7 +94,7 @@
 		"dateString": "12.04.2014 10:45",
 		"location": "Olympiapark, München",
 		"distance": "5+ km",
-		"time": "",
+		"time": null,
 		"costs": "47,00 €",
 		"finshed": true
 	},
@@ -105,7 +105,7 @@
 		"dateString": "10.05.2014 13:00",
 		"location": "Nürburgring, Nürburg",
 		"distance": "2 x 11 km",
-		"time": "",
+		"time": null,
 		"costs": "119,90 €",
 		"finshed": false
 	},
@@ -116,7 +116,7 @@
 		"dateString": "04.06.2014 19:00",
 		"location": "Sportforum, Leipzig",
 		"distance": "5 km",
-		"time": "",
+		"time": null,
 		"costs": "0,00 €",
 		"finshed": false
 	},
@@ -127,7 +127,7 @@
 		"dateString": "28.06.2014 10:30",
 		"location": "Köln",
 		"distance": "13+ km",
-		"time": "",
+		"time": null,
 		"costs": "62,75 €",
 		"finshed": false
 	},
@@ -138,7 +138,7 @@
 		"dateString": "27.07.2014 11:00",
 		"location": "Lausitzring, Klettwitz",
 		"distance": "18+ km",
-		"time": "",
+		"time": null,
 		"costs": "50,00 €",
 		"finshed": false
 	},
@@ -149,7 +149,7 @@
 		"dateString": "13.09.2014 13:00",
 		"location": "Serengeti Park, Hodenhagen",
 		"distance": "2 x 8 km",
-		"time": "",
+		"time": null,
 		"costs": "49,00 €",
 		"finshed": false
 	},
@@ -160,7 +160,7 @@
 		"dateString": "27.09.2014 12:00",
 		"location": "Markkleeberger See",
 		"distance": "2 x 8 km",
-		"time": "",
+		"time": null,
 		"costs": "32,00 €",
 		"finshed": false
 	},
@@ -171,7 +171,7 @@
 		"dateString": "11.10.2014 11:30",
 		"location": "Pippingford Park, East Sussex, UK",
 		"distance": "20+ km",
-		"time": "",
+		"time": null,
 		"costs": "75,52 €",
 		"finshed": false
 	},
@@ -182,7 +182,7 @@
 		"dateString": "01.11.2014 10:00",
 		"location": "Fockeberg, Leipzig",
 		"distance": "12 km (6 Runden)",
-		"time": "",
+		"time": null,
 		"costs": "5,00 €",
 		"finshed": false
 	}

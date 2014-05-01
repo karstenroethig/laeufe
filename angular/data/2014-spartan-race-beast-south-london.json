@@ -1,14 +1,14 @@
 {
 	"name": "Spartan Race - South London (Beast)",
-	"team": "???",
+	"team": null,
 	"date": "11. Oktober 2014",
 	"startTime": "11:30",
-	"startNumber": "???",
+	"startNumber": null,
 	"location": {
 		"name": "Pippingford Park, East Sussex, UK",
 		"latitude": 51.05738,
 		"longitude": 0.05457
 	},
 	"distance": "20+ km",
-	"time": "???"
+	"time": null
 }

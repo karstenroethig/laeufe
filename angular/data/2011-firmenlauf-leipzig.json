@@ -1,9 +1,9 @@
 {
 	"name": "4. Commerzbank Firmenlauf",
-	"team": "???",
+	"team": null,
 	"date": "07. Juni 2011",
 	"startTime": "19:00",
-	"startNumber": "???",
+	"startNumber": null,
 	"location": {
 		"name": "Sportforum, Leipzig",
 		"latitude": 51.34631,

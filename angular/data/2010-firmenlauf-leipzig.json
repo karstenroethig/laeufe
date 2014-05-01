@@ -1,9 +1,9 @@
 {
 	"name": "3. Commerzbank Firmenlauf",
-	"team": "???",
+	"team": null,
 	"date": "09. Juni 2010",
-	"startTime": "???",
-	"startNumber": "???",
+	"startTime": null,
+	"startNumber": null,
 	"location": {
 		"name": "Sportforum, Leipzig",
 		"latitude": 51.34631,

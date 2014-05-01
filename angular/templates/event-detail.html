@@ -24,16 +24,16 @@
 	<div class="row">
 		<div class="col-md-4">
 			<dl class="dl-horizontal">
-				<dt>Team</dt>
-				<dd>{{event.team}}</dd>
-				<dt>Startzeit</dt>
-				<dd>{{event.startTime}}</dd>
-				<dt>Startnummer</dt>
-				<dd>{{event.startNumber}}</dd>
-				<dt>Distanz</dt>
-				<dd>{{event.distance}}</dd>
-				<dt>Zeit</dt>
-				<dd>{{event.time}}</dd>
+				<dt ng-if="event.team">Team</dt>
+				<dd ng-if="event.team">{{event.team}}</dd>
+				<dt ng-if="event.startTime">Startzeit</dt>
+				<dd ng-if="event.startTime">{{event.startTime}}</dd>
+				<dt ng-if="event.startNumber">Startnummer</dt>
+				<dd ng-if="event.startNumber">{{event.startNumber}}</dd>
+				<dt ng-if="event.distance">Distanz</dt>
+				<dd ng-if="event.distance">{{event.distance}}</dd>
+				<dt ng-if="event.time">Zeit</dt>
+				<dd ng-if="event.time">{{event.time}}</dd>
 			</dl>
 		</div>
 		<div class="col-md-8">
