@@ -104,10 +104,10 @@
 		"date": 1399719600000,
 		"dateString": "10.05.2014 13:00",
 		"location": "Nürburgring, Nürburg",
-		"distance": "2 x 11 km",
-		"time": null,
-		"costs": "119,90 €",
-		"finshed": false
+		"distance": "2 x 12 km",
+		"time": "3:13:39",
+		"costs": "94,90 €",
+		"finshed": true
 	},
 	{
 		"key": "2014-firmenlauf-leipzig",
