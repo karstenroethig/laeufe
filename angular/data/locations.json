@@ -125,5 +125,16 @@
 				"name": "47. Fockeberglauf (2014)"
 			}
 		]
+	},
+	{
+		"name": "Motocross Bielstein, Wiehl",
+		"latitude": 50.955130,
+		"longitude": 7.493133
+		"events": [
+			{
+				"key": "2014-spartan-race-super-koeln",
+				"name": "Spartan Race - Köln (Super) 2014"
+			}
+		]
 	}
 ]
