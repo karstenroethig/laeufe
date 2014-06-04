@@ -53,7 +53,7 @@
 		"date": 1373475600000,
 		"dateString": "10.07.2013 19:00",
 		"location": "Sportforum, Leipzig",
-		"distance": "5 km",
+		"distance": "4,8 km",
 		"time": "00:19:29",
 		"costs": "0,00 €",
 		"finshed": true,
@@ -125,10 +125,10 @@
 		"date": 1401901200000,
 		"dateString": "04.06.2014 19:00",
 		"location": "Sportforum, Leipzig",
-		"distance": "5 km",
-		"time": null,
+		"distance": "4,8 km",
+		"time": "00:18:14",
 		"costs": "0,00 €",
-		"finshed": false,
+		"finshed": true,
 		"laufKey": "firmenlauf-leipzig"
 	},
 	{

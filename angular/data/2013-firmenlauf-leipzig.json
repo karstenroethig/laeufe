@@ -1,6 +1,6 @@
 {
 	"name": "6. Commerzbank Firmenlauf",
-	"team": null,
+	"team": "Run As Java Application",
 	"date": "10. Juli 2013",
 	"startTime": "19:00",
 	"startNumber": null,
@@ -9,6 +9,6 @@
 		"latitude": 51.34631,
 		"longitude": 12.35065
 	},
-	"distance": "5 km",
+	"distance": "4,8 km",
 	"time": "00:19:29"
 }
