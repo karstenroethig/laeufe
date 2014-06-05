@@ -1,9 +1,9 @@
 {
 	"name": "3. Commerzbank Firmenlauf",
-	"team": null,
+	"team": "Die Ehrgeizigsten",
 	"date": "09. Juni 2010",
-	"startTime": null,
-	"startNumber": null,
+	"startTime": "19:00",
+	"startNumber": "1701",
 	"location": {
 		"name": "Sportforum, Leipzig",
 		"latitude": 51.34631,
