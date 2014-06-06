@@ -10,5 +10,14 @@
 		"longitude": 12.3655
 	},
 	"distance": "12 km (6 Runden)",
-	"time": null
+	"time": null,
+	"costs": {
+		"total": "5,00 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "5,00 €"
+			}
+		]
+	}
 }

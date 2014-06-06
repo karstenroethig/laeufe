@@ -10,5 +10,234 @@
 		"longitude": 6.94706
 	},
 	"distance": "2 x 12 km",
-	"time": "3:13:39"
+	"time": "3:13:39",
+	"costs": {
+		"total": "94,90 €",
+		"positions": [
+			{
+				"description": "Startgeld (Starter 1 - 3.000)",
+				"subTotal": "79,00 €"
+			},
+			{
+				"description": "Aufdruck auf der Startnummer",
+				"subTotal": "1,00 €"
+			},
+			{
+				"description": "Vorabversand der Startunterlagen",
+				"subTotal": "8,90 €"
+			},
+			{
+				"description": "Chip zur Zeitmessung",
+				"subTotal": "31,00 €"
+			},
+			{
+				"description": "Erstattung für Rückgabe des Chips",
+				"subTotal": "-25,00 €"
+			}
+		]
+	},
+	"obstacles": [
+		{
+			"name": "Hindernis 1: MUDDYKURE",
+			"description": "Beim ersten Hindernis jagen wir Euch durch 4 harte Gräben. Aber Vorsicht. Einfach Durchmarschieren könnt Ihr hier vergessen. Die 1,5-m-tiefen Gräben sind abwechselnd befüllt: Zunächst seifen wir Euch im 1. Graben richtig ein, um Euch dann eine ordentliche Schlammpackung im 2. Graben zu verpassen. Dann wieder ne fette Ladung Schaum und damit Euch das Blut in den Adern gefriert, folgt eiskaltes Wasser im letzten Graben.",
+			"facts": [
+				"ca. 60.000 – 80.000 Liter Matsch",
+				"ca. 120.000 Liter Schaum",
+				"ca. 60.000 – 80.000 Liter Wasser",
+				"4 Schaumkanonen inkl. Traverse",
+				"450 m2 Folie",
+				"Breite: 5 m",
+				"Länge: 20 m",
+				"Tiefe: ca. 1,50 m"
+			]
+		},
+		{
+			"name": "Hindernis 2: KNIEMANDLAND",
+			"description": "Runter mit Euch!!! Hindernis 2 zwingt Euch gnadenlos auf die Knie. Ihr steht 5 knallharten Herausforderungen gegenüber, die Ihr durchkrabbeln müsst, denn wir werden Euch hier mal so richtig quälen: Es wird glatt, dann werdet Ihr nass, es folgt Strom, dann wieder Wasser, dann wieder Strom. Und immer schön unten bleiben, sonst hängt Ihr im Netz. Und übrigens – nichts für StrongmanRunner mit Herzschrittmacher...",
+			"facts": [
+				"5 Netze (jeweils 5 x 30m)",
+				"Folie",
+				"Wasser",
+				"Stromgeneratoren",
+				"40 Holzunterbauten"
+			]
+		},
+		{
+			"name": "Hindernis 3: IRRVANA",
+			"description": "Was auf den ersten Blick aussieht, wie ein Spielplatz für Große, wird Euch in Wirklichkeit an Eure Grenzen bringen. Euch erwartet ein Irrgarten voll mit Reifen, Strohballen und Hürden, die wir uns aus einem Paintball-Battlefield extra für Euch ausgeliehen haben. Aber natürlich darf auch Wasser nicht fehlen. Geschicklichkeit und Schnelligkeit sind hier das oberste Credo.",
+			"facts": [
+				"Feldgröße ca. 1.500 m2",
+				"ca. 300 m2 Folie",
+				"30 Strohballen",
+				"Autoreifen",
+				"Wasser",
+				"Konfettikanone",
+				"Paintball-Hürden"
+			]
+		},
+		{
+			"name": "Hindernis 4: 50 SHADES OF MUD",
+			"description": "Jetzt wird’s hart und dreckig – vor auch liegt die sagenumwobene Matschgrube, über die wir in einer Höhe von 80 cm ein Netz gespannt haben. Um nicht im Schlamm zu versinken, müsst Ihr schnell sein und Eure Kraft aus allen vier Gliedmaßen nutzen – nur dann habt Ihr eine Chance, das 50 m lange Hindernis als echter StrongmanRunner zu überstehen...",
+			"facts": [
+				"Matsch",
+				"80 Holzunterbauten",
+				"Netz 30 x 50 m",
+				"Wasser",
+				"Breite 30 m",
+				"Länge 50 m"
+			]
+		},
+		{
+			"name": "Hindernis 5: EIFLER SUDWAND",
+			"description": "Euch erwartet die legendäre und viel gehasste Südschleife. Als wäre der Berg mit seinen 900 Metern Strecke und den 100 Höhenmetern nicht schon genug für Eure harten Waden, müssen auch noch vier Hürden bestehend aus Strohballen und Reifen überwunden werden. Und wir legen noch einen ON TOP und haben als kleines I-Tüfpelchen noch ein paar hundert Autoreifen besorgt, die legen wir Euch noch davor!!! STRENGT EUCH AN!!!",
+			"facts": [
+				"Länge ca. 900 m",
+				"ca. 100 Höhenmeter",
+				"4 Hürden á 80 cm Höhe",
+				"ca. 500 Autoreifen"
+			]
+		},
+		{
+			"name": "Hindernis 6: BUTT SPENCER",
+			"description": "Sie mag Euch bekannt vorkommen, aber ein echter Fisherman’s Friend StrongmanRun wäre nichts ohne die extrem steile Rutsche, die Eurem Hinterteil den letzten Rest gibt. Und wir wollen Euch Jaulen hören. Damit Ihr ja nicht ans Bremsen denkt, wird mit Wasser ordentlich nachgeholfen. Schließlich sollen alle unten ankommen. Und damit’s nicht zu eng wird, gibt’s das Ganze wieder in schön breiter Ausführung.",
+			"facts": [
+				"Länge ca. 35 m",
+				"Breite 35 m",
+				"ca. 1.300 qm Folie",
+				"Tausende Liter Wasser",
+				"Holzkonstruktion",
+				"Strohballen",
+				"Aufbauzeit: mehrere Tage"
+			]
+		},
+		{
+			"name": "Hindernis 7: KNIEMINATOR",
+			"description": "Bei diesem Hindernis tun wir ordentlich was für Euren Kreislauf, denn Hindernis 7 zwingt Euch unerbittlich runter auf die empfindlichen Knie. Es gilt hierbei, möglichst schnell hindurch zu kriechen, ohne dass Eure Knie sich in Einzelteile auflösen, denn der Untergrund besteht aus Kies. Kopf hoch is’ nicht, denn scharfkantige Gitter machen ein Aufstehen unmöglich. Maximale Höhe 80 cm. Also hört auf zu heulen und rennt!!!",
+			"facts": [
+				"Kies",
+				"ca. 125 qm Gitter",
+				"ca. 20 Strohballen á 350 kg",
+				"Breite: ca. 25 m",
+				"Länge: ca. 5 m",
+				"Höhe: ca. 0,80 cm",
+				"Material: Kies, Gitter, Stroh"
+			]
+		},
+		{
+			"name": "Hindernis 8: EIGERSTROHWAND",
+			"description": "Na, fühlt Ihr Eure Kräfte schon schwinden? Aber wir lassen Euch nicht in Ruhe. Es geht ein weiteres Mal hinauf, nämlich auf 2 fette Überseecontainer. Aber so gemein wollen wir nicht sein und haben Euch Strohballen davor gepackt. Sammelt Eure Kräfte, überwindet die Stufen aus Stroh und zieht Euch hoch aufs 8. Hindernis, dann schnell drüber rennen und hinten wieder runterklettern. Und, war das wirklich so schwer? NO PAIN – NO GLORY...",
+			"facts": [
+				"Höhe 4,80 m",
+				"Breite 12 m",
+				"Länge ca. 20 m",
+				"ca. 170 Strohballen",
+				"2 Überseecontainer"
+			]
+		},
+		{
+			"name": "Hindernis 9: ?",
+			"description": "\"Klettern für Große\" heißt es bei Hindernis 9! Es warten 20 harte Meter auf euch. Um auf die Überseecontainer hinauf und wieder hinunter zu kommen, müsst ihr einige Meter auf Netzen zurücklegen. Dabei ist Vorsicht geboten: Wer nicht aufpasst kann schnell abrutschen und in eines der Löcher fallen. Hier heißt es also nicht Augen zu, sondern Augen auf und durch!",
+			"facts": [
+				"Breite: ca. 12 m",
+				"Länge: ca. 20 m",
+				"2 große Überseecontainer",
+				"2 Netze",
+				"12 Strohballen"
+			]
+		},
+		{
+			"name": "Hindernis 10: ?",
+			"description": "Wenn Dein Körper um Gnade winselt, halt die Ohren zu!!! Denn kaum habt Ihr ein Hindernis hinter Euch gelassen, erwartet Euch schon die nächste Qual. Wir tun was für Euren Kreislauf, denn RAUF und RUNTER sind bei diesem Hindernis das Motto. Wir haben 5 große Holzhürden aufgebaut und dazwischen 5 Netze gespannt. Über die Hürden müsst Ihr rüber klettern, unter den Netzen müsst Ihr hindurch kriechen. So kommt Ihr ordentlich in Schwung.",
+			"facts": [
+				"Maße: ca. 12 m breit",
+				"30 Holzhürden zu 5 großen Hürden aufgebaut",
+				"5 Netze á 5 x 12 m",
+				"Höhe Hürde ca. 1,75m",
+				"Höhe Netze ca. 80 cm"
+			]
+		},
+		{
+			"name": "Hindernis 11: ?",
+			"description": "Das Intersport-Hindernis erfordert nicht nur Mut und Kraft… Hier ist vor allem BRAIN und GESCHICKLICHKEIT gefragt – also genau das richtige für Euch, StrongmanRunner!!! 24 Baumstämme mit einer Länge von 7 Metern und einem Durchmesser von ca. 40 Zentimetern liegen in unterschiedlichen Höhen aufgestapelt auf Strohballen vor Euch. Aber das war’s noch nicht. Insgesamt werden 500 Reifen lose auf die Stämme aufgezogen und Ihr müsst sowohl drunter als auch drüber her. Gar nicht so einfach, wenn sich die verdammten Dinger ständig drehen… Seid Ihr REIF dafür???",
+			"facts": [
+				"24 Baumstämme a 7 m lang und 40 cm Durchmesser",
+				"ca. 280 Strohballen",
+				"ca. 500 Reifen",
+				"Breite: 12 m",
+				"Höhe bis ca. 3 m",
+				"Länge: 40 m"
+			]
+		},
+		{
+			"name": "Hindernis 12: ?",
+			"description": "Es wird mal wieder richtig dreckig!!! Eine tiefliegende Trusskonstruktionen zwingt Euch unerbittlich auf den Boden. Damit es nicht so hart wird, haben wir ordentlich Schlamm reingekippt. Und sorry, drüber springen könnt Ihr vergessen. Ihr müsst Euch schön durch den Schlamm kämpfen. Und damit auch ja keiner abhaut, sind die Seiten mit Leitplanken aus Beton gesichert.",
+			"facts": [
+				"360 Kubikmeter Schlamm",
+				"Truss-Konstruktion mit Querbalken",
+				"Leitplanken aus Beton",
+				"Reifen",
+				"Stroh",
+				"Breite 10 m",
+				"Länge 30 m"
+			]
+		},
+		{
+			"name": "Hindernis 13: WALKING WET",
+			"description": "Leute. Ihr seid dreckig und verschwitzt? Kein Problem. Bei diesem Hindernis gibt’s ne ordentliche Abkühlung und gewaschen werdet Ihr gleich mit. Vor Euch liegt unser legendäres Wasserhindernis. Das Becken hat eine Länge von 40 m, durch die Ihr Euch durchkämpfen müsst. Bei einer einer Tiefe von 2 m gibt’s aber nicht viele Alternativen für Euch, außer Kopf hoch und schwimmen, schwimmen, schwimmen! Habt Ihr’s drauf??!!",
+			"facts": [
+				"Schwimmbecken",
+				"Länge: 40 m",
+				"Breite: 15 m",
+				"Tiefe: 2m",
+				"Temperatur: eisig!",
+				"Benötigtes Werkzeug: Bagger"
+			]
+		},
+		{
+			"name": "Hindernis 14: BOXENSHOCK",
+			"description": "Nach der ganzen Krabbelei und Schwimmerei ist es nun an der Zeit, Kampfkunst und Beweglichkeit auf die Probe stellen. Vor Euch sind 56 Boxsäcke auf einer Fläche von insgesamt 300m2 aufgehängt, die beim Durchlaufen natürlich in Schwingung geraten. Also passt gut auf Eure Körper auf, oder Ihr werdet von blauen Flecken übersät sein. Gewürzt wird das Hindernis mit Fäden von oben, die es zischend in sich haben. Leute – Boxt Euch durch!!!",
+			"facts": [
+				"56 Boxsäcke",
+				"Trusskonstruktion",
+				"Strom",
+				"Breite: ca. 10 m",
+				"Länge: ca. 30 m"
+			]
+		},
+		{
+			"name": "Hindernis 15: BROOKS GUMMILICIOUS",
+			"description": "Vor Euch liegt ein schwarzes Meer aus Reifen. Um genau zu sein, es sind 14.000 Autoreifen und glaubt uns, es gibt Angenehmeres, als da durch zu rennen. Schnell vorwärts kommt man sowieso nicht so recht, denn jeder Meter ist ein Kampf über die wackelige Oberfläche. Passt auf Eure Fußgelenke auf, denn Umknicken ist schnell passiert. Und das macht das Weiterlaufen nicht einfacher.",
+			"facts": [
+				"14.000 Autoreifen",
+				"Länge: ca. 70 m",
+				"Breite: ca. 18 m"
+			]
+		},
+		{
+			"name": "Hindernis 16: MOUNT BUTTMORE",
+			"description": "Wer von oben rutschen will, der muss erst mal nach oben kommen. Die erste Hürde besteht aus Strohballen. Die nötige Höhe erhalten wir mit Hilfe von übereinander gebauten Überseecontainern. Und zwar in zwei großen Stufen. Dazwischen hängt ein Netz. Erst, wenn Ihr das Netz überwunden habt, dürft Ihr auf die zweite Stufe und von da an geht’s auf dem Hintern endlich bergab. Aber Vorsicht, wer Höhenangst hat, der sollte die Augen schließen! RUTSCH ON!",
+			"facts": [
+				"Breite ca. 18m",
+				"Länge: ca. 100 m",
+				"18 Überseecontainer",
+				"1 Netz",
+				"Holzkonstruktion",
+				"Autoreifen",
+				"ca. 90 Strohballen",
+				"Rutschfläche/Folie ca. 630 m2"
+			]
+		},
+		{
+			"name": "Hindernis 17: ENDGEGNER",
+			"description": "Ein letztes Mal zusammenreißen, ein letztes Mal die Kräfte sammeln und rauf mit Euch aufs letzte Hindernis. Und wieder sind Eure Kletterkünste gefragt. Greift in die Holzkonstruktion, zieht Euch hoch auf die Überseecontainer, dann geht es noch zwei Mal hinauf auf eine Hürde aus Strohballen und Ihr habt es geschafft. Zumindest bis in Runde 2!!! DON’T CRY – RUN!!!",
+			"facts": [
+				"Holzkonstruktion",
+				"2 Überseecontainer",
+				"145 Strohballen",
+				"Breite: ca. 12 m",
+				"Länge: ca. 20 m",
+				"Höhe: ca. 3 m"
+			]
+		}
+	]
 }

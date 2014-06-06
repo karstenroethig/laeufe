@@ -10,5 +10,18 @@
 		"longitude": 7.493133
 	},
 	"distance": "13+ km",
-	"time": null
+	"time": null,
+	"costs": {
+		"total": "62,75 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "59,00 €"
+			},
+			{
+				"description": "Transaktionsbearbeitungsgebühr",
+				"subTotal": "3,75 €"
+			}
+		]
+	}
 }

@@ -40,5 +40,56 @@
 			<div id="map" style="width: 600px; height: 400px; background-color: green;"></div>
 		</div>
 	</div>
+
+	<br/>
+
+	<div class="row" ng-if="event.costs">
+		<h1>Kosten</h1>
+		<hr/>
+		<div class="col-md-4">
+			<table class="table table-striped">
+				<thead>
+					<th>Bezeichnung</th>
+					<th class="text-right">Betrag</th>
+				</thead>
+				<tbody>
+					<tr ng-repeat="position in event.costs.positions">
+						<td>{{position.description}}</td>
+						<td class="text-right">{{position.subTotal}}</td>
+					</tr>
+					<tr>
+						<th>Gesamt</th>
+						<th class="text-right">{{event.costs.total}}</th>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+	<br/>
+
+	<div class="row" ng-if="event.obstacles">
+		<h1>Hindernisse</h1>
+		<hr/>
+		<table class="table table-striped">
+			<thead>
+				<th>Bezeichnung</th>
+				<th>Beschreibung</th>
+			</thead>
+			<tbody>
+				<tr ng-repeat="obstacle in event.obstacles">
+					<td>{{obstacle.name}}</td>
+					<td ng-if="!obstacle.facts">{{obstacle.description}}</td>
+					<td ng-if="obstacle.facts">
+						<p>{{obstacle.description}}</p>
+						<p>Facts:</p>
+						<ul>
+							<li ng-repeat="fact in obstacle.facts">{{fact}}</li>
+						</ul>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 	
 </div>

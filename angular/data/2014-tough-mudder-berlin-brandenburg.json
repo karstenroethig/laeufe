@@ -10,5 +10,18 @@
 		"longitude": 13.92824
 	},
 	"distance": "18+ km",
-	"time": null
+	"time": null,
+	"costs": {
+		"total": "50,00 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "55,00 €"
+			},
+			{
+				"description": "Rabatt für Frühanmelder",
+				"subTotal": "-5,00 €"
+			}
+		]
+	}
 }

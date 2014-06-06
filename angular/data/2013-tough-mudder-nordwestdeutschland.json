@@ -10,5 +10,100 @@
 		"longitude": 7.65893
 	},
 	"distance": "18+ km",
-	"time": "02:10:00"
+	"time": "02:10:00",
+	"costs": {
+		"total": "112,82 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "90,00 €"
+			},
+			{
+				"description": "obligatorische Versicherungsgebühr",
+				"subTotal": "15,00 €"
+			},
+			{
+				"description": "Transaktionsbearbeitungsgebühr",
+				"subTotal": "7,82 €"
+			}
+		]
+	},
+	"obstacles": [
+		{
+			"name": "Kiss Of Mud",
+			"description": "unter dem Draht robben"
+		},
+		{
+			"name": "Arctic Enema",
+			"description": "in eiskaltes Wasser springen"
+		},
+		{
+			"name": "Glory Blades",
+			"description": "über eine schräge Wand klettern"
+		},
+		{
+			"name": "Cliffhanger",
+			"description": "steilen Hügel hinaufsteigen"
+		},
+		{
+			"name": "Cage Crawl",
+			"description": "im Wasser an einem Gitter entlang ziehen"
+		},
+		{
+			"name": "Fire Walker",
+			"description": "über Feuer laufen und springen"
+		},
+		{
+			"name": "Mud Mile",
+			"description": "über Matschgräben und -hügel laufen"
+		},
+		{
+			"name": "Walk the Plank",
+			"description": "von einer Plattform springen"
+		},
+		{
+			"name": "Electric Eel",
+			"description": "Elektroschocks während man durch Wasser robbt"
+		},
+		{
+			"name": "Just the tip",
+			"description": "an einer Wand entlang hangeln"
+		},
+		{
+			"name": "Spider's Web",
+			"description": "über ein Netz klettern"
+		},
+		{
+			"name": "Fireman Carry",
+			"description": "einen Freund tragen"
+		},
+		{
+			"name": "Funky Monkey",
+			"description": "Klettergerüst entlang hangeln"
+		},
+		{
+			"name": "Berlin Walls",
+			"description": "hölzerne Wände hochklettern"
+		},
+		{
+			"name": "Dirty Ballerina",
+			"description": "über Matschhügel springen"
+		},
+		{
+			"name": "Hold Your Wood",
+			"description": "Baumstamm tragen über 400 Meter"
+		},
+		{
+			"name": "Boa Constrictor",
+			"description": "durch Plastikrohre kriechen"
+		},
+		{
+			"name": "Everest",
+			"description": "glitschige Quarterpipe"
+		},
+		{
+			"name": "Electroshock Therapy",
+			"description": "durch elektrische Drähte laufen"
+		}
+	]
 }

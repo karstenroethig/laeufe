@@ -10,5 +10,14 @@
 		"longitude": 9.6205
 	},
 	"distance": "2 x 8 km",
-	"time": null
+	"time": null,
+	"costs": {
+		"total": "49,00 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "49,00 €"
+			}
+		]
+	}
 }

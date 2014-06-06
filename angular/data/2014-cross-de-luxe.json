@@ -10,5 +10,18 @@
 		"longitude": 12.42442
 	},
 	"distance": "2 x 8 km",
-	"time": null
+	"time": null,
+	"costs": {
+		"total": "32,00 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "40,00 €"
+			},
+			{
+				"description": "Rabatt für SK-Konto (20%)",
+				"subTotal": "-8,00 €"
+			}
+		]
+	}
 }
