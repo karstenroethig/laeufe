@@ -91,5 +91,18 @@
 			</tbody>
 		</table>
 	</div>
+
+	<br/>
+
+	<div class="row" ng-if="event.newspaperArticle">
+		<h1>Zeitungsartikel</h1>
+		<hr/>
+		<h2>{{event.newspaperArticle.title}} <small>{{event.newspaperArticle.date}} ({{event.newspaperArticle.newspaperName}})</small></h2>
+		<p ng-if="event.newspaperArticle.subtitle"><strong>{{event.newspaperArticle.subtitle}}</strong></p>
+		<span ng-repeat="section in event.newspaperArticle.sections">
+			<p ng-if="section.title"><em>{{section.title}}</em></p>
+			<p ng-repeat="paragraph in section.paragraphs">{{paragraph}}</p>
+		</span>
+	</div>
 	
 </div>

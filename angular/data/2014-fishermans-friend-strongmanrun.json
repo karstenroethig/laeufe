@@ -239,5 +239,25 @@
 				"Höhe: ca. 3 m"
 			]
 		}
-	]
+	],
+	"newspaperArticle": {
+		"newspaperName": "Rhein-Zeitung >> Region >> Lokales",
+		"date": "Sonntag, 11.05.2014",
+		"title": "12.000 Extremläufer trotzen beim Strongmanrun Regen und Kälte",
+		"subtitle": "Nürburgring - 12.000 Extremläufer sind beim vierten Fisherman's Friend Strongmanrun auf dem Nürburgring an den Start gegangen. So viele wie noch nie. Und das trotz (oder grade wegen) Regen, Kälte und Temperaturen um die 10 Grad Celsius.",
+		"sections": [
+			{
+				"title": null,
+				"paragraphs": [
+					"Tausende Zuschauer haben sich das Spektakel auf den Zuschauertribünen, im Fahrerlager und auf den Feldern entlang der Strecke angeschaut.",
+					"24 Kilometer, 34 Hindernisse, 650 Höhenmeter: Damit mussten sich die Sportler auf der Strecke auseinandersetzen. Nach 1:44:25 waren die ersten Männer im Ziel (Tom Schlegel und Felix Grelak). Der viermalige Strongmanrun-Sieger Knut Höhler überquerte nach 1:57:22 den Zielstrich und wurde dieses Jahr nur 22. Schnellste Frau war Carole Koster (2:06:01).",
+					"Doch Sekunden sind für das Gros der Läufer uninteressant. Zu gewinnen gibt es sowieso nichts. Sie wollen vor allem ankommen, möglichst würdevoll sieben Grad kalten Wasser-, Schlamm- und Dreckbecken passieren, Elektroschocks ausweichen, bis zu siebeneinhalb Meter hohe Hindernisse passieren. 10.000 der 12.000 Teilnehmer waren (meist junge) Männer, viele davon verkleidet. Da rannten Ritter, Römer, Bräute, Polizisten und Hulks um die Wette, tauchten seltsame Wesen von Kopf bis Fuß in Tarnkleidung in der Eifel auf.",
+					"Auffällig war wie in den Vorjahren: Die Laune sank spätestens mit Beginn der zweiten 12-Kilometer-Runde erheblich. Von flotten Sprüchen und Jubelgeschrei wie am Start war längst nichts mehr zu hören. Selbst gute viereinnhalb Stunden nach dem Start schleppten sich noch immer einige über die Strecke, überquerten das nicht enden wollende Feld aus alten Autoreifen kurz vor dem Ziel, das Fischernetz und den siebeneinhalb Meter hohen Wall aus Heuballen. Im Ziel gab's dann immerhin das obligatorische Finisher-Shirt sowie eine warme Dusche als Belohnung.",
+					"Trotz des klitschigen Bodens und der teils gefährlichen Hindernisse gab es auch in diesem Jahr keine größeren Verletzungen. Laut Thorsten Trütgen, Pressesprecher des Deutschen Roten Kreuzes, wurden 38 Läufer ins Adenauer Krankenhaus gebracht zum Röntgen und zur ambulanten Behandlung. Trütgen: \"Das ist eine Hochleistungsveranstaltung. Die meisten Teilnehmer sind sehr austrainiert und wissen, auf was sie sich da einlassen.\"",
+					"Der Strongmanrun auf dem Nürburgring ist längst zu einem Selbstläufer geworden. Hatte der Veranstalter im zweiten Jahr noch Komiker Oliver Pocher und Ex-Box-Weltmeister Sven Ottke als Zugpferde verpflichtet, hat er das längst nicht mehr nötig. In nur 79 Stunden war der Extremlauf, den die umstrittenen Ex-Ring-Pächter Jörg Lindner und Kai Richter einst in die Eifel geholt hatten, vergangenen Herbst ausgebucht. Laut Veranstalter standen allein 27.000 Läufer auf der Warteliste.",
+					"Und so dürfte es kein Problem sein, im kommenden Jahr eine fünfte Auflage in der Eifel auszurichten. Auch wenn der Nürburgring mit Capricorn-Geschäftsführer Robertino Wild inzwischen einen neuen Eigentümer hat."
+				]
+			}
+		]
+	}
 }

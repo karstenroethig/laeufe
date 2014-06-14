@@ -23,5 +23,34 @@
 				"subTotal": "3,00 €"
 			}
 		]
+	},
+	"newspaperArticle": {
+		"newspaperName": "Runner’s World >> Laufevents >> Hindernislauf",
+		"date": "Samstag, 12.04.2014",
+		"title": "Spartan Race: Deutschlandpremiere in München",
+		"subtitle": "Am 12. April eroberte das Spartan Race den Olympiapark in München. Mehr als 4.000 Teilnehmer liefen über die 6km- bzw. 11km-Hindernisstrecke.",
+		"sections": [
+			{
+				"title": "Über 4.000 Spartaner bei Deutschland-Premiere",
+				"paragraphs": [
+					"Das Spartan Race München 2014 war eine tolle Veranstaltung bei sonnigem Wetter. Dadurch, dass der Olympiapark immer noch eine bekannte Attraktion in München ist, säumten viele Schaulustige die Strecke. Pünktlich ab 9 Uhr ging es auf die Strecke und ohne Pause bis um 18 Uhr hörte man auf die Frage: \"Was seid ihr?\" einstimmig den Schlachtruf \"Spartaner!\".",
+					"Bei der Deutschland-Premiere wurden ein Spartan Sprint mit mehr als 6 Kilometern Laufstrecke und 15 Hindernissen und ein Spartan Super (11 Kilometer und 21 Hindernisse) angeboten. Bei der Auswahl des Parcours rund um den Olympiaberg nutzten die Streckenplaner möglichst viele vorhandene natürliche Gegebenheiten. Zusätzlich wurden Hindernisse errichtet, die den Starterinnen und Startern alles abverlangten. Die Hindernisse hießen beispielweise \"Water weight carry\", \"Field of tires water cross\" und \"Mud Container\". Den Schluss bildete der \"Fire Jump\"."
+				]
+			},
+			{
+				"title": "Die Ergebnisse des Spartan Race München 2014",
+				"paragraphs": [
+					"In den Elite-Startfeldern sorgten die Favoriten für Furore. Beim SPARTAN SPRINT der Frauen über sechs Kilometer und elf Hindernisse siegte Tough Guy-Gewinnerin Friederike Feil vor Camile Adams aus den USA und Blanka Placzkova aus der Slowakei. Bei den Männern hatte  Paul-Ricard-SUPER-Sieger Peter Ziska (SVK) vor dem deutschen Tough Guy Knut Hoehler die Nase vorn. Dritter wurde Willer Jacobs aus Deutschland.",
+					"Bei dem längeren SPARTAN SUPER-Format gewann die US-Läuferin Camile Adams, die am Morgen schon Platz zwei beim SPARTAN SPRINT gewonnen hatte. Zweite wurde die Tschechin Dana Ferenc vor der deutschen Starterin Claudia Goesche. In einem rein deutschen Finale der Herren siegte Fabian Hirt vor Manuel Jasny. Dritter wurde der amtierende Tough Guy-Gewinner Charles Franzke.",
+					"Wie auch bei vielen anderen Serien, hat auch bei den Spartan-Läufen Fairness und Teamarbeit hohe Priorität. Wenn jemand beim Überwinden eines Hindernisses Hilfe benötigte, so konnte er sich auf Unterstützung von anderen Beteiligten verlassen."
+				]
+			},
+			{
+				"title": "Spartan Race München auch für Kinder",
+				"paragraphs": [
+					"Im Ziel erhält jeder Finisher eine Medaille. Neu im Programm ist das Spartan Juniors Race für Kinder im Alter von 4 bis 10 Jahren. Gestartet wird rund um das Festival-Gelände am Coubertinplatz. Die Mädchen und Jungen müssen dabei dem Alter entsprechend leichtere Hindernisse überwinden. Die Kinder erhalten genauso wie die erwachsenen Teilnehmer der Hauptläufe eine Medaille."
+				]
+			}
+		]
 	}
 }

@@ -10,5 +10,23 @@
 		"longitude": 12.35065
 	},
 	"distance": "4,8 km",
-	"time": "00:18:14"
+	"time": "00:18:14",
+	"newspaperArticle": {
+		"newspaperName": "LVZ-Online >> Sport >> Regionalsport",
+		"date": "Mittwoch, 4. Juni 2014",
+		"title": "Favoriten-Siege beim Leipziger Firmenlauf 2014 – Mehr als 10.000 Starter am Sportforum",
+		"subtitle": null,
+		"sections": [
+			{
+				"title": null,
+				"paragraphs": [
+					"Leipzig. Großer Auflauf am Sportforum: Mehr als 10.000 Teilnehmer sind am Mittwochabend beim 7. Leipziger Firmenlauf an den Start gegangen. Aus zahlreichen Unternehmen und Institutionen nahmen Teams die knapp fünf Kilometer lange Strecke in Angriff. Wie schon im vergangenen Jahr konnte der Runners Point die Gruppenwertung der Frauen und Männer gewinnen. Im gemischten Team lag dieses Mal jedoch ein anderer Favorit vorn: der Leipziger Laufladen. In dieser Kategorie kam der Runners Point auf Rang zwei, vor dem Institut für Angewandte Trainingswissenschaft.",
+					"In der Team-Wertung der Frauen belegten Medandsports sowie die Helios Kliniken Ost die Plätze zwei und drei, bei den Herren standen abermals der Leipziger Laufladen und das Institut für Angewandte Trainingswissenschaft auf dem Treppchen.",
+					"Die Einzelwertung der Männer entschied Jakob Stiller in 13:15 Minuten für sich. Hinter ihm kamen Lars Roessler (13:51) und Jörg Matthé (13:58) ins Ziel. Schnellste Frau des Tages war Juliane Meyer (15:30) vor Sandra Boitz (15:39) und Alinde Hamacher (15:46).",
+					"In den einzelnen Kategorien werden beispielsweise auch die schnellste Chefin, Sekretärin oder der schnellste Azubi aufgelistet. Die Ergebnisse können auf der Internetseite des Firmenlaufs nachgesehen werden.",
+					"Während der Veranstaltung waren die Laufroute und weitere Straßen im Umfeld für den Verkehr gesperrt. Außerdem steht der Stadionvorplatz noch bis Donnerstag nicht als Parkfläche zur Verfügung."
+				]
+			}
+		]
+	}
 }

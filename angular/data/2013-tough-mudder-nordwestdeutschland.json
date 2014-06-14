@@ -105,5 +105,35 @@
 			"name": "Electroshock Therapy",
 			"description": "durch elektrische Drähte laufen"
 		}
-	]
+	],
+	"newspaperArticle": {
+		"newspaperName": "Osnabrücker Zeitung >> Lokales >> Fürstenau",
+		"date": "Montag, 15. Juli 2013",
+		"title": "Tough Mudder im Fürsten Forest",
+		"subtitle": "Fürstenau. Kletter da nicht rauf! Spring da nicht rein! Und mach dich bitte nicht schmutzig! – Wer sich endgültig von den Erziehungstyranneien seiner Kindertage befreien will, für den bietet \"Tough Mudder\" ungeahnte Möglichkeiten.",
+		"sections": [
+			{
+				"title": null,
+				"paragraphs": [
+					"Der reisende Abenteuerspielplatz für alle über 18 Jahre feierte am Wochenende im Fürsten Forest mit rund 4600 Teilnehmern aus aller Welt seine Deutschlandpremiere. Der amerikanische Betreiber dieses gewaltigen Outdoor-Spektakels scheint es sich geradezu zum Ziel gesetzt zu haben, alle „Mudder“ auf dem Weg ihrer Emanzipation von elterlichen Hygiene- und Sicherheitsgängeleien zu unterstützen, indem er ihnen 19 ausgewachsene Hürden vor die Nase pflanzt, die wohl den meisten Müttern die Haare zu Berge stehen ließen. Und wer nur aufmerksam genug lauscht, der hört es um jedes dieser Hindernisse raunen: Kletter da nicht rauf! Spring da nicht rein! Mach dich nicht schmutzig!"
+				]
+			},
+			{
+				"title": "Lurche im Sediment",
+				"paragraphs": [
+					"Ein wenig wie eine Schnitzeljagd – eine 16 Kilometer lange allerdings. Eine Prise Cowboy und Indianer. Vielleicht auch ein bisschen Bundesjugendspiele. Schließlich sollen die Ehrgeizigen ja auch auf ihre Kosten kommen. Auf jeden Fall aber: ganz viel Sandkastenatmosphäre mit jeder – also wirklich: jeder Menge Matsch. Dazu ein adäquates Maß an Gefahr und Nervenkitzel – alles das eben, was auf den Spiel- und Sportplätzen der eigenen Kindheit zumeist streng verboten war: nicht isolierte Stromkabel, offenes Feuer, alle Arten von extremem Gelände – steile Hügel, tiefe Abgründe. Nicht ohne Grund wirbt der Veranstalter damit, dass seine „Hardcore-Hindernisstrecke“ von den British Special Forces entwickelt worden ist. Was ein echter Schlammspringer ist, der will keinen Sonntagsspaziergang, sondern die dynamische Diskrepanz zwischen Angst und ihrer Überwindung erleben.",
+					"\"Great fun!\", ruft ein weiblicher \"Mudder\" und lässt sich mit breitem Grinsen bäuchlings in den Schlick fallen. In den zu Beginn des Tages wohl blonden Haaren kleben dunkle Lehmbrocken. Die Farbe des Trikots lässt sich nicht einmal mehr erahnen. Die junge Frau robbt und stolpert durch die mit Schlamm geflutete Mulde und reißt nach rund zehn Metern zähen Watens bis zum Ufer triumphierend ihre Arme in die Höhe: \"Yeah!\" Ein Blick nach links. Ein Blick nach rechts. Ja, ihre beiden Teamkollegen haben es auch geschafft. Wie junge Lurche stecken sie im schlüpfrigen Sediment. Man reicht einander die Hände und zerrt sich mit vereinten Kräften aus dem Dreck heraus. \"Let’s go!\" Weiter geht’s.",
+					"Das Unternehmen \"Tough Mudder\" wurde 2010 von den Briten Will Dean und Guy Livingstone in den USA gegründet. Anders als bei anderen Ausdauerläufen soll, so der Veranstalter, bei \"Tough Mudder\" nicht die Einzelleistung im Vordergrund stehen. Daher werden offiziell auch keine Zeiten gemessen oder die schnellsten Mannschaften geehrt. Vielmehr gehe es darum, dass sich die startenden Teams gegenseitig und untereinander helfen, erklärt \"Chief Operating Officer\" Will Burghes aus New York. Durchhaltevermögen, Sportsgeist – und der nötige Spaß an der Sache seien die wesentlichen Kriterien, die ein \"Mudder\" zu beherzigen habe. Neben all diesen befreienden Zwanglosigkeiten sollte aber die körperliche Anstrengung des Revivals der eigenen Kindheit nicht unterschätzt werden: 16 Kilometer durch unwegsames Gelände läuft man als Nichttrainierter nicht mal so zwischendurch. Dazu kommen die 19 Hindernisse, von denen es die meisten ebenfalls in sich haben – vom Schlammbad bis zum Sprung durchs Feuer, von klaustrophobischen Unterwasser-Kraxeleien bis zur martialisch betitelten Elektroschock-Therapie.",
+					"Mittlerweile bereist die Veranstaltungsserie neben den USA auch Kanada, Großbritannien, Australien und ist seit diesem Wochenende auch in Deutschland angekommen. Ein zweites Event ist für den 19. und 20. Oktober auf dem Lausitzring in der Nähe von Berlin geplant. Insgesamt organisiert \"Tough Mudder\" in diesem Jahr 53 Läufe weltweit. Die Teilnahmegebühr beträgt je nach Anmeldezeitpunkt und Teamgröße zwischen 65 und 140 Euro. Fürwahr, ein stolzer Preis."
+				]
+			},
+			{
+				"title": "Hundemüde und stolz",
+				"paragraphs": [
+					"Den rund 4600 Muddern, die sich jetzt in Fürstenau trafen, war der Spaß das offenbar wert. Männer und Frauen von 18 bis 61 Jahren wühlten sich durchs Gelände und trotzten nicht nur tapfer, sondern geradezu ausgelassen den Herausforderungen. Die meisten, die sich – zwei, drei oder fünf Stunden, nachdem sie gestartet waren – ins Ziel schleppten, taten das mit einem sehr zufriedenen Lächeln. Die Knie aufgeschürft, die Hose zerrissen – und wieder ein neues Abenteuer bestanden. Fazit: hundemüde, überglücklich und stolz wie Oskar – so ein richtig guter Tag auf dem Spielplatz eben.",
+					"Und wie war das mit \"Pass auf, dass du dir nicht weh tust!\" ? Außer kleineren Blessuren – neben diversen Abschürfungen, einer gerissenen Achillessehne und einer ausgekugelten Schulter – hatten die rund 80 Sanitäter um Einsatzleiter Peter Marx und Einsatzkoordinator Lars Kreie von der DRK-Kreisbereitschaft Osnabrück-Nord keine gravierenderen Verletzungen zu versorgen."
+				]
+			}
+		]
+	}
 }
