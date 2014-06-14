@@ -1,7 +1,8 @@
 {
 	"name": "5. Commerzbank Firmenlauf",
 	"team": null,
-	"date": "20. Juni 2012",
+	"date": 1340213400000,
+	"dateString": "20. Juni 2012",
 	"startTime": "19:30",
 	"startNumber": null,
 	"location": {

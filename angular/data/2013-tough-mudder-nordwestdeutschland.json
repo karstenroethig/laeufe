@@ -1,7 +1,8 @@
 {
 	"name": "Tough Mudder - Nordwestdeutschland",
 	"team": null,
-	"date": "13. Juli 2013",
+	"date": 1373709600000,
+	"dateString": "13. Juli 2013",
 	"startTime": "12:00",
 	"startNumber": "2750",
 	"location": {

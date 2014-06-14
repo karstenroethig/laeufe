@@ -15,11 +15,16 @@
 <div class="jumbotron">
 	<div class="container">
 		<h1>{{event.name}}</h1>
-		<p>{{event.date}}, {{event.location.name}}</p>
+		<p>{{event.dateString}}, {{event.location.name}}</p>
 	</div>
 </div>
 
 <div class="container">
+
+	<div class="row" style="text-align: center;" ng-if="countdown">
+		<h3><span class="label label-default">Countdown</span> {{countdown | countdown}}</h3>
+		<br/>
+	</div>
 	
 	<div class="row">
 		<div class="col-md-4">
@@ -39,9 +44,9 @@
 		<div class="col-md-8">
 			<div id="map" style="width: 600px; height: 400px; background-color: green;"></div>
 		</div>
-	</div>
 
-	<br/>
+		<br/>
+	</div>
 
 	<div class="row" ng-if="event.costs">
 		<h1>Kosten</h1>
@@ -64,9 +69,9 @@
 				</tbody>
 			</table>
 		</div>
-	</div>
 
-	<br/>
+		<br/>
+	</div>
 
 	<div class="row" ng-if="event.obstacles">
 		<h1>Hindernisse</h1>
@@ -90,9 +95,9 @@
 				</tr>
 			</tbody>
 		</table>
-	</div>
 
-	<br/>
+		<br/>
+	</div>
 
 	<div class="row" ng-if="event.newspaperArticle">
 		<h1>Zeitungsartikel</h1>

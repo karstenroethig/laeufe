@@ -1,7 +1,8 @@
 {
 	"name": "Spartan Race - München (Sprint)",
 	"team": "Beavis and Mud-Head",
-	"date": "12. April 2014",
+	"date": 1397292300000,
+	"dateString": "12. April 2014",
 	"startTime": "10:45",
 	"startNumber": "4203",
 	"location": {

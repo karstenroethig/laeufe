@@ -16,11 +16,36 @@ laeufeControllers.controller( 'EventListController', [ '$scope', '$http',
 	}
 ]);
 
-laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams', '$http',
-	function( $scope, $routeParams, $http ) {
+laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams', '$http', '$timeout',
+	function( $scope, $routeParams, $http, $timeout ) {
+
+		$scope.countdown = null;
+
+		var updateCountdown = function() {
+
+			if( !$scope.event ) {
+				return;
+			}
+
+			$timeout( function() {
+				var now = new Date();
+				var eventDate = new Date( $scope.event.date );
+
+				if( eventDate.getTime() < now.getTime() ) {
+					$scope.countdown = null;
+					return;
+				}
+
+				$scope.countdown = eventDate.getTime() - now.getTime();
+
+				updateCountdown();
+			}, 1000 );
+		};
 
 		$http.get( 'data/' + $routeParams.eventKey + '.json' ).success( function( data ) {
 			$scope.event = data;
+
+			updateCountdown();
 		});
 	}
 ]);

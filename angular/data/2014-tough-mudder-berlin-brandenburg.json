@@ -1,7 +1,8 @@
 {
 	"name": "Tough Mudder - Berlin-Brandenburg",
 	"team": "Beavis and Mud-Head",
-	"date": "27. Juli 2014",
+	"date": 1406451600000,
+	"dateString": "27. Juli 2014",
 	"startTime": "11:00",
 	"startNumber": null,
 	"location": {

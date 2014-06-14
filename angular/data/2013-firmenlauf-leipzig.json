@@ -1,7 +1,8 @@
 {
 	"name": "6. Commerzbank Firmenlauf",
 	"team": "Run As Java Application",
-	"date": "10. Juli 2013",
+	"date": 1373475600000,
+	"dateString": "10. Juli 2013",
 	"startTime": "19:00",
 	"startNumber": 5439,
 	"location": {

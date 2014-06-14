@@ -1,7 +1,8 @@
 {
 	"name": "Survival Run",
 	"team": null,
-	"date": "13. September 2014",
+	"date": 1410606000000,
+	"dateString": "13. September 2014",
 	"startTime": "13:00",
 	"startNumber": null,
 	"location": {

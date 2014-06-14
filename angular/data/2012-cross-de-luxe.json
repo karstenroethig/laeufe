@@ -1,7 +1,8 @@
 {
 	"name": "CROSS DE LUXE",
 	"team": null,
-	"date": "30. September 2012",
+	"date": 1348999200000,
+	"dateString": "30. September 2012",
 	"startTime": "12:00",
 	"startNumber": "2",
 	"location": {

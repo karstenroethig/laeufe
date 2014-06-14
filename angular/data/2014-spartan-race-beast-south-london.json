@@ -1,7 +1,8 @@
 {
 	"name": "Spartan Race - South London (Beast)",
 	"team": null,
-	"date": "11. Oktober 2014",
+	"date": 1413019800000,
+	"dateString": "11. Oktober 2014",
 	"startTime": "11:30",
 	"startNumber": null,
 	"location": {

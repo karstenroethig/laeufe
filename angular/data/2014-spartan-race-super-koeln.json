@@ -1,7 +1,8 @@
 {
 	"name": "Spartan Race - Köln (Super)",
 	"team": "Beavis and Mud-Head",
-	"date": "28. Juni 2014",
+	"date": 1403944200000,
+	"dateString": "28. Juni 2014",
 	"startTime": "10:30",
 	"startNumber": null,
 	"location": {

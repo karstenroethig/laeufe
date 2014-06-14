@@ -1,7 +1,8 @@
 {
 	"name": "47. Fockeberglauf",
 	"team": null,
-	"date": "01. November 2014",
+	"date": 1414832400000,
+	"dateString": "01. November 2014",
 	"startTime": "10:00",
 	"startNumber": null,
 	"location": {
