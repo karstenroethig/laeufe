@@ -1,0 +1,15 @@
+{
+	"name": "8. Ammelshainer Schlosslauf",
+	"team": null,
+	"date": 1403283600000,
+	"dateString": "20. Juni 2014",
+	"startTime": "19:00",
+	"startNumber": null,
+	"location": {
+		"name": "Ammelshainer Schloss, Ammelshain",
+		"latitude": 51.294884,
+		"longitude": 12.636619
+	},
+	"distance": "8,5 km",
+	"time": null
+}

@@ -136,5 +136,16 @@
 				"name": "Spartan Race - Köln (Super) 2014"
 			}
 		]
+	},
+	{
+		"name": "Ammelshainer Schloss, Ammelshain",
+		"latitude": 51.294884,
+		"longitude": 12.636619
+		"events": [
+			{
+				"key": "2014-ammelshainer-schlosslauf",
+				"name": "8. Ammelshainer Schlosslauf 2014"
+			}
+		]
 	}
 ]
