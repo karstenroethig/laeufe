@@ -30,7 +30,7 @@
 		"dateString": "20.06.2012 19:30",
 		"location": "Sportforum, Leipzig",
 		"distance": "5 km",
-		"time": "ca. 20 min.",
+		"time": "ca. 00:20:00",
 		"costs": "0,00 €",
 		"finshed": true,
 		"laufKey": "firmenlauf-leipzig"
@@ -101,8 +101,8 @@
 		"date": 1397292300000,
 		"dateString": "12.04.2014 10:45",
 		"location": "Olympiapark, München",
-		"distance": "5+ km",
-		"time": null,
+		"distance": "6+ km",
+		"time": "< 01:15:41",
 		"costs": "47,00 €",
 		"finshed": true,
 		"laufKey": "spartan-race"
@@ -137,10 +137,10 @@
 		"date": 1403283600000,
 		"dateString": "20.06.2014 19:00",
 		"location": "Ammelshainer Schloss, Ammelshain",
-		"distance": "8,5 km",
-		"time": null,
+		"distance": "8 km",
+		"time": "00:36:19",
 		"costs": "5,00 €",
-		"finshed": false,
+		"finshed": true,
 		"laufKey": "ammelshainer-schlosslauf"
 	},
 	{

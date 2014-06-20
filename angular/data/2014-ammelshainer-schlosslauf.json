@@ -4,12 +4,21 @@
 	"date": 1403283600000,
 	"dateString": "20. Juni 2014",
 	"startTime": "19:00",
-	"startNumber": null,
+	"startNumber": 85,
 	"location": {
 		"name": "Ammelshainer Schloss, Ammelshain",
 		"latitude": 51.294884,
 		"longitude": 12.636619
 	},
-	"distance": "8,5 km",
-	"time": null
+	"distance": "8 km",
+	"time": "00:36:19",
+	"costs": {
+		"total": "5,00 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "5,00 €"
+			}
+		]
+	}
 }
