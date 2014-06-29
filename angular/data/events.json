@@ -150,9 +150,9 @@
 		"dateString": "28.06.2014 10:30",
 		"location": "Motocross Bielstein, Wiehl",
 		"distance": "13+ km",
-		"time": null,
+		"time": "01:39:20",
 		"costs": "62,75 €",
-		"finshed": false,
+		"finshed": true,
 		"laufKey": "spartan-race"
 	},
 	{

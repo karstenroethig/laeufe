@@ -4,14 +4,14 @@
 	"date": 1403944200000,
 	"dateString": "28. Juni 2014",
 	"startTime": "10:30",
-	"startNumber": null,
+	"startNumber": "13633",
 	"location": {
 		"name": "Motocross Bielstein, Wiehl",
 		"latitude": 50.955130,
 		"longitude": 7.493133
 	},
 	"distance": "13+ km",
-	"time": null,
+	"time": "01:39:20",
 	"costs": {
 		"total": "62,75 €",
 		"positions": [
