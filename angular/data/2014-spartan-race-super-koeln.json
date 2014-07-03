@@ -24,5 +24,24 @@
 				"subTotal": "3,75 €"
 			}
 		]
+	},
+	"newspaperArticle": {
+		"newspaperName": "Spartan Race Germany",
+		"date": "Sonntag, 29. Juni 2014",
+		"title": "AROO! Über 3.500 Spartaner erobern das Oberbergische Land",
+		"subtitle": "Teilnehmer feiern gemeinsam mit begeisterten Fans und Zuschauern das Hindernis-Spektakel in Wiehl --- Topfavoriten siegen bei Regenschlacht auf der traditionsreichen Motocross-Bahn in Bielstein",
+		"sections": [
+			{
+				"title": null,
+				"paragraphs": [
+					"Köln/Wiehl. \"AROO\" – mit dem Schlachtruf der antiken Spartaner gingen am Samstag über 3.500 Läuferinnen und Läufer aus 24 Ländern beim Reebok Spartan Race in Wiehl vor den östlichen Toren Kölns an den Start. Beim zweiten Rennen der weltweit führenden Obstacle Course Racing-Serie auf deutschem Boden eroberten die Spartaner die Motocross-Bahn in Wiehl. Dabei nahmen die Teilnehmer den mit Hindernissen gesäumten Parcours rund um den traditionsreichen \"Waldkurs\" in Angriff. Sehr zur Freude der zahlreichen Zuschauer, die bei extrem widrigen Wetterbedingungen mit starkem Regen gemeinsam mit den Aktiven das Hindernislauf-Spektakel im Oberbergischen Land feierten.",
+					"\"Wir sind absolut überwältigt von der super Stimmung. Das Areal ist wie gemacht für ein Reebok Spartan Race\", zeigte sich Georg Hochegger, Organisator der Reebok Spartan Race-Serie in Europa begeistert. \"Trotz des starken Regens sind alle an den Start gegangen und haben den Parcours rund um die Motocross-Bahn in Bielstein in einen Hexenkessel verwandelt. Obstacle Course Racing boomt und wir freuen uns schon jetzt auf viele weitere Rennen in Deutschland.\"",
+					"Beim Reebok Spartan Race Köln/Wiehl wurden ein SPARTAN SPRINT mit mehr als fünf Kilometern Laufstrecke und 15 Hindernissen und ein SPARTAN SUPER (11 Kilometer und 21 Hindernisse) angeboten. Ausdauer, Kraft, Beweglichkeit, Schnelligkeit, Geschicklichkeit, Balance und Koordination - bei der Auswahl des Parcours rund um die Motocross-Bahn in Bielstein nutzten die Streckenplaner möglichst viele vorhandene natürliche Gegebenheiten, darunter zahlreiche giftige Steigungen und Wasserläufe. Zusätzlich wurden Hindernisse errichtet, die den Starterinnen und Startern alles abverlangten. Freuen durften sich Spartaner über die bewährten Spartan Race-Hindernisse \"Spear Throw\", \"Rope Climb\" oder \"Barb Wire Crawl\", die sich allen Startern erbarmungslos in den Weg stellten.",
+					"In den Elite-Startfeldern sorgten erwartungsgemäß die Favoriten für Furore. Beim Spartan Super kam es zu einer Neuauflage des Duells zwischen dem mehrfachen deutschen Tough Guy-Gewinner Knut Höhler und dem slowakischen Topathleten Peter Ziska. Wie schon in München bei der Deutschland-Premiere beim Sprint hatte Ziska auch diesmal auf der längeren Super-Distanz die Nase vorn vor Höhler. Dritter wurde Höhlers Landsmann Sven Serke vor dem aktuellen Tough Guy-Sieger Charles Franzke.",
+					"Bei den Frauen siegte die Slowakin Tereza Klimesova auf der Spartan Super-Distanz vor ihrer Teamkollegin Blanka Plackova. Dritte wurde Claudia Gösche, die am Nachmittag auch beim Spartan Sprint den dritten Podiumsrang belegte. Die deutsche Starterin musste sich auf dem kürzeren Parcours nur der Siegerin Joanna Zukowska und der Zweitplatzierten Melanie Rester geschlagen geben.",
+					"Im Elite-Sprint der Männer ließ Max Riekel seinen beiden Konkurrenten Markus Sprengel und Daniel Prugge keine Chance und sicherte ich die begehrte Trophäe des Reebok Spartan Race Köln/Wiehl im Alleingang."
+				]
+			}
+		]
 	}
 }
