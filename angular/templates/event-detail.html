@@ -14,8 +14,8 @@
 
 <div class="jumbotron">
 	<div class="container">
-		<h1>{{event.name}}</h1>
-		<p>{{event.dateString}}, {{event.location.name}}</p>
+		<h1 ng-bind="event.name"></h1>
+		<p ng-bind-template="{{event.dateString}}, {{event.location.name}}"></p>
 	</div>
 </div>
 
@@ -30,15 +30,15 @@
 		<div class="col-md-4">
 			<dl class="dl-horizontal">
 				<dt ng-if="event.team">Team</dt>
-				<dd ng-if="event.team">{{event.team}}</dd>
+				<dd ng-if="event.team" ng-bind="event.team"></dd>
 				<dt ng-if="event.startTime">Startzeit</dt>
-				<dd ng-if="event.startTime">{{event.startTime}}</dd>
+				<dd ng-if="event.startTime" ng-bind="event.startTime"></dd>
 				<dt ng-if="event.startNumber">Startnummer</dt>
-				<dd ng-if="event.startNumber">{{event.startNumber}}</dd>
+				<dd ng-if="event.startNumber" ng-bind="event.startNumber"></dd>
 				<dt ng-if="event.distance">Distanz</dt>
-				<dd ng-if="event.distance">{{event.distance}}</dd>
+				<dd ng-if="event.distance" ng-bind="event.distance"></dd>
 				<dt ng-if="event.time">Zeit</dt>
-				<dd ng-if="event.time">{{event.time}}</dd>
+				<dd ng-if="event.time" ng-bind="event.time"></dd>
 			</dl>
 		</div>
 		<div class="col-md-8">
@@ -59,12 +59,12 @@
 				</thead>
 				<tbody>
 					<tr ng-repeat="position in event.costs.positions">
-						<td>{{position.description}}</td>
-						<td class="text-right">{{position.subTotal}}</td>
+						<td ng-bind="position.description"></td>
+						<td class="text-right" ng-bind="position.subTotal"></td>
 					</tr>
 					<tr>
 						<th>Gesamt</th>
-						<th class="text-right">{{event.costs.total}}</th>
+						<th class="text-right" ng-bind="event.costs.total"></th>
 					</tr>
 				</tbody>
 			</table>
@@ -83,13 +83,13 @@
 			</thead>
 			<tbody>
 				<tr ng-repeat="obstacle in event.obstacles">
-					<td>{{obstacle.name}}</td>
-					<td ng-if="!obstacle.facts">{{obstacle.description}}</td>
+					<td ng-bind="obstacle.name"></td>
+					<td ng-if="!obstacle.facts" ng-bind="obstacle.description"></td>
 					<td ng-if="obstacle.facts">
-						<p>{{obstacle.description}}</p>
+						<p ng-bind="obstacle.description"></p>
 						<p>Facts:</p>
 						<ul>
-							<li ng-repeat="fact in obstacle.facts">{{fact}}</li>
+							<li ng-repeat="fact in obstacle.facts" ng-bind="fact"></li>
 						</ul>
 					</td>
 				</tr>
@@ -103,10 +103,10 @@
 		<h1>Zeitungsartikel</h1>
 		<hr/>
 		<h2>{{event.newspaperArticle.title}} <small>{{event.newspaperArticle.date}} ({{event.newspaperArticle.newspaperName}})</small></h2>
-		<p ng-if="event.newspaperArticle.subtitle"><strong>{{event.newspaperArticle.subtitle}}</strong></p>
+		<p ng-if="event.newspaperArticle.subtitle"><strong ng-bind="event.newspaperArticle.subtitle"></strong></p>
 		<span ng-repeat="section in event.newspaperArticle.sections">
-			<p ng-if="section.title"><em>{{section.title}}</em></p>
-			<p ng-repeat="paragraph in section.paragraphs">{{paragraph}}</p>
+			<p ng-if="section.title"><em ng-bind="section.title"></em></p>
+			<p ng-repeat="paragraph in section.paragraphs" ng-bind="paragraph"></p>
 		</span>
 	</div>
 	

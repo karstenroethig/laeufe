@@ -56,13 +56,13 @@
 		<tbody>
 			<tr ng-repeat="event in events | filter: query | orderBy: order">
 				<td><span class="glyphicon glyphicon-{{event.finshed | checkmark}}"></span></td>
-				<td>{{event.date | date: "dd.MM.yyyy" }}</td>
-				<td>{{event.date | date: "HH:mm" }}</td>
-				<td><a href="#/events/{{event.key}}">{{event.name}}</a></td>
-				<td>{{event.location}}</td>
-				<td class="text-right">{{event.distance}}</td>
-				<td class="text-right">{{event.time}}</td>
-				<td class="text-right">{{event.costs}}</td>
+				<td ng-bind="event.date | date: 'dd.MM.yyyy'"></td>
+				<td ng-bind="event.date | date: 'HH:mm'"></td>
+				<td><a ng-href="#/events/{{event.key}}" ng-bind="event.name"></a></td>
+				<td ng-bind="event.location"></td>
+				<td class="text-right" ng-bind="event.distance"></td>
+				<td class="text-right" ng-bind="event.time"></td>
+				<td class="text-right" ng-bind="event.costs"></td>
 			</tr>
 		</tbody>
 	</table>
