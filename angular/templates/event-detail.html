@@ -109,5 +109,30 @@
 			<p ng-repeat="paragraph in section.paragraphs" ng-bind="paragraph"></p>
 		</span>
 	</div>
+
+	<div class="row" ng-if="event.pictures">
+		<h1>Fotos</h1>
+		<hr/>
+		<div class="col-md-12">
+			<a class="fancybox" rel="group" ng-repeat="pic in event.pictures" ng-href="images/{{eventKey}}/{{pic.file}}" title="{{pic.title}}">
+				<img src="images/{{eventKey}}/thumbs/{{pic.file}}" class="img-thumbnail" alt="{{pic.title}}" style="margin: 5px;">
+			</a>
+		</div>
+
+		<script type="text/javascript">
+			$( document ).ready( function() {
+				$( ".fancybox" ).fancybox( {
+					helpers: {
+						title: { type: 'inside' },
+						buttons: {},
+						thumbs: {
+							width: 50,
+							height: 50
+						}
+					}
+				});
+			});
+		</script>
+	</div>
 	
 </div>

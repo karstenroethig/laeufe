@@ -19,6 +19,8 @@ laeufeControllers.controller( 'EventListController', [ '$scope', '$http',
 laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams', '$http', '$timeout',
 	function( $scope, $routeParams, $http, $timeout ) {
 
+		$scope.eventKey = $routeParams.eventKey;
+
 		$scope.countdown = null;
 
 		var updateCountdown = function() {

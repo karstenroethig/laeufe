@@ -11,5 +11,15 @@
 		"longitude": 12.35065
 	},
 	"distance": "4,8 km",
-	"time": "00:19:29"
+	"time": "00:19:29",
+	"pictures" : [
+		{
+			"title": "Bild 1/2",
+			"file": "001.jpg"
+		},
+		{
+			"title": "Bild 2/2",
+			"file": "002.jpg"
+		}
+	]
 }
