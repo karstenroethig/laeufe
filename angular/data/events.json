@@ -158,13 +158,13 @@
 	{
 		"key": "2014-tough-mudder-berlin-brandenburg",
 		"name": "Tough Mudder - Berlin-Brandenburg",
-		"date": 1406451600000,
-		"dateString": "27.07.2014 11:00",
+		"date": 1406452800000,
+		"dateString": "27.07.2014 11:20",
 		"location": "Lausitzring, Klettwitz",
 		"distance": "18+ km",
-		"time": null,
+		"time": "02:15:00",
 		"costs": "50,00 €",
-		"finshed": false,
+		"finshed": true,
 		"laufKey": "tough-mudder"
 	},
 	{
