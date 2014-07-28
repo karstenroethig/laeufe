@@ -94,6 +94,17 @@
 		]
 	},
 	{
+		"name": "Hofgut Luisenlust, Hirzenhain",
+		"latitude": 50.410219,
+		"longitude": 9.136841,
+		"events": [
+			{
+				"key": "2014-tough-mudder-rhein-main",
+				"name": "Tough Mudder - Rhein-Main 2014"
+			}
+		]
+	},
+	{
 		"name": "Serengeti Park, Hodenhagen",
 		"latitude": 52.754,
 		"longitude": 9.6205,

@@ -168,6 +168,18 @@
 		"laufKey": "tough-mudder"
 	},
 	{
+		"key": "2014-tough-mudder-rhein-main",
+		"name": "Tough Mudder - Rhein-Main",
+		"date": 1407657600000,
+		"dateString": "10.08.2014 10:00",
+		"location": "Hofgut Luisenlust, Hirzenhain",
+		"distance": "18+ km",
+		"time": null,
+		"costs": "16,97 €",
+		"finshed": false,
+		"laufKey": "tough-mudder"
+	},
+	{
 		"key": "2014-survival-run",
 		"name": "Survival Run",
 		"date": 1410606000000,

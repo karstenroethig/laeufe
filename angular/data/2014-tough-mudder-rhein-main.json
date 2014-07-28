@@ -1,0 +1,28 @@
+{
+	"name": "Tough Mudder - Rhein-Main",
+	"team": "Beavis and Mud-Head",
+	"date": 1407657600000,
+	"dateString": "10. August 2014",
+	"startTime": "10:00",
+	"startNumber": null,
+	"location": {
+		"name": "Hofgut Luisenlust, Hirzenhain",
+		"latitude": 50.410219,
+		"longitude": 9.136841
+	},
+	"distance": "18+ km",
+	"time": null,
+	"costs": {
+		"total": "16,97 €",
+		"positions": [
+			{
+				"description": "Ganztags-Volunteer Teilnehmer",
+				"subTotal": "15,00 €"
+			},
+			{
+				"description": "Transaktionsbearbeitungsgebühr",
+				"subTotal": "1,97 €"
+			}
+		]
+	}
+}
