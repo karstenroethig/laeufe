@@ -174,9 +174,9 @@
 		"dateString": "10.08.2014 10:00",
 		"location": "Hofgut Luisenlust, Hirzenhain",
 		"distance": "18+ km",
-		"time": null,
+		"time": "02:00:00",
 		"costs": "16,97 €",
-		"finshed": false,
+		"finshed": true,
 		"laufKey": "tough-mudder"
 	},
 	{
