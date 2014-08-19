@@ -2,22 +2,24 @@
 
 var laeufeControllers = angular.module( 'laeufeControllers', [] );
 
-laeufeControllers.controller( 'EventListController', [ '$scope', '$http',
-	function( $scope, $http ) {
+laeufeControllers.controller( 'EventListController', [ '$scope', 'EventDataService',
+	function( $scope, EventDataService ) {
 
 		$scope.query = '';
 		$scope.order = '-date';
 
 		$scope.events = [];
 
-		$http.get( 'data/events.json' ).success( function( data ) {
-			$scope.events = data;
+		EventDataService.getEvents().then( function( res ) {
+			$scope.events = res.data;
+		}, function( error ) {
+			console.log( 'An error occurred.', error );
 		});
 	}
 ]);
 
-laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams', '$http', '$timeout',
-	function( $scope, $routeParams, $http, $timeout ) {
+laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams', '$timeout', 'EventDataService',
+	function( $scope, $routeParams, $timeout, EventDataService ) {
 
 		$scope.eventKey = $routeParams.eventKey;
 
@@ -44,21 +46,25 @@ laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams
 			}, 1000 );
 		};
 
-		$http.get( 'data/' + $routeParams.eventKey + '.json' ).success( function( data ) {
-			$scope.event = data;
+		EventDataService.getEventByKey( $routeParams.eventKey ).then( function( res ) {
+			$scope.event = res.data;
 
 			updateCountdown();
+		}, function( error ) {
+			console.log( 'An error occurred.', error );
 		});
 	}
 ]);
 
-laeufeControllers.controller( 'MapController', [ '$scope', '$http',
-	function( $scope, $http ) {
+laeufeControllers.controller( 'MapController', [ '$scope', 'EventDataService',
+	function( $scope, EventDataService ) {
 
 		$scope.locations = [];
 
-		$http.get( 'data/locations.json' ).success( function( data ) {
-			$scope.locations = data;
+		EventDataService.getEventLocations().then( function( res ) {
+			$scope.locations = res.data;
+		}, function( error ) {
+			console.log( 'An error occurred.', error );
 		});
 	}
 ]);

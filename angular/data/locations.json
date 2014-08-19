@@ -140,7 +140,7 @@
 	{
 		"name": "Motocross Bielstein, Wiehl",
 		"latitude": 50.955130,
-		"longitude": 7.493133
+		"longitude": 7.493133,
 		"events": [
 			{
 				"key": "2014-spartan-race-super-koeln",
@@ -151,7 +151,7 @@
 	{
 		"name": "Ammelshainer Schloss, Ammelshain",
 		"latitude": 51.294884,
-		"longitude": 12.636619
+		"longitude": 12.636619,
 		"events": [
 			{
 				"key": "2014-ammelshainer-schlosslauf",
