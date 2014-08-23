@@ -1,0 +1,74 @@
+[
+	{
+		"key": "ammelshainer-schlosslauf",
+		"name": "Ammelshainer Schlosslauf",
+		"participations": 1,
+		"participationsPlanned": 0
+	},
+	{
+		"key": "cross-de-luxe",
+		"name": "CROSS DE LUXE",
+		"participations": 2,
+		"participationsPlanned": 1
+	},
+	{
+		"key": "firmenlauf-leipzig",
+		"name": "Firmenlauf Leipzig",
+		"participations": 5,
+		"participationsPlanned": 0
+	},
+	{
+		"key": "fishermans-friend-strongmanrun",
+		"name": "Fisherman's Friend StrongnamRun",
+		"participations": 1,
+		"participationsPlanned": 0
+	},
+	{
+		"key": "fockeberglauf",
+		"name": "Fockeberglauf",
+		"participations": 0,
+		"participationsPlanned": 1
+	},
+	{
+		"key": "getting-tough",
+		"name": "Getting Tough - The Race",
+		"participations": 0,
+		"participationsPlanned": 0
+	},
+	{
+		"key": "spartan-race",
+		"name": "Spartan Race",
+		"participations": 2,
+		"participationsPlanned": 1
+	},
+	{
+		"key": "survival-run",
+		"name": "Survival Run",
+		"participations": 0,
+		"participationsPlanned": 1
+	},
+	{
+		"key": "tough-mudder",
+		"name": "Tough Mudder",
+		"participations": 4,
+		"participationsPlanned": 0
+	},
+	{
+		"key": "triathlon-leipzig",
+		"name": "Leipziger Triathlon",
+		"participations": 0,
+		"participationsPlanned": 0
+	},
+	{
+		"key": "wildsau",
+		"name": "Wildsau Dirt Run",
+		"participations": 0,
+		"participationsPlanned": 0
+	},
+	{
+		"key": "wtm",
+		"name": "Wolrd's Toughest Mudder",
+		"participations": 0,
+		"participationsPlanned": 0
+	}
+]

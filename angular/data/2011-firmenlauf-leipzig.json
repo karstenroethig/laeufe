@@ -1,5 +1,6 @@
 {
 	"name": "4. Commerzbank Firmenlauf",
+	"raceKey": "firmenlauf-leipzig",
 	"team": "André und die jungen Wilden",
 	"date": 1307466000000,
 	"dateString": "07. Juni 2011",
@@ -11,5 +12,6 @@
 		"longitude": 12.35065
 	},
 	"distance": "5,2 km",
-	"time": "00:24:07"
+	"time": "00:24:07",
+	"finished": true
 }

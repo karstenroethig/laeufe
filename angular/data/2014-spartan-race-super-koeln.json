@@ -1,5 +1,6 @@
 {
 	"name": "Spartan Race - Köln (Super)",
+	"raceKey": "spartan-race",
 	"team": "Beavis and Mud-Head",
 	"date": 1403944200000,
 	"dateString": "28. Juni 2014",
@@ -12,6 +13,7 @@
 	},
 	"distance": "13+ km",
 	"time": "01:39:20",
+	"finished": true,
 	"costs": {
 		"total": "62,75 €",
 		"positions": [

@@ -1,5 +1,6 @@
 {
 	"name": "CROSS DE LUXE",
+	"raceKey": "cross-de-luxe",
 	"team": null,
 	"date": 1411812000000,
 	"dateString": "27. September 2014",
@@ -12,6 +13,7 @@
 	},
 	"distance": "2 x 8 km",
 	"time": null,
+	"finished": false,
 	"costs": {
 		"total": "32,00 €",
 		"positions": [

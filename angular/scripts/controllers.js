@@ -56,6 +56,48 @@ laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams
 	}
 ]);
 
+laeufeControllers.controller( 'EventEditController', [ '$scope', '$routeParams', 'EventDataService', 'EventTemplateService',
+	function( $scope, $routeParams, EventDataService, EventTemplateService ) {
+
+		$scope.isEditMode = true;
+
+		$scope.eventKey = $routeParams.eventKey;
+
+		EventDataService.getRaces().then( function( res ) {
+			$scope.races = res.data;
+		}, function( error ) {
+			console.log( 'An error occurred.', error );
+		});
+
+		EventDataService.getEventByKey( $routeParams.eventKey ).then( function( res ) {
+			$scope.event = res.data;
+		}, function( error ) {
+			console.log( 'An error occurred.', error );
+		});
+
+		$scope.submitAction = function() {
+			$scope.jsonFiles = EventTemplateService.generateJsonFiles( $scope.event );
+		};
+	}
+]);
+
+laeufeControllers.controller( 'EventNewController', [ '$scope', 'EventDataService',
+	function( $scope, EventDataService ) {
+
+		EventDataService.getRaces().then( function( res ) {
+			$scope.races = res.data;
+		}, function( error ) {
+			console.log( 'An error occurred.', error );
+		});
+
+		$scope.event = {};
+
+		$scope.submitAction = function() {
+			$scope.jsonFiles = EventTemplateService.generateJsonFiles( $scope.event );
+		};
+	}
+]);
+
 laeufeControllers.controller( 'MapController', [ '$scope', 'EventDataService',
 	function( $scope, EventDataService ) {
 

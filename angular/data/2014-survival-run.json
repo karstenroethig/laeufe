@@ -1,5 +1,6 @@
 {
 	"name": "Survival Run",
+	"raceKey": "survival-run",
 	"team": null,
 	"date": 1410606000000,
 	"dateString": "13. September 2014",
@@ -12,6 +13,7 @@
 	},
 	"distance": "2 x 8 km",
 	"time": null,
+	"finished": false,
 	"costs": {
 		"total": "49,00 €",
 		"positions": [

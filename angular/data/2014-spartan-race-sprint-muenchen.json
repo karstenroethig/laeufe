@@ -1,5 +1,6 @@
 {
 	"name": "Spartan Race - München (Sprint)",
+	"raceKey": "spartan-race",
 	"team": "Beavis and Mud-Head",
 	"date": 1397292300000,
 	"dateString": "12. April 2014",
@@ -12,6 +13,7 @@
 	},
 	"distance": "6+ km",
 	"time": "< 01:15:41",
+	"finished": true,
 	"costs": {
 		"total": "47,00 €",
 		"positions": [

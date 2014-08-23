@@ -1,5 +1,6 @@
 {
 	"name": "8. Ammelshainer Schlosslauf",
+	"raceKey": "ammelshainer-schlosslauf",
 	"team": null,
 	"date": 1403283600000,
 	"dateString": "20. Juni 2014",
@@ -12,6 +13,7 @@
 	},
 	"distance": "8 km",
 	"time": "00:36:19",
+	"finished": true,
 	"costs": {
 		"total": "5,00 €",
 		"positions": [

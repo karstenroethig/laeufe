@@ -1,5 +1,6 @@
 {
 	"name": "47. Fockeberglauf",
+	"raceKey": "fockeberglauf",
 	"team": null,
 	"date": 1414832400000,
 	"dateString": "01. November 2014",
@@ -12,6 +13,7 @@
 	},
 	"distance": "6 x 2 km",
 	"time": null,
+	"finished": false,
 	"costs": {
 		"total": "5,00 €",
 		"positions": [

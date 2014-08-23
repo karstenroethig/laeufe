@@ -1,5 +1,6 @@
 {
 	"name": "Fisherman's Friend StrongmanRun",
+	"raceKey": "fishermans-friend-strongmanrun",
 	"team": null,
 	"date": 1399719600000,
 	"dateString": "10. Mai 2014",
@@ -12,6 +13,7 @@
 	},
 	"distance": "2 x 12 km",
 	"time": "3:13:39",
+	"finished": true,
 	"costs": {
 		"total": "94,90 €",
 		"positions": [

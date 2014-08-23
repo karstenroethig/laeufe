@@ -1,5 +1,6 @@
 {
 	"name": "6. Commerzbank Firmenlauf",
+	"raceKey": "firmenlauf-leipzig",
 	"team": "Run As Java Application",
 	"date": 1373475600000,
 	"dateString": "10. Juli 2013",
@@ -12,6 +13,7 @@
 	},
 	"distance": "4,8 km",
 	"time": "00:19:29",
+	"finished": true,
 	"pictures" : [
 		{
 			"title": "Bild 1/2",

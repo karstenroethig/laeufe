@@ -1,5 +1,6 @@
 {
 	"name": "Tough Mudder - Nordwestdeutschland",
+	"raceKey": "tough-mudder",
 	"team": null,
 	"date": 1373709600000,
 	"dateString": "13. Juli 2013",
@@ -12,6 +13,7 @@
 	},
 	"distance": "18+ km",
 	"time": "02:10:00",
+	"finished": true,
 	"costs": {
 		"total": "112,82 €",
 		"positions": [

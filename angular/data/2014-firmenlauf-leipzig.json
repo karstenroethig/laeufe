@@ -1,5 +1,6 @@
 {
 	"name": "7. Commerzbank Firmenlauf",
+	"raceKey": "firmenlauf-leipzig",
 	"team": "Run As Java Application",
 	"date": 1401901200000,
 	"dateString": "4. Juni 2014",
@@ -12,6 +13,7 @@
 	},
 	"distance": "4,8 km",
 	"time": "00:18:14",
+	"finished": true,
 	"newspaperArticle": {
 		"newspaperName": "LVZ-Online >> Sport >> Regionalsport",
 		"date": "Mittwoch, 4. Juni 2014",

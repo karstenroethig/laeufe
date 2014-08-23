@@ -14,9 +14,17 @@ laeufeApp.config( [ '$routeProvider',
 				templateUrl: 'templates/event-list.html',
 				controller: 'EventListController'
 			}).
+			when( '/events/new', {
+				templateUrl: 'templates/event-form.html',
+				controller: 'EventNewController'
+			}).
 			when( '/events/:eventKey', {
 				templateUrl: 'templates/event-detail.html',
 				controller: 'EventDetailController'
+			}).
+			when( '/events/:eventKey/edit', {
+				templateUrl: 'templates/event-form.html',
+				controller: 'EventEditController'
 			}).
 			when( '/map', {
 				templateUrl: 'templates/map.html',

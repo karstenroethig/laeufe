@@ -1,5 +1,6 @@
 {
 	"name": "3. Commerzbank Firmenlauf",
+	"raceKey": "firmenlauf-leipzig",
 	"team": "Die Ehrgeizigsten",
 	"date": 1276102800000,
 	"dateString": "09. Juni 2010",
@@ -11,5 +12,6 @@
 		"longitude": 12.35065
 	},
 	"distance": "5 km",
-	"time": "00:22:53"
+	"time": "00:22:53",
+	"finished": true
 }

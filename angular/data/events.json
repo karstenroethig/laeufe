@@ -8,8 +8,8 @@
 		"distance": "5 km",
 		"time": "00:22:53",
 		"costs": "0,00 €",
-		"finshed": true,
-		"laufKey": "firmenlauf-leipzig"
+		"finished": true,
+		"raceKey": "firmenlauf-leipzig"
 	},
 	{
 		"key": "2011-firmenlauf-leipzig",
@@ -20,8 +20,8 @@
 		"distance": "5,2 km",
 		"time": "00:24:07",
 		"costs": "0,00 €",
-		"finshed": true,
-		"laufKey": "firmenlauf-leipzig"
+		"finished": true,
+		"raceKey": "firmenlauf-leipzig"
 	},
 	{
 		"key": "2012-firmenlauf-leipzig",
@@ -32,8 +32,8 @@
 		"distance": "5 km",
 		"time": "ca. 00:20:00",
 		"costs": "0,00 €",
-		"finshed": true,
-		"laufKey": "firmenlauf-leipzig"
+		"finished": true,
+		"raceKey": "firmenlauf-leipzig"
 	},
 	{
 		"key": "2012-cross-de-luxe",
@@ -44,8 +44,8 @@
 		"distance": "2 x 8 km",
 		"time": "01:59:34",
 		"costs": "24,00 €",
-		"finshed": true,
-		"laufKey": "cross-de-luxe"
+		"finished": true,
+		"raceKey": "cross-de-luxe"
 	},
 	{
 		"key": "2013-firmenlauf-leipzig",
@@ -56,8 +56,8 @@
 		"distance": "4,8 km",
 		"time": "00:19:29",
 		"costs": "0,00 €",
-		"finshed": true,
-		"laufKey": "firmenlauf-leipzig"
+		"finished": true,
+		"raceKey": "firmenlauf-leipzig"
 	},
 	{
 		"key": "2013-tough-mudder-nordwestdeutschland",
@@ -68,8 +68,8 @@
 		"distance": "18+ km",
 		"time": "02:10:00",
 		"costs": "112,82 €",
-		"finshed": true,
-		"laufKey": "tough-mudder"
+		"finished": true,
+		"raceKey": "tough-mudder"
 	},
 	{
 		"key": "2013-cross-de-luxe",
@@ -80,8 +80,8 @@
 		"distance": "2 x 8,65 km",
 		"time": "01:49:16",
 		"costs": "32,00 €",
-		"finshed": true,
-		"laufKey": "cross-de-luxe"
+		"finished": true,
+		"raceKey": "cross-de-luxe"
 	},
 	{
 		"key": "2013-tough-mudder-berlin-brandenburg",
@@ -92,8 +92,8 @@
 		"distance": "18+ km",
 		"time": null,
 		"costs": "112,82 €",
-		"finshed": true,
-		"laufKey": "tough-mudder"
+		"finished": true,
+		"raceKey": "tough-mudder"
 	},
 	{
 		"key": "2014-spartan-race-sprint-muenchen",
@@ -104,8 +104,8 @@
 		"distance": "6+ km",
 		"time": "< 01:15:41",
 		"costs": "47,00 €",
-		"finshed": true,
-		"laufKey": "spartan-race"
+		"finished": true,
+		"raceKey": "spartan-race"
 	},
 	{
 		"key": "2014-fishermans-friend-strongmanrun",
@@ -116,8 +116,8 @@
 		"distance": "2 x 12 km",
 		"time": "03:13:39",
 		"costs": "94,90 €",
-		"finshed": true,
-		"laufKey": "fishermans-friend-strongmanrun"
+		"finished": true,
+		"raceKey": "fishermans-friend-strongmanrun"
 	},
 	{
 		"key": "2014-firmenlauf-leipzig",
@@ -128,8 +128,8 @@
 		"distance": "4,8 km",
 		"time": "00:18:14",
 		"costs": "0,00 €",
-		"finshed": true,
-		"laufKey": "firmenlauf-leipzig"
+		"finished": true,
+		"raceKey": "firmenlauf-leipzig"
 	},
 	{
 		"key": "2014-ammelshainer-schlosslauf",
@@ -140,8 +140,8 @@
 		"distance": "8 km",
 		"time": "00:36:19",
 		"costs": "5,00 €",
-		"finshed": true,
-		"laufKey": "ammelshainer-schlosslauf"
+		"finished": true,
+		"raceKey": "ammelshainer-schlosslauf"
 	},
 	{
 		"key": "2014-spartan-race-super-koeln",
@@ -152,8 +152,8 @@
 		"distance": "13+ km",
 		"time": "01:39:20",
 		"costs": "62,75 €",
-		"finshed": true,
-		"laufKey": "spartan-race"
+		"finished": true,
+		"raceKey": "spartan-race"
 	},
 	{
 		"key": "2014-tough-mudder-berlin-brandenburg",
@@ -164,8 +164,8 @@
 		"distance": "18+ km",
 		"time": "02:15:00",
 		"costs": "50,00 €",
-		"finshed": true,
-		"laufKey": "tough-mudder"
+		"finished": true,
+		"raceKey": "tough-mudder"
 	},
 	{
 		"key": "2014-tough-mudder-rhein-main",
@@ -176,8 +176,8 @@
 		"distance": "18+ km",
 		"time": "02:00:00",
 		"costs": "16,97 €",
-		"finshed": true,
-		"laufKey": "tough-mudder"
+		"finished": true,
+		"raceKey": "tough-mudder"
 	},
 	{
 		"key": "2014-survival-run",
@@ -188,8 +188,8 @@
 		"distance": "2 x 8 km",
 		"time": null,
 		"costs": "49,00 €",
-		"finshed": false,
-		"laufKey": "survival-run"
+		"finished": false,
+		"raceKey": "survival-run"
 	},
 	{
 		"key": "2014-cross-de-luxe",
@@ -200,8 +200,8 @@
 		"distance": "2 x 8 km",
 		"time": null,
 		"costs": "32,00 €",
-		"finshed": false,
-		"laufKey": "cross-de-luxe"
+		"finished": false,
+		"raceKey": "cross-de-luxe"
 	},
 	{
 		"key": "2014-spartan-race-beast-south-london",
@@ -212,8 +212,8 @@
 		"distance": "20+ km",
 		"time": null,
 		"costs": "75,52 €",
-		"finshed": false,
-		"laufKey": "spartan-race"
+		"finished": false,
+		"raceKey": "spartan-race"
 	},
 	{
 		"key": "2014-fockeberglauf",
@@ -224,7 +224,7 @@
 		"distance": "6 x 2 km",
 		"time": null,
 		"costs": "5,00 €",
-		"finshed": false,
-		"laufKey": "fockeberglauf"
+		"finished": false,
+		"raceKey": "fockeberglauf"
 	}
 ]

@@ -1,5 +1,6 @@
 {
 	"name": "Tough Mudder - Berlin-Brandenburg",
+	"raceKey": "tough-mudder",
 	"team": "Beavis and Mud-Head",
 	"date": 1406452800000,
 	"dateString": "27. Juli 2014",
@@ -12,6 +13,7 @@
 	},
 	"distance": "18+ km",
 	"time": "02:15:00",
+	"finished": true,
 	"costs": {
 		"total": "50,00 €",
 		"positions": [

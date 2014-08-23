@@ -1,5 +1,6 @@
 {
 	"name": "5. Commerzbank Firmenlauf",
+	"raceKey": "firmenlauf-leipzig",
 	"team": null,
 	"date": 1340213400000,
 	"dateString": "20. Juni 2012",
@@ -11,5 +12,6 @@
 		"longitude": 12.35065
 	},
 	"distance": "5 km",
-	"time": "ca. 00:20:00"
+	"time": "ca. 00:20:00",
+	"finished": true
 }

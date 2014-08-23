@@ -1,5 +1,6 @@
 {
 	"name": "Spartan Race - South London (Beast)",
+	"raceKey": "spartan-race",
 	"team": null,
 	"date": 1413019800000,
 	"dateString": "11. Oktober 2014",
@@ -12,6 +13,7 @@
 	},
 	"distance": "20+ km",
 	"time": null,
+	"finished": false,
 	"costs": {
 		"total": "(75,52 €) 63,00 GBP",
 		"positions": [
