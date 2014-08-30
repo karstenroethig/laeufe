@@ -62,8 +62,9 @@ laeufeServices.factory( 'EventTemplateService', [
 			var eventContentLines = [];
 
 			eventContentLines.push( '{' );
-			eventContentLines.push( '\t"name": "' + event.name + '",' );
+			eventContentLines.push( '\t"key": "' + key + '",' );
 			eventContentLines.push( '\t"raceKey": "' + event.raceKey + '",' );
+			eventContentLines.push( '\t"name": "' + event.name + '",' );
 			eventContentLines.push( '\t"location": {' );
 			eventContentLines.push( '\t\t"name": "' + event.location.name + '"' );
 			eventContentLines.push( '\t},' );
@@ -78,14 +79,15 @@ laeufeServices.factory( 'EventTemplateService', [
 			eventsContentLines.push( '\t,' );
 			eventsContentLines.push( '\t{' );
 			eventsContentLines.push( '\t\t"key": "' + key + '",' );
+			eventsContentLines.push( '\t\t"raceKey": "' + event.raceKey + '",' );
 			eventsContentLines.push( '\t\t"name": "' + event.name + '",' );
-			eventsContentLines.push( '\t\t"date": 1276102800000,' );
-			eventsContentLines.push( '\t\t"dateString": "dd.MM.yyyy HH:mm",' );
+			eventsContentLines.push( '\t\t"startDate": "yyyy-MM-dd",' );
+			eventsContentLines.push( '\t\t"endDate": null,' );
 			eventsContentLines.push( '\t\t"location": "' + event.location.name + '",' );
 			eventsContentLines.push( '\t\t"distance": "? km",' );
 			eventsContentLines.push( '\t\t"time": null,' );
 			eventsContentLines.push( '\t\t"costs": "0,00 €",' );
-			eventsContentLines.push( '\t\t"raceKey": "' + event.raceKey + '",' );
+			eventsContentLines.push( '\t\t"finished": ' + event.finished );
 			eventsContentLines.push( '\t}' );
 			eventsContentLines.push( ']' );
 

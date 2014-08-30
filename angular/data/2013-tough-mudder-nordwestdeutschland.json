@@ -1,19 +1,25 @@
 {
-	"name": "Tough Mudder - Nordwestdeutschland",
+	"key": "2013-tough-mudder-nordwestdeutschland",
 	"raceKey": "tough-mudder",
-	"team": null,
-	"date": 1373709600000,
-	"dateString": "13. Juli 2013",
-	"startTime": "12:00",
-	"startNumber": "2750",
+	"name": "Tough Mudder - Nordwestdeutschland",
+	"startDate": "2013-07-13",
+	"endDate": "2013-07-14",
 	"location": {
 		"name": "Fürsten Forest, Fürstenau",
 		"latitude": 52.53311,
 		"longitude": 7.65893
 	},
-	"distance": "18+ km",
-	"time": "02:10:00",
 	"finished": true,
+	"runs": [
+		{
+			"startNumber": 2750,
+			"startTime": "2013-07-13T12:00",
+			"distance": "18+ km",
+			"time": "02:10:00",
+			"team": null,
+			"note": null
+		}
+	],
 	"costs": {
 		"total": "112,82 €",
 		"positions": [

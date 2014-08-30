@@ -1,19 +1,25 @@
 {
-	"name": "Spartan Race - München (Sprint)",
+	"key": "2014-spartan-race-sprint-muenchen",
 	"raceKey": "spartan-race",
-	"team": "Beavis and Mud-Head",
-	"date": 1397292300000,
-	"dateString": "12. April 2014",
-	"startTime": "10:45",
-	"startNumber": "4203",
+	"name": "Spartan Race - München (Sprint)",
+	"startDate": "2014-04-12",
+	"endDate": null,
 	"location": {
 		"name": "Olympiapark, München",
 		"latitude": 48.1729,
 		"longitude": 11.5438
 	},
-	"distance": "6+ km",
-	"time": "< 01:15:41",
 	"finished": true,
+	"runs": [
+		{
+			"startNumber": 4203,
+			"startTime": "2014-04-12T10:45",
+			"distance": "6+ km",
+			"time": "< 01:15:41",
+			"team": "Beavis and Mud-Head",
+			"note": "Zeit von Jens, da mein Zeit-Chip nicht funktioniert hat"
+		}
+	],
 	"costs": {
 		"total": "47,00 €",
 		"positions": [

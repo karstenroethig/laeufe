@@ -1,19 +1,25 @@
 {
-	"name": "6. Commerzbank Firmenlauf",
+	"key": "2013-firmenlauf-leipzig",
 	"raceKey": "firmenlauf-leipzig",
-	"team": "Run As Java Application",
-	"date": 1373475600000,
-	"dateString": "10. Juli 2013",
-	"startTime": "19:00",
-	"startNumber": 5439,
+	"name": "6. Commerzbank Firmenlauf",
+	"startDate": "2013-07-10",
+	"endDate": null,
 	"location": {
 		"name": "Sportforum, Leipzig",
 		"latitude": 51.34631,
 		"longitude": 12.35065
 	},
-	"distance": "4,8 km",
-	"time": "00:19:29",
 	"finished": true,
+	"runs": [
+		{
+			"startNumber": 5439,
+			"startTime": "2013-07-10T19:00",
+			"distance": "4,8 km",
+			"time": "00:19:29",
+			"team": "Run As Java Application",
+			"note": null
+		}
+	],
 	"pictures" : [
 		{
 			"title": "Bild 1/2",

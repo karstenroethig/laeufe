@@ -1,19 +1,25 @@
 {
-	"name": "Fisherman's Friend StrongmanRun",
+	"key": "2014-fishermans-friend-strongmanrun",
 	"raceKey": "fishermans-friend-strongmanrun",
-	"team": null,
-	"date": 1399719600000,
-	"dateString": "10. Mai 2014",
-	"startTime": "13:00",
-	"startNumber": "1610",
+	"name": "Fisherman's Friend StrongmanRun",
+	"startDate": "2014-05-10",
+	"endDate": null,
 	"location": {
 		"name": "Nürburgring, Nürburg",
 		"latitude": 50.333909,
 		"longitude": 6.94706
 	},
-	"distance": "2 x 12 km",
-	"time": "3:13:39",
 	"finished": true,
+	"runs": [
+		{
+			"startNumber": 1610,
+			"startTime": "2014-05-10T13:00",
+			"distance": "2 x 12 km",
+			"time": "03:13:39",
+			"team": null,
+			"note": null
+		}
+	],
 	"costs": {
 		"total": "94,90 €",
 		"positions": [

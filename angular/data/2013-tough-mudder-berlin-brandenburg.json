@@ -1,19 +1,25 @@
 {
-	"name": "Tough Mudder - Berlin-Brandenburg",
+	"key": "2013-tough-mudder-berlin-brandenburg",
 	"raceKey": "tough-mudder",
-	"team": "Beavis and Mud-Head",
-	"date": 1382179200000,
-	"dateString": "19. Oktober 2013",
-	"startTime": "12:40",
-	"startNumber": "3834",
+	"name": "Tough Mudder - Berlin-Brandenburg",
+	"startDate": "2013-10-19",
+	"endDate": "2013-10-20",
 	"location": {
 		"name": "Lausitzring, Klettwitz",
 		"latitude": 51.53698,
 		"longitude": 13.92824
 	},
-	"distance": "18+ km",
-	"time": "? (Uhr vergessen)",
 	"finished": true,
+	"runs": [
+		{
+			"startNumber": 3834,
+			"startTime": "2013-10-19T12:40",
+			"distance": "18+ km",
+			"time": "?",
+			"team": "Beavis and Mud-Head",
+			"note": "Uhr vergessen"
+		}
+	],
 	"costs": {
 		"total": "112,82 €",
 		"positions": [

@@ -15,7 +15,7 @@
 <div class="jumbotron">
 	<div class="container">
 		<h1 ng-bind="event.name"></h1>
-		<p ng-bind-template="{{event.dateString}}, {{event.location.name}}"></p>
+		<p ng-bind-template="{{ { 'startDate': event.startDate, 'endDate': event.endDate } | dateRangePretty }}, {{event.location.name}}"></p>
 	</div>
 </div>
 
@@ -28,24 +28,44 @@
 	
 	<div class="row">
 		<div class="col-md-4">
-			<dl class="dl-horizontal">
-				<dt ng-if="event.team">Team</dt>
-				<dd ng-if="event.team" ng-bind="event.team"></dd>
-				<dt ng-if="event.startTime">Startzeit</dt>
-				<dd ng-if="event.startTime" ng-bind="event.startTime"></dd>
-				<dt ng-if="event.startNumber">Startnummer</dt>
-				<dd ng-if="event.startNumber" ng-bind="event.startNumber"></dd>
-				<dt ng-if="event.distance">Distanz</dt>
-				<dd ng-if="event.distance" ng-bind="event.distance"></dd>
-				<dt ng-if="event.time">Zeit</dt>
-				<dd ng-if="event.time" ng-bind="event.time"></dd>
-			</dl>
+			<ul class="nav">
+				<li ng-if="event.runs"><a href="#runs">Ergebnisse</a></li>
+				<li ng-if="event.costs"><a href="#costs">Kosten</a></li>
+				<li ng-if="event.obstacles"><a href="#obstacles">Hindernisse</a></li>
+				<li ng-if="event.newspaperArticle"><a href="#newspaperArticle">Zeitungsartikel</a></li>
+				<li ng-if="event.pictures"><a href="#pictures">Fotos</a></li>
+			</ul>
 		</div>
 		<div class="col-md-8">
 			<div id="map" style="width: 600px; height: 400px; background-color: green;"></div>
 		</div>
 
 		<br/>
+	</div>
+
+	<div class="row" ng-if="event.runs">
+		<h1 id="runs">Ergebnisse</h1>
+		<hr/>
+		<table class="table table-striped">
+			<thead>
+				<th>Startnummer</th>
+				<th class="text-right">Startzeit</th>
+				<th class="text-right">Distanz</th>
+				<th class="text-right">Zeit</th>
+				<th>Team</th>
+				<th>Notiz</th>
+			</thead>
+			<tbody>
+				<tr ng-repeat="run in event.runs | orderBy: -startTime">
+					<td ng-bind="run.startNumber"></td>
+					<td class="text-right" ng-bind="run.startTime | date: 'dd.MM.yyyy HH:mm'"></td>
+					<td class="text-right" ng-bind="run.distance"></td>
+					<td class="text-right" ng-bind="run.time"></td>
+					<td ng-bind="run.team"></td>
+					<td ng-bind="run.note"></td>
+				</tr>
+			</tbody>
+		</table>
 	</div>
 
 	<div class="row" ng-if="event.costs">

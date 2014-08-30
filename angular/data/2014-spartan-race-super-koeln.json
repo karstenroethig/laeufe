@@ -1,19 +1,25 @@
 {
-	"name": "Spartan Race - Köln (Super)",
+	"key": "2014-spartan-race-super-koeln",
 	"raceKey": "spartan-race",
-	"team": "Beavis and Mud-Head",
-	"date": 1403944200000,
-	"dateString": "28. Juni 2014",
-	"startTime": "10:30",
-	"startNumber": "13633",
+	"name": "Spartan Race - Köln (Super)",
+	"startDate": "2014-06-28",
+	"endDate": null,
 	"location": {
 		"name": "Motocross Bielstein, Wiehl",
 		"latitude": 50.955130,
 		"longitude": 7.493133
 	},
-	"distance": "13+ km",
-	"time": "01:39:20",
 	"finished": true,
+	"runs": [
+		{
+			"startNumber": 13633,
+			"startTime": "2014-06-28T10:30",
+			"distance": "13+ km",
+			"time": "01:39:20",
+			"team": "Beavis and Mud-Head",
+			"note": null
+		}
+	],
 	"costs": {
 		"total": "62,75 €",
 		"positions": [

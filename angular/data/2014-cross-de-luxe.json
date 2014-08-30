@@ -1,19 +1,25 @@
 {
-	"name": "CROSS DE LUXE",
+	"key": "2014-cross-de-luxe",
 	"raceKey": "cross-de-luxe",
-	"team": null,
-	"date": 1411812000000,
-	"dateString": "27. September 2014",
-	"startTime": "12:00",
-	"startNumber": null,
+	"name": "CROSS DE LUXE",
+	"startDate": "2014-09-27",
+	"endDate": null,
 	"location": {
 		"name": "Markkleeberger See",
 		"latitude": 51.25534,
 		"longitude": 12.42442
 	},
-	"distance": "2 x 8 km",
-	"time": null,
 	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2014-09-27T12:00",
+			"distance": "2 x 8 km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
 	"costs": {
 		"total": "32,00 €",
 		"positions": [

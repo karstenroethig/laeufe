@@ -6,7 +6,7 @@ laeufeControllers.controller( 'EventListController', [ '$scope', 'EventDataServi
 	function( $scope, EventDataService ) {
 
 		$scope.query = '';
-		$scope.order = '-date';
+		$scope.order = '-startDate';
 
 		$scope.events = [];
 
@@ -33,7 +33,7 @@ laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams
 
 			$timeout( function() {
 				var now = new Date();
-				var eventDate = new Date( $scope.event.date );
+				var eventDate = new Date( $scope.event.startDate );
 
 				if( eventDate.getTime() < now.getTime() ) {
 					$scope.countdown = null;

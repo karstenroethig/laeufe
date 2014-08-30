@@ -41,3 +41,63 @@ laeufeFilters.filter( 'countdown', function() {
 		return daysInt + ' Tage ' + hoursInt + ' Stunden ' + minutesInt + ' Minuten ' + secondsInt + ' Sekunden';
 	};
 });
+
+var months = [ 'Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember' ];
+
+laeufeFilters.filter( 'dateRangePretty', function() {
+	return function( input ) {
+
+		if( !input || !input.startDate ) {
+			return '';
+		}
+
+		var output = [];
+
+		var startDate = new Date( input.startDate );
+		var startParts = [ startDate.getFullYear(), startDate.getMonth(), startDate.getDate() ];
+
+		var endParts = [];
+
+		if( input.endDate ) {
+			var endDate = new Date( input.endDate );
+			endParts = [ endDate.getFullYear(), endDate.getMonth(), endDate.getDate() ];
+		} else {
+			endParts = [ startDate.getFullYear(), startDate.getMonth(), startDate.getDate() ];
+		}
+
+		var sameYear = ( startParts[0] === endParts[0] );
+		var sameMonth = sameYear && ( startParts[1] === endParts[1] );
+		var sameDay = sameMonth && ( startParts[2] === endParts[2] );
+
+		if( !sameDay ) {
+			output.push( startParts[2] );
+			output.push( '.' );
+		}
+
+		if( !sameMonth ) {
+			output.push( ' ' );
+			output.push( months[startParts[1]] );
+		}
+
+		if( !sameYear ) {
+			output.push( ' ' );
+			output.push( startParts[0] );
+		}
+
+		if( !sameDay && sameMonth ) {
+			output.push( '-' );
+		}
+
+		if( !sameMonth || !sameYear ) {
+			output.push( ' - ' );
+		}
+
+		output.push( endParts[2] );
+		output.push( '. ' );
+		output.push( months[endParts[1]] );
+		output.push( ' ' );
+		output.push( endParts[0] );
+
+		return output.join( '' );
+	};
+});

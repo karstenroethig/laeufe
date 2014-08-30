@@ -1,17 +1,23 @@
 {
-	"name": "3. Commerzbank Firmenlauf",
+	"key": "2010-firmenlauf-leipzig",
 	"raceKey": "firmenlauf-leipzig",
-	"team": "Die Ehrgeizigsten",
-	"date": 1276102800000,
-	"dateString": "09. Juni 2010",
-	"startTime": "19:00",
-	"startNumber": "1701",
+	"name": "3. Commerzbank Firmenlauf",
+	"startDate": "2010-06-09",
+	"endDate": null,
 	"location": {
 		"name": "Sportforum, Leipzig",
 		"latitude": 51.34631,
 		"longitude": 12.35065
 	},
-	"distance": "5 km",
-	"time": "00:22:53",
-	"finished": true
+	"finished": true,
+	"runs": [
+		{
+			"startNumber": 1701,
+			"startTime": "2010-06-09T19:00",
+			"distance": "5 km",
+			"time": "00:22:53",
+			"team": "Die Ehrgeizigsten",
+			"note": null
+		}
+	]
 }

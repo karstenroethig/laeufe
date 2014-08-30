@@ -1,19 +1,25 @@
 {
-	"name": "Spartan Race - South London (Beast)",
+	"key": "2014-spartan-race-beast-south-london",
 	"raceKey": "spartan-race",
-	"team": null,
-	"date": 1413019800000,
-	"dateString": "11. Oktober 2014",
-	"startTime": "11:30",
-	"startNumber": null,
+	"name": "Spartan Race - South London (Beast)",
+	"startDate": "2014-10-11",
+	"endDate": null,
 	"location": {
 		"name": "Pippingford Park, East Sussex, UK",
 		"latitude": 51.05738,
 		"longitude": 0.05457
 	},
-	"distance": "20+ km",
-	"time": null,
 	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2014-10-11T11:30",
+			"distance": "20+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
 	"costs": {
 		"total": "(75,52 €) 63,00 GBP",
 		"positions": [

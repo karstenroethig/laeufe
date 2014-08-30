@@ -1,19 +1,25 @@
 {
-	"name": "Survival Run",
+	"key": "2014-survival-run",
 	"raceKey": "survival-run",
-	"team": null,
-	"date": 1410606000000,
-	"dateString": "13. September 2014",
-	"startTime": "13:00",
-	"startNumber": null,
+	"name": "Survival Run",
+	"startDate": "2014-09-13",
+	"endDate": null,
 	"location": {
 		"name": "Serengeti Park, Hodenhagen",
 		"latitude": 52.754,
 		"longitude": 9.6205
 	},
-	"distance": "2 x 8 km",
-	"time": null,
 	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2014-09-13T13:00",
+			"distance": "2 x 8 km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
 	"costs": {
 		"total": "49,00 €",
 		"positions": [

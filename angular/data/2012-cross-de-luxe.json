@@ -1,19 +1,25 @@
 {
-	"name": "CROSS DE LUXE",
+	"key": "2012-cross-de-luxe",
 	"raceKey": "cross-de-luxe",
-	"team": null,
-	"date": 1348999200000,
-	"dateString": "30. September 2012",
-	"startTime": "12:00",
-	"startNumber": "2",
+	"name": "CROSS DE LUXE",
+	"startDate": "2012-09-30",
+	"endDate": null,
 	"location": {
 		"name": "Markkleeberger See",
 		"latitude": 51.25534,
 		"longitude": 12.42442
 	},
-	"distance": "2 x 8 km",
-	"time": "01:59:34",
 	"finished": true,
+	"runs": [
+		{
+			"startNumber": 2,
+			"startTime": "2012-09-30T12:00",
+			"distance": "2 x 8 km",
+			"time": "01:59:34",
+			"team": null,
+			"note": null
+		}
+	],
 	"costs": {
 		"total": "24,00 €",
 		"positions": [

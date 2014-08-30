@@ -1,17 +1,23 @@
 {
-	"name": "5. Commerzbank Firmenlauf",
+	"key": "2012-firmenlauf-leipzig",
 	"raceKey": "firmenlauf-leipzig",
-	"team": null,
-	"date": 1340213400000,
-	"dateString": "20. Juni 2012",
-	"startTime": "19:30",
-	"startNumber": null,
+	"name": "5. Commerzbank Firmenlauf",
+	"startDate": "2012-06-20",
+	"endDate": null,
 	"location": {
 		"name": "Sportforum, Leipzig",
 		"latitude": 51.34631,
 		"longitude": 12.35065
 	},
-	"distance": "5 km",
-	"time": "ca. 00:20:00",
-	"finished": true
+	"finished": true,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2012-06-20T19:30",
+			"distance": "5 km",
+			"time": "ca. 00:20:00",
+			"team": null,
+			"note": "Zeit-Chip hat nicht funktioniert"
+		}
+	]
 }

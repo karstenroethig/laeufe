@@ -1,19 +1,25 @@
 {
-	"name": "Tough Mudder - Berlin-Brandenburg",
+	"key": "2014-tough-mudder-berlin-brandenburg",
 	"raceKey": "tough-mudder",
-	"team": "Beavis and Mud-Head",
-	"date": 1406452800000,
-	"dateString": "27. Juli 2014",
-	"startTime": "11:20",
-	"startNumber": 5134,
+	"name": "Tough Mudder - Berlin-Brandenburg",
+	"startDate": "2014-07-26",
+	"endDate": "2014-07-27",
 	"location": {
 		"name": "Lausitzring, Klettwitz",
 		"latitude": 51.53698,
 		"longitude": 13.92824
 	},
-	"distance": "18+ km",
-	"time": "02:15:00",
 	"finished": true,
+	"runs": [
+		{
+			"startNumber": 5134,
+			"startTime": "2014-07-27T11:20",
+			"distance": "18+ km",
+			"time": "02:15:00",
+			"team": "Beavis and Mud-Head",
+			"note": null
+		}
+	],
 	"costs": {
 		"total": "50,00 €",
 		"positions": [

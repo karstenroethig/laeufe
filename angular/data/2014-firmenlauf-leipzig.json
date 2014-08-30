@@ -1,19 +1,25 @@
 {
-	"name": "7. Commerzbank Firmenlauf",
+	"key": "2014-firmenlauf-leipzig",
 	"raceKey": "firmenlauf-leipzig",
-	"team": "Run As Java Application",
-	"date": 1401901200000,
-	"dateString": "4. Juni 2014",
-	"startTime": "19:00",
-	"startNumber": 5887,
+	"name": "7. Commerzbank Firmenlauf",
+	"startDate": "2014-06-04",
+	"endDate": null,
 	"location": {
 		"name": "Sportforum, Leipzig",
 		"latitude": 51.34631,
 		"longitude": 12.35065
 	},
-	"distance": "4,8 km",
-	"time": "00:18:14",
 	"finished": true,
+	"runs": [
+		{
+			"startNumber": 5887,
+			"startTime": "2014-06-04T19:00",
+			"distance": "4,8 km",
+			"time": "00:18:14",
+			"team": "Run As Java Application",
+			"note": null
+		}
+	],
 	"newspaperArticle": {
 		"newspaperName": "LVZ-Online >> Sport >> Regionalsport",
 		"date": "Mittwoch, 4. Juni 2014",

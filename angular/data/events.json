@@ -1,230 +1,230 @@
 [
 	{
 		"key": "2010-firmenlauf-leipzig",
+		"raceKey": "firmenlauf-leipzig",
 		"name": "3. Commerzbank Firmenlauf",
-		"date": 1276102800000,
-		"dateString": "09.06.2010 19:00",
+		"startDate": "2010-06-09",
+		"endDate": null,
 		"location": "Sportforum, Leipzig",
 		"distance": "5 km",
 		"time": "00:22:53",
 		"costs": "0,00 €",
-		"finished": true,
-		"raceKey": "firmenlauf-leipzig"
+		"finished": true
 	},
 	{
 		"key": "2011-firmenlauf-leipzig",
+		"raceKey": "firmenlauf-leipzig",
 		"name": "4. Commerzbank Firmenlauf",
-		"date": 1307466000000,
-		"dateString": "07.06.2011 19:00",
+		"startDate": "2011-06-07",
+		"endDate": null,
 		"location": "Sportforum, Leipzig",
 		"distance": "5,2 km",
 		"time": "00:24:07",
 		"costs": "0,00 €",
-		"finished": true,
-		"raceKey": "firmenlauf-leipzig"
+		"finished": true
 	},
 	{
 		"key": "2012-firmenlauf-leipzig",
+		"raceKey": "firmenlauf-leipzig",
 		"name": "5. Commerzbank Firmenlauf",
-		"date": 1340213400000,
-		"dateString": "20.06.2012 19:30",
+		"startDate": "2012-06-20",
+		"endDate": null,
 		"location": "Sportforum, Leipzig",
 		"distance": "5 km",
 		"time": "ca. 00:20:00",
 		"costs": "0,00 €",
-		"finished": true,
-		"raceKey": "firmenlauf-leipzig"
+		"finished": true
 	},
 	{
 		"key": "2012-cross-de-luxe",
+		"raceKey": "cross-de-luxe",
 		"name": "CROSS DE LUXE",
-		"date": 1348999200000,
-		"dateString": "30.09.2012 12:00",
+		"startDate": "2012-09-30",
+		"endDate": null,
 		"location": "Markkleeberger See",
 		"distance": "2 x 8 km",
 		"time": "01:59:34",
 		"costs": "24,00 €",
-		"finished": true,
-		"raceKey": "cross-de-luxe"
+		"finished": true
 	},
 	{
 		"key": "2013-firmenlauf-leipzig",
+		"raceKey": "firmenlauf-leipzig",
 		"name": "6. Commerzbank Firmenlauf",
-		"date": 1373475600000,
-		"dateString": "10.07.2013 19:00",
+		"startDate": "2013-07-10",
+		"endDate": null,
 		"location": "Sportforum, Leipzig",
 		"distance": "4,8 km",
 		"time": "00:19:29",
 		"costs": "0,00 €",
-		"finished": true,
-		"raceKey": "firmenlauf-leipzig"
+		"finished": true
 	},
 	{
 		"key": "2013-tough-mudder-nordwestdeutschland",
+		"raceKey": "tough-mudder",
 		"name": "Tough Mudder - Nordwestdeutschland",
-		"date": 1373709600000,
-		"dateString": "13.07.2013 12:00",
+		"startDate": "2013-07-13",
+		"endDate": "2013-07-14",
 		"location": "Fursten Forest, Fürstenau",
 		"distance": "18+ km",
 		"time": "02:10:00",
 		"costs": "112,82 €",
-		"finished": true,
-		"raceKey": "tough-mudder"
+		"finished": true
 	},
 	{
 		"key": "2013-cross-de-luxe",
+		"raceKey": "cross-de-luxe",
 		"name": "CROSS DE LUXE",
-		"date": 1380362400000,
-		"dateString": "28.09.2013 12:00",
+		"startDate": "2013-09-28",
+		"endDate": null,
 		"location": "Markkleeberger See",
 		"distance": "2 x 8,65 km",
 		"time": "01:49:16",
 		"costs": "32,00 €",
-		"finished": true,
-		"raceKey": "cross-de-luxe"
+		"finished": true
 	},
 	{
 		"key": "2013-tough-mudder-berlin-brandenburg",
+		"raceKey": "tough-mudder",
 		"name": "Tough Mudder - Berlin-Brandenburg",
-		"date": 1382179200000,
-		"dateString": "19.10.2013 12:40",
+		"startDate": "2013-10-19",
+		"endDate": "2013-10-20",
 		"location": "Lausitzring, Klettwitz",
 		"distance": "18+ km",
 		"time": null,
 		"costs": "112,82 €",
-		"finished": true,
-		"raceKey": "tough-mudder"
+		"finished": true
 	},
 	{
 		"key": "2014-spartan-race-sprint-muenchen",
+		"raceKey": "spartan-race",
 		"name": "Spartan Race - München (Sprint)",
-		"date": 1397292300000,
-		"dateString": "12.04.2014 10:45",
+		"startDate": "2014-04-12",
+		"endDate": null,
 		"location": "Olympiapark, München",
 		"distance": "6+ km",
 		"time": "< 01:15:41",
 		"costs": "47,00 €",
-		"finished": true,
-		"raceKey": "spartan-race"
+		"finished": true
 	},
 	{
 		"key": "2014-fishermans-friend-strongmanrun",
+		"raceKey": "fishermans-friend-strongmanrun",
 		"name": "Fisherman's Friend StrongmanRun",
-		"date": 1399719600000,
-		"dateString": "10.05.2014 13:00",
+		"startDate": "2014-05-10",
+		"endDate": null,
 		"location": "Nürburgring, Nürburg",
 		"distance": "2 x 12 km",
 		"time": "03:13:39",
 		"costs": "94,90 €",
-		"finished": true,
-		"raceKey": "fishermans-friend-strongmanrun"
+		"finished": true
 	},
 	{
 		"key": "2014-firmenlauf-leipzig",
+		"raceKey": "firmenlauf-leipzig",
 		"name": "7. Commerzbank Firmenlauf",
-		"date": 1401901200000,
-		"dateString": "04.06.2014 19:00",
+		"startDate": "2014-06-04",
+		"endDate": null,
 		"location": "Sportforum, Leipzig",
 		"distance": "4,8 km",
 		"time": "00:18:14",
 		"costs": "0,00 €",
-		"finished": true,
-		"raceKey": "firmenlauf-leipzig"
+		"finished": true
 	},
 	{
 		"key": "2014-ammelshainer-schlosslauf",
+		"raceKey": "ammelshainer-schlosslauf",
 		"name": "8. Ammelshainer Schlosslauf",
-		"date": 1403283600000,
-		"dateString": "20.06.2014 19:00",
+		"startDate": "2014-06-20",
+		"endDate": null,
 		"location": "Ammelshainer Schloss, Ammelshain",
 		"distance": "8 km",
 		"time": "00:36:19",
 		"costs": "5,00 €",
-		"finished": true,
-		"raceKey": "ammelshainer-schlosslauf"
+		"finished": true
 	},
 	{
 		"key": "2014-spartan-race-super-koeln",
+		"raceKey": "spartan-race",
 		"name": "Spartan Race - Köln (Super)",
-		"date": 1403944200000,
-		"dateString": "28.06.2014 10:30",
+		"startDate": "2014-06-28",
+		"endDate": null,
 		"location": "Motocross Bielstein, Wiehl",
 		"distance": "13+ km",
 		"time": "01:39:20",
 		"costs": "62,75 €",
-		"finished": true,
-		"raceKey": "spartan-race"
+		"finished": true
 	},
 	{
 		"key": "2014-tough-mudder-berlin-brandenburg",
+		"raceKey": "tough-mudder",
 		"name": "Tough Mudder - Berlin-Brandenburg",
-		"date": 1406452800000,
-		"dateString": "27.07.2014 11:20",
+		"startDate": "2014-07-26",
+		"endDate": "2014-07-27",
 		"location": "Lausitzring, Klettwitz",
 		"distance": "18+ km",
 		"time": "02:15:00",
 		"costs": "50,00 €",
-		"finished": true,
-		"raceKey": "tough-mudder"
+		"finished": true
 	},
 	{
 		"key": "2014-tough-mudder-rhein-main",
+		"raceKey": "tough-mudder",
 		"name": "Tough Mudder - Rhein-Main",
-		"date": 1407657600000,
-		"dateString": "10.08.2014 10:00",
+		"startDate": "2014-08-09",
+		"endDate": "2014-08-10",
 		"location": "Hofgut Luisenlust, Hirzenhain",
 		"distance": "18+ km",
 		"time": "02:00:00",
 		"costs": "16,97 €",
-		"finished": true,
-		"raceKey": "tough-mudder"
+		"finished": true
 	},
 	{
 		"key": "2014-survival-run",
+		"raceKey": "survival-run",
 		"name": "Survival Run",
-		"date": 1410606000000,
-		"dateString": "13.09.2014 13:00",
+		"startDate": "2014-09-13",
+		"endDate": null,
 		"location": "Serengeti Park, Hodenhagen",
 		"distance": "2 x 8 km",
 		"time": null,
 		"costs": "49,00 €",
-		"finished": false,
-		"raceKey": "survival-run"
+		"finished": false
 	},
 	{
 		"key": "2014-cross-de-luxe",
+		"raceKey": "cross-de-luxe",
 		"name": "CROSS DE LUXE",
-		"date": 1411812000000,
-		"dateString": "27.09.2014 12:00",
+		"startDate": "2014-09-27",
+		"endDate": null,
 		"location": "Markkleeberger See",
 		"distance": "2 x 8 km",
 		"time": null,
 		"costs": "32,00 €",
-		"finished": false,
-		"raceKey": "cross-de-luxe"
+		"finished": false
 	},
 	{
 		"key": "2014-spartan-race-beast-south-london",
+		"raceKey": "spartan-race",
 		"name": "Spartan Race - South London (Beast)",
-		"date": 1413019800000,
-		"dateString": "11.10.2014 11:30",
+		"startDate": "2014-10-11",
+		"endDate": null,
 		"location": "Pippingford Park, East Sussex, UK",
 		"distance": "20+ km",
 		"time": null,
 		"costs": "75,52 €",
-		"finished": false,
-		"raceKey": "spartan-race"
+		"finished": false
 	},
 	{
 		"key": "2014-fockeberglauf",
+		"raceKey": "fockeberglauf",
 		"name": "47. Fockeberglauf",
-		"date": 1414832400000,
-		"dateString": "01.11.2014 10:00",
+		"startDate": "2014-11-01",
+		"endDate": null,
 		"location": "Fockeberg, Leipzig",
 		"distance": "6 x 2 km",
 		"time": null,
 		"costs": "5,00 €",
-		"finished": false,
-		"raceKey": "fockeberglauf"
+		"finished": false
 	}
 ]
