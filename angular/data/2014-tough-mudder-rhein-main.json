@@ -21,7 +21,7 @@
 		}
 	],
 	"costs": {
-		"total": "16,97 €",
+		"total": "52,97 €",
 		"positions": [
 			{
 				"description": "Ganztags-Volunteer Teilnehmer",
@@ -30,6 +30,18 @@
 			{
 				"description": "Transaktionsbearbeitungsgebühr",
 				"subTotal": "1,97 €"
+			},
+			{
+				"description": "Pension in Gedern (eine Nacht)",
+				"subTotal": "25,00 €"
+			},
+			{
+				"description": "Shuttle",
+				"subTotal": "8,00 €"
+			},
+			{
+				"description": "Gaderobe",
+				"subTotal": "3,00 €"
 			}
 		]
 	},

@@ -21,7 +21,7 @@
 		}
 	],
 	"costs": {
-		"total": "62,75 €",
+		"total": "74,75 €",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
@@ -30,6 +30,14 @@
 			{
 				"description": "Transaktionsbearbeitungsgebühr",
 				"subTotal": "3,75 €"
+			},
+			{
+				"description": "Camping in Bielstein",
+				"subTotal": "7,00 €"
+			},
+			{
+				"description": "Parken",
+				"subTotal": "5,00 €"
 			}
 		]
 	},

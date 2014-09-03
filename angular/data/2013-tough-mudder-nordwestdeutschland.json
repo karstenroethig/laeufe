@@ -21,7 +21,7 @@
 		}
 	],
 	"costs": {
-		"total": "112,82 €",
+		"total": "192,77 €",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
@@ -34,6 +34,14 @@
 			{
 				"description": "Transaktionsbearbeitungsgebühr",
 				"subTotal": "7,82 €"
+			},
+			{
+				"description": "Camping",
+				"subTotal": "25,00 €"
+			},
+			{
+				"description": "Fotos",
+				"subTotal": "54,95 €"
 			}
 		]
 	},

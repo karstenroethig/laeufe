@@ -21,7 +21,7 @@
 		}
 	],
 	"costs": {
-		"total": "112,82 €",
+		"total": "172,77 €",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
@@ -34,6 +34,14 @@
 			{
 				"description": "Transaktionsbearbeitungsgebühr",
 				"subTotal": "7,82 €"
+			},
+			{
+				"description": "Parken",
+				"subTotal": "10,00 €"
+			},
+			{
+				"description": "Fotos",
+				"subTotal": "49,95 €"
 			}
 		]
 	},

@@ -1,7 +1,7 @@
 {
 	"key": "2014-fishermans-friend-strongmanrun-nuerburgring",
 	"raceKey": "fishermans-friend-strongmanrun",
-	"name": "Fisherman's Friend StrongmanRun",
+	"name": "Fisherman's Friend StrongmanRun - Nürburgring",
 	"startDate": "2014-05-10",
 	"endDate": null,
 	"location": {
@@ -21,7 +21,7 @@
 		}
 	],
 	"costs": {
-		"total": "94,90 €",
+		"total": "143,89 €",
 		"positions": [
 			{
 				"description": "Startgeld (Starter 1 - 3.000)",
@@ -42,6 +42,18 @@
 			{
 				"description": "Erstattung für Rückgabe des Chips",
 				"subTotal": "-25,00 €"
+			},
+			{
+				"description": "Camping am Nürburgring",
+				"subTotal": "29,00 €"
+			},
+			{
+				"description": "Parken",
+				"subTotal": "0,00 €"
+			},
+			{
+				"description": "Fotos",
+				"subTotal": "19,99 €"
 			}
 		]
 	},

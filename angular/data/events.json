@@ -68,7 +68,7 @@
 		"location": "Fursten Forest, Fürstenau",
 		"distance": "18+ km",
 		"time": "02:10:00",
-		"costs": "112,82 €",
+		"costs": "192,77 €",
 		"finished": true
 	},
 	{
@@ -80,7 +80,7 @@
 		"location": "Markkleeberger See",
 		"distance": "2 x 8,65 km",
 		"time": "01:49:16",
-		"costs": "32,00 €",
+		"costs": "56,90 €",
 		"finished": true
 	},
 	{
@@ -92,7 +92,7 @@
 		"location": "Lausitzring, Klettwitz",
 		"distance": "18+ km",
 		"time": null,
-		"costs": "112,82 €",
+		"costs": "172,77 €",
 		"finished": true
 	},
 	{
@@ -110,13 +110,13 @@
 	{
 		"key": "2014-fishermans-friend-strongmanrun-nuerburgring",
 		"raceKey": "fishermans-friend-strongmanrun",
-		"name": "Fisherman's Friend StrongmanRun",
+		"name": "Fisherman's Friend StrongmanRun - Nürburgring",
 		"startDate": "2014-05-10",
 		"endDate": null,
 		"location": "Nürburgring, Nürburg",
 		"distance": "2 x 12 km",
 		"time": "03:13:39",
-		"costs": "94,90 €",
+		"costs": "143,89 €",
 		"finished": true
 	},
 	{
@@ -152,7 +152,7 @@
 		"location": "Motocross Bielstein, Wiehl",
 		"distance": "13+ km",
 		"time": "01:39:20",
-		"costs": "62,75 €",
+		"costs": "74,75 €",
 		"finished": true
 	},
 	{
@@ -176,7 +176,7 @@
 		"location": "Hofgut Luisenlust, Hirzenhain",
 		"distance": "18+ km",
 		"time": "02:00:00",
-		"costs": "16,97 €",
+		"costs": "52,97 €",
 		"finished": true
 	},
 	{

@@ -30,6 +30,10 @@
 			{
 				"description": "Rabatt für Frühanmelder",
 				"subTotal": "-5,00 €"
+			},
+			{
+				"description": "Camping inkl. Parken für Volunteers",
+				"subTotal": "0,00 €"
 			}
 		]
 	},

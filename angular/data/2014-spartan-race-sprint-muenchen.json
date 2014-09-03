@@ -30,6 +30,10 @@
 			{
 				"description": "Transaktionsbearbeitungsgebühr",
 				"subTotal": "3,00 €"
+			},
+			{
+				"description": "Parken",
+				"subTotal": "? €"
 			}
 		]
 	},
