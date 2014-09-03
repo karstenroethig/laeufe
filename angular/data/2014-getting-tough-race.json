@@ -1,0 +1,32 @@
+{
+	"key": "2014-getting-tough-race",
+	"raceKey": "getting-tough-race",
+	"name": "Getting Tough - The Race III",
+	"startDate": "2014-12-06",
+	"endDate": null,
+	"location": {
+		"name": "Festwiese Röntgenstraße, Rudolstadt",
+		"latitude": 50.7181048,
+		"longitude": 11.3534061
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2014-12-06T10:30",
+			"distance": "24 km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": "69,00 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "69,00 €"
+			}
+		]
+	}
+}

@@ -158,5 +158,16 @@
 				"name": "8. Ammelshainer Schlosslauf 2014"
 			}
 		]
+	},
+	{
+		"name": "Festwiese Röntgenstraße, Rudolstadt",
+		"latitude": 50.7181048,
+		"longitude": 11.3534061,
+		"events": [
+			{
+				"key": "2014-getting-tough-race",
+				"name": "Getting Tough - The Rece III 2014"
+			}
+		]
 	}
 ]
