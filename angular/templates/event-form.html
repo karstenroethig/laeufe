@@ -44,13 +44,26 @@
 		<div class="form-group">
 			<label for="startDate" class="col-sm-2 control-label">Beginn</label>
 			<div class="col-sm-4">
-				<input type="text" class="form-control" id="startDate" name="startDate" ng-model="event.startDate" placeholder="Beginn" required>
+				<div class="input-group date">
+					<input type="text" class="form-control" id="startDate" name="startDate" ng-model="event.startDate" placeholder="Beginn" required><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span>
+				</div>
 				<span class="help-block" ng-show="eventForm.startDate.$dirty && eventForm.startDate.$invalid">Es muss ein Datum angegeben werden.</span>
 			</div>
 			<label for="endDate" class="col-sm-2 control-label">Ende</label>
 			<div class="col-sm-4">
-				<input type="text" class="form-control" id="endDate" name="endDate" ng-model="event.endDate" placeholder="Ende">
+				<div class="input-group date">
+					<input type="text" class="form-control" id="endDate" name="endDate" ng-model="event.endDate" placeholder="Ende"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span>
+				</div>
 			</div>
+			<script type="text/javascript">
+				$( '.date' ).datepicker({
+					format: 'yyyy-mm-dd',
+					weekStart: 1,
+					todayBtn: 'linked',
+					language: 'de',
+					todayHighlight: true
+				});
+			</script>
 		</div>
 		<div class="form-group">
 			<label for="location_name" class="col-sm-2 control-label">Ort</label>

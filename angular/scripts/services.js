@@ -66,7 +66,7 @@ laeufeServices.factory( 'EventTemplateService', [
 			eventContentLines.push( '\t"raceKey": "' + event.raceKey + '",' );
 			eventContentLines.push( '\t"name": "' + event.name + '",' );
 			eventContentLines.push( '\t"startDate": "' + event.startDate + '",' );
-			eventContentLines.push( '\t"endDate": ' + ( event.endDate ? ( '"' + event.endDate + '",' ) : null ) + ',' );
+			eventContentLines.push( '\t"endDate": ' + ( event.endDate ? ( '"' + event.endDate + '"' ) : null ) + ',' );
 			eventContentLines.push( '\t"location": {' );
 			eventContentLines.push( '\t\t"name": "' + event.location.name + '",' );
 			eventContentLines.push( '\t\t"latitude": ' + ( event.location.latitude ? event.location.latitude : null ) + ',' );
@@ -105,7 +105,7 @@ laeufeServices.factory( 'EventTemplateService', [
 			eventsContentLines.push( '\t\t"raceKey": "' + event.raceKey + '",' );
 			eventsContentLines.push( '\t\t"name": "' + event.name + '",' );
 			eventsContentLines.push( '\t\t"startDate": "' + event.startDate + '",' );
-			eventsContentLines.push( '\t\t"endDate": ' + ( event.endDate ? ( '"' + event.endDate + '",' ) : null ) );
+			eventsContentLines.push( '\t\t"endDate": ' + ( event.endDate ? ( '"' + event.endDate + '"' ) : null ) + ',' );
 			eventsContentLines.push( '\t\t"location": "' + event.location.name + '",' );
 			eventsContentLines.push( '\t\t"distance": "? km",' );
 			eventsContentLines.push( '\t\t"time": null,' );
