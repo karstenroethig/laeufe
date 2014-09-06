@@ -156,3 +156,19 @@
 	</div>
 	
 </div>
+
+<script>
+	$map = L.map( 'map' ).setView( [51.3181, 12.41922], 6 );
+
+	L.tileLayer( 'http://{s}.tiles.mapbox.com/v3/karstenroethig.jeb777o8/{z}/{x}/{y}.png', {
+		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+		maxZoom: 18
+	}).addTo( $map );
+
+
+	function setMarker( location ) {
+		if( location ) {
+			L.marker( [ location.latitude, location.longitude ] ).addTo( $map ).bindPopup( location.name ).openPopup();
+		}
+	}
+</script>

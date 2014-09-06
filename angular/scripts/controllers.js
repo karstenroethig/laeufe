@@ -50,6 +50,7 @@ laeufeControllers.controller( 'EventDetailController', [ '$scope', '$routeParams
 			$scope.event = res.data;
 
 			updateCountdown();
+			setMarker( $scope.event.location );
 		}, function( error ) {
 			console.log( 'An error occurred.', error );
 		});
@@ -105,6 +106,8 @@ laeufeControllers.controller( 'MapController', [ '$scope', 'EventDataService',
 
 		EventDataService.getEventLocations().then( function( res ) {
 			$scope.locations = res.data;
+
+			setMarkers( $scope.locations );
 		}, function( error ) {
 			console.log( 'An error occurred.', error );
 		});
