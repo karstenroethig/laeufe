@@ -81,8 +81,8 @@ laeufeControllers.controller( 'EventEditController', [ '$scope', '$routeParams',
 	}
 ]);
 
-laeufeControllers.controller( 'EventNewController', [ '$scope', 'EventDataService',
-	function( $scope, EventDataService ) {
+laeufeControllers.controller( 'EventNewController', [ '$scope', 'EventDataService', 'EventTemplateService',
+	function( $scope, EventDataService, EventTemplateService ) {
 
 		EventDataService.getRaces().then( function( res ) {
 			$scope.races = res.data;

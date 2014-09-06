@@ -42,12 +42,14 @@
 			</div>
 		</div>
 		<div class="form-group">
-			<div class="col-sm-offset-2 col-sm-10">
-				<div class="checkbox">
-					<label>
-						<input type="checkbox" name="finished" ng-model="event.finished"> Lauf beendet
-					</label>
-				</div>
+			<label for="startDate" class="col-sm-2 control-label">Beginn</label>
+			<div class="col-sm-4">
+				<input type="text" class="form-control" id="startDate" name="startDate" ng-model="event.startDate" placeholder="Beginn" required>
+				<span class="help-block" ng-show="eventForm.startDate.$dirty && eventForm.startDate.$invalid">Es muss ein Datum angegeben werden.</span>
+			</div>
+			<label for="endDate" class="col-sm-2 control-label">Ende</label>
+			<div class="col-sm-4">
+				<input type="text" class="form-control" id="endDate" name="endDate" ng-model="event.endDate" placeholder="Ende">
 			</div>
 		</div>
 		<div class="form-group">
@@ -55,6 +57,25 @@
 			<div class="col-sm-10">
 				<input type="text" class="form-control" id="location_name" name="location_name" ng-model="event.location.name" placeholder="Ort" required>
 				<span class="help-block" ng-show="eventForm.location_name.$dirty && eventForm.location_name.$invalid">Es muss ein Austragungsort angegeben werden.</span>
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="location_latitude" class="col-sm-2 control-label">Latitude</label>
+			<div class="col-sm-4">
+				<input type="text" class="form-control" id="location_latitude" name="location_latitude" ng-model="event.location.latitude" placeholder="Latitude">
+			</div>
+			<label for="location_longitude" class="col-sm-2 control-label">Longitude</label>
+			<div class="col-sm-4">
+				<input type="text" class="form-control" id="location_longitude" name="location_longitude" ng-model="event.location.longitude" placeholder="Longitude">
+			</div>
+		</div>
+		<div class="form-group">
+			<div class="col-sm-offset-2 col-sm-10">
+				<div class="checkbox">
+					<label>
+						<input type="checkbox" name="finished" ng-model="event.finished"> Lauf beendet
+					</label>
+				</div>
 			</div>
 		</div>
 		<div class="form-group">
