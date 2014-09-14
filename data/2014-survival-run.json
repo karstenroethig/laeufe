@@ -9,15 +9,15 @@
 		"latitude": 52.754,
 		"longitude": 9.6205
 	},
-	"finished": false,
+	"finished": true,
 	"runs": [
 		{
-			"startNumber": null,
+			"startNumber": 2900,
 			"startTime": "2014-09-13T13:00",
 			"distance": "2 x 8 km",
-			"time": null,
+			"time": "01:29:59",
 			"team": null,
-			"note": null
+			"note": "Platz 57 von 739 16-km-Läufern"
 		}
 	],
 	"costs": {

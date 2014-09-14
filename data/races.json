@@ -44,8 +44,8 @@
 	{
 		"key": "survival-run",
 		"name": "Survival Run",
-		"participations": 0,
-		"participationsPlanned": 1
+		"participations": 1,
+		"participationsPlanned": 0
 	},
 	{
 		"key": "tough-mudder",

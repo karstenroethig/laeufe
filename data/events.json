@@ -187,9 +187,9 @@
 		"endDate": null,
 		"location": "Serengeti Park, Hodenhagen",
 		"distance": "2 x 8 km",
-		"time": null,
+		"time": "01:29:59",
 		"costs": "49,00 €",
-		"finished": false
+		"finished": true
 	},
 	{
 		"key": "2014-cross-de-luxe",
