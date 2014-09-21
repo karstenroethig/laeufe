@@ -32,5 +32,95 @@
 				"subTotal": "-8,00 €"
 			}
 		]
-	}
+	},
+	"obstacles": [
+		{
+			"name": "Vollwaschgang",
+			"description": ""
+		},
+		{
+			"name": "Big Pig",
+			"description": ""
+		},
+		{
+			"name": "Markkleeberger Horn (NEU)",
+			"description": ""
+		},
+		{
+			"name": "Wenges Pipeline Cross",
+			"description": ""
+		},
+		{
+			"name": "Grüne Hölle",
+			"description": ""
+		},
+		{
+			"name": "Electric Garden (NEU)",
+			"description": ""
+		},
+		{
+			"name": "S&B Drunter und Drüber",
+			"description": ""
+		},
+		{
+			"name": "Huiih (NEU)",
+			"description": ""
+		},
+		{
+			"name": "Gib Gummi",
+			"description": ""
+		},
+		{
+			"name": "mp Kriechstrecke",
+			"description": ""
+		},
+		{
+			"name": "Jakobsleiter",
+			"description": ""
+		},
+		{
+			"name": "Crazy Rubber 2.0",
+			"description": ""
+		},
+		{
+			"name": "Firewall (NEU)",
+			"description": ""
+		},
+		{
+			"name": "MP-Shaker",
+			"description": ""
+		},
+		{
+			"name": "Rubber",
+			"description": ""
+		},
+		{
+			"name": "Wiesners Schlammschlacht (NEU)",
+			"description": ""
+		},
+		{
+			"name": "Höllenstiege",
+			"description": ""
+		},
+		{
+			"name": "Höllenrausch",
+			"description": ""
+		},
+		{
+			"name": "GTM-Mega Bridge",
+			"description": ""
+		},
+		{
+			"name": "Get over fear (NEU)",
+			"description": ""
+		},
+		{
+			"name": "GTM Spiderman 3.0 (NEU)",
+			"description": ""
+		},
+		{
+			"name": "Schlammschlacht",
+			"description": ""
+		}
+	]
 }
