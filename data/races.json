@@ -8,8 +8,8 @@
 	{
 		"key": "cross-de-luxe",
 		"name": "CROSS DE LUXE",
-		"participations": 2,
-		"participationsPlanned": 1
+		"participations": 3,
+		"participationsPlanned": 0
 	},
 	{
 		"key": "firmenlauf-leipzig",
@@ -51,7 +51,7 @@
 		"key": "tough-mudder",
 		"name": "Tough Mudder",
 		"participations": 4,
-		"participationsPlanned": 0
+		"participationsPlanned": 2
 	},
 	{
 		"key": "triathlon-leipzig",

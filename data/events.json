@@ -199,9 +199,9 @@
 		"endDate": null,
 		"location": "Markkleeberger See",
 		"distance": "2 x 8 km",
-		"time": null,
+		"time": "01:48:42",
 		"costs": "32,00 €",
-		"finished": false
+		"finished": true
 	},
 	{
 		"key": "2014-spartan-race-beast-south-london",
@@ -225,6 +225,42 @@
 		"distance": "6 x 2 km",
 		"time": null,
 		"costs": "5,00 €",
+		"finished": false
+	},
+	{
+		"key": "2014-getting-tough-race",
+		"raceKey": "getting-tough-race",
+		"name": "Getting Tough - The Race III",
+		"startDate": "2014-12-06",
+		"endDate": null,
+		"location": "Festwiese Röntgenstraße, Rudolstadt",
+		"distance": "24 km",
+		"time": null,
+		"costs": "69,00 €",
+		"finished": false
+	},
+	{
+		"key": "2015-tough-mudder-midlands",
+		"raceKey": "tough-mudder",
+		"name": "Tough Mudder - Midlands",
+		"startDate": "2015-05-30",
+		"endDate": "2015-05-31",
+		"location": "Boughton House, Kettering, UK",
+		"distance": "18+ km",
+		"time": null,
+		"costs": null,
+		"finished": false
+	},
+	{
+		"key": "2015-tough-mudder-scotland",
+		"raceKey": "tough-mudder",
+		"name": "Tough Mudder - Scotland",
+		"startDate": "2015-06-20",
+		"endDate": "2015-06-21",
+		"location": "Drumlanrig Castle, Thornhill, UK",
+		"distance": "18+ km",
+		"time": null,
+		"costs": null,
 		"finished": false
 	}
 ]

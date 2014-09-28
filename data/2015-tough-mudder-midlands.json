@@ -1,0 +1,40 @@
+{
+	"key": "2015-tough-mudder-midlands",
+	"raceKey": "tough-mudder",
+	"name": "Tough Mudder - Midlands",
+	"startDate": "2015-05-30",
+	"endDate": "2015-05-31",
+	"location": {
+		"name": "Boughton House, Kettering, UK",
+		"latitude": 52.4048609,
+		"longitude": -0.6648779
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2015-05-30T10:00",
+			"distance": "18+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		},
+		{
+			"startNumber": null,
+			"startTime": "2015-05-31T10:00",
+			"distance": "18+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": "? €",
+		"positions": [
+			{
+				"description": "2015 European Season Pass",
+				"subTotal": "? €"
+			}
+		]
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"key": "2015-tough-mudder-scotland",
+	"raceKey": "tough-mudder",
+	"name": "Tough Mudder - Scotland",
+	"startDate": "2015-06-20",
+	"endDate": "2015-06-21",
+	"location": {
+		"name": "Drumlanrig Castle, Thornhill, UK",
+		"latitude": 55.27341,
+		"longitude": -3.8064312
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2015-06-20T10:00",
+			"distance": "18+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		},
+		{
+			"startNumber": null,
+			"startTime": "2015-06-21T10:00",
+			"distance": "18+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": "? €",
+		"positions": [
+			{
+				"description": "?",
+				"subTotal": "? €"
+			}
+		]
+	}
+}
