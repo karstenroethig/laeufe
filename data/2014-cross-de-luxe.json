@@ -21,7 +21,7 @@
 		}
 	],
 	"costs": {
-		"total": "32,00 €",
+		"total": "51,99 €",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
@@ -30,6 +30,10 @@
 			{
 				"description": "Rabatt für SK-Konto (20%)",
 				"subTotal": "-8,00 €"
+			},
+			{
+				"description": "Fotos",
+				"subTotal": "19,99 €"
 			}
 		]
 	},
