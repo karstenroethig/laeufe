@@ -9,19 +9,19 @@
 		"latitude": 51.05738,
 		"longitude": 0.05457
 	},
-	"finished": false,
+	"finished": true,
 	"runs": [
 		{
-			"startNumber": null,
+			"startNumber": 1718,
 			"startTime": "2014-10-11T11:30",
 			"distance": "20+ km",
-			"time": null,
+			"time": "02:53:01",
 			"team": null,
-			"note": null
+			"note": "Platz 304 von 2674 Finishern (schnellste Zeit: 01:44:56)"
 		}
 	],
 	"costs": {
-		"total": "(75,52 €) 63,00 GBP",
+		"total": "(86,79 €) 69,00 GBP",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
@@ -34,6 +34,14 @@
 			{
 				"description": "processing fee",
 				"subTotal": "3,00 GBP"
+			},
+			{
+				"description": "parking",
+				"subTotal": "5,00 GBP"
+			},
+			{
+				"description": "bag drop",
+				"subTotal": "1,00 GBP"
 			}
 		]
 	}
