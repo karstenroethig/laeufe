@@ -9,13 +9,13 @@
 		"latitude": 51.3187,
 		"longitude": 12.3655
 	},
-	"finished": false,
+	"finished": true,
 	"runs": [
 		{
-			"startNumber": null,
+			"startNumber": 807,
 			"startTime": "2014-11-01T10:00",
 			"distance": "6 x 2 km",
-			"time": null,
+			"time": "01:00:50",
 			"team": null,
 			"note": null
 		}
