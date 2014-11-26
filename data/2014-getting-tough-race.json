@@ -12,8 +12,8 @@
 	"finished": false,
 	"runs": [
 		{
-			"startNumber": null,
-			"startTime": "2014-12-06T10:30",
+			"startNumber": 1315,
+			"startTime": "2014-12-06T10:00",
 			"distance": "24 km",
 			"time": null,
 			"team": null,
@@ -21,11 +21,15 @@
 		}
 	],
 	"costs": {
-		"total": "69,00 €",
+		"total": "79,00 €",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
 				"subTotal": "69,00 €"
+			},
+			{
+				"description": "Pfand für Handgelenkchip zur Zeitnahme",
+				"subTotal": "10,00 €"
 			}
 		]
 	}
