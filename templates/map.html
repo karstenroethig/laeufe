@@ -41,8 +41,9 @@
 			.openOn( $map );
 	});
 
-
 	function setMarkers( locations ) {
+
+		var markers = new L.MarkerClusterGroup();
 
 		for( i = 0; i < locations.length; i++ ) {
 
@@ -58,7 +59,35 @@
 				content.push( '<br/><a href="#/events/' + event.key + '">' + event.name + '</a>' );
 			}
 
-			L.marker( [ location.latitude, location.longitude ] ).addTo( $map ).bindPopup( content.join( '' ) );
+			var marker = L.marker( [ location.latitude, location.longitude ] );
+			// marker.addTo( $map );
+			marker.bindPopup( content.join( '' ) );
+
+			markers.addLayer( marker );
+		}
+
+		$map.addLayer( markers );
+	}
+
+	function setMarkersWithoutMarkercluster( locations ) {
+
+		for( i = 0; i < locations.length; i++ ) {
+
+			var location = locations[i];
+			var content = [];
+
+			content.push( '<b>' + location.name + '</b>' );
+
+			for( j = 0; j < location.events.length; j++ ) {
+
+				var event = location.events[j];
+
+				content.push( '<br/><a href="#/events/' + event.key + '">' + event.name + '</a>' );
+			}
+
+			var marker = L.marker( [ location.latitude, location.longitude ] );
+			marker.addTo( $map );
+			marker.bindPopup( content.join( '' ) );
 		}
 	}
 </script>
