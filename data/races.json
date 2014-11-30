@@ -9,7 +9,7 @@
 		"key": "cross-de-luxe",
 		"name": "CROSS DE LUXE",
 		"participations": 3,
-		"participationsPlanned": 0
+		"participationsPlanned": 1
 	},
 	{
 		"key": "firmenlauf-leipzig",
@@ -21,19 +21,19 @@
 		"key": "fishermans-friend-strongmanrun",
 		"name": "Fisherman's Friend StrongnamRun",
 		"participations": 1,
-		"participationsPlanned": 0
+		"participationsPlanned": 1
 	},
 	{
 		"key": "fockeberglauf",
 		"name": "Fockeberglauf",
 		"participations": 1,
-		"participationsPlanned": 0
+		"participationsPlanned": 2
 	},
 	{
 		"key": "getting-tough-race",
 		"name": "Getting Tough - The Race",
 		"participations": 0,
-		"participationsPlanned": 0
+		"participationsPlanned": 1
 	},
 	{
 		"key": "spartan-race",
@@ -51,7 +51,7 @@
 		"key": "tough-mudder",
 		"name": "Tough Mudder",
 		"participations": 4,
-		"participationsPlanned": 2
+		"participationsPlanned": 5
 	},
 	{
 		"key": "triathlon-leipzig",

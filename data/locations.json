@@ -42,6 +42,10 @@
 			{
 				"key": "2014-cross-de-luxe",
 				"name": "CROSS DE LUXE 2014"
+			},
+			{
+				"key": "2015-cross-de-luxe",
+				"name": "CROSS DE LUXE 2015"
 			}
 		]
 	},
@@ -134,6 +138,14 @@
 			{
 				"key": "2014-fockeberglauf",
 				"name": "47. Fockeberglauf (2014)"
+			},
+			{
+				"key": "2015-fockeberglauf-1",
+				"name": "48. Fockeberglauf (2015)"
+			},
+			{
+				"key": "2015-fockeberglauf-2",
+				"name": "49. Fockeberglauf (2015)"
 			}
 		]
 	},
@@ -171,6 +183,17 @@
 		]
 	},
 	{
+		"name": "Jagdschloss Herdringen, Arnsberg",
+		"latitude": 51.42115,
+		"longitude": 7.96941,
+		"events": [
+			{
+				"key": "2015-tough-mudder-nrw",
+				"name": "Tough Mudder - NRW 2015"
+			}
+		]
+	},
+	{
 		"name": "Boughton House, Kettering, UK",
 		"latitude": 52.4048609,
 		"longitude": -0.6648779,
@@ -189,6 +212,39 @@
 			{
 				"key": "2015-tough-mudder-scotland",
 				"name": "Tough Mudder - Scotland 2015"
+			}
+		]
+	},
+	{
+		"name": "Reiter- und Ferienhof Severloh, Hermannsburg",
+		"latitude": 52.767945,
+		"longitude": 10.118963,
+		"events": [
+			{
+				"key": "2015-tough-mudder-norddeutschland",
+				"name": "Tough Mudder - Norddeutschland 2015"
+			}
+		]
+	},
+	{
+		"name": "Ferropolis, Gräfenhainichen",
+		"latitude": 51.758284,
+		"longitude": 12.447138,
+		"events": [
+			{
+				"key": "2015-fishermans-friend-strongmanrun-ferropolis",
+				"name": "Fisherman's Friend StrongmanRun - Ferropolis 2015"
+			}
+		]
+	},
+	{
+		"name": "Wassertrüdingen am Oettinger Forst",
+		"latitude": 49.0376213,
+		"longitude": 10.5981058,
+		"events": [
+			{
+				"key": "2015-tough-mudder-sueddeutschland",
+				"name": "Tough Mudder - Süddeutschland 2015"
 			}
 		]
 	}

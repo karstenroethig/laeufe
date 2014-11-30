@@ -240,6 +240,30 @@
 		"finished": false
 	},
 	{
+		"key": "2015-fockeberglauf-1",
+		"raceKey": "fockeberglauf",
+		"name": "48. Fockeberglauf",
+		"startDate": "2015-03-07",
+		"endDate": null,
+		"location": "Fockeberg, Leipzig",
+		"distance": "6 x 2 km",
+		"time": null,
+		"costs": "5,00 €",
+		"finished": false
+	},
+	{
+		"key": "2015-tough-mudder-nrw",
+		"raceKey": "tough-mudder",
+		"name": "Tough Mudder - NRW",
+		"startDate": "2015-05-23",
+		"endDate": "2015-05-24",
+		"location": "Jagdschloss Herdringen, Arnsberg",
+		"distance": "18+ km",
+		"time": null,
+		"costs": null,
+		"finished": false
+	},
+	{
 		"key": "2015-tough-mudder-midlands",
 		"raceKey": "tough-mudder",
 		"name": "Tough Mudder - Midlands",
@@ -261,6 +285,66 @@
 		"distance": "18+ km",
 		"time": null,
 		"costs": null,
+		"finished": false
+	},
+	{
+		"key": "2015-tough-mudder-norddeutschland",
+		"raceKey": "tough-mudder",
+		"name": "Tough Mudder - Norddeutschland",
+		"startDate": "2015-07-11",
+		"endDate": "2015-07-12",
+		"location": "Reiter- und Ferienhof Severloh, Hermannsburg",
+		"distance": "18+ km",
+		"time": null,
+		"costs": null,
+		"finished": false
+	},
+	{
+		"key": "2015-fishermans-friend-strongmanrun-ferropolis",
+		"raceKey": "fishermans-friend-strongmanrun",
+		"name": "Fisherman's Friend StrongmanRun - Ferropolis",
+		"startDate": "2015-08-15",
+		"endDate": null,
+		"location": "Ferropolis, Gräfenhainichen",
+		"distance": "2 x 12 km",
+		"time": null,
+		"costs": null,
+		"finished": false
+	},
+	{
+		"key": "2015-tough-mudder-sueddeutschland",
+		"raceKey": "tough-mudder",
+		"name": "Tough Mudder - Süddeutschland",
+		"startDate": "2015-09-12",
+		"endDate": "2015-09-13",
+		"location": "Wassertrüdingen am Oettinger Forst",
+		"distance": "18+ km",
+		"time": null,
+		"costs": null,
+		"finished": false
+	},
+	{
+		"key": "2015-cross-de-luxe",
+		"raceKey": "cross-de-luxe",
+		"name": "CROSS DE LUXE",
+		"startDate": "2015-09-26",
+		"endDate": null,
+		"location": "Markkleeberger See",
+		"distance": "2 x 8 km",
+		"time": null,
+		"costs": null,
+		"finished": false
+	},
+	{
+		"key": "2015-fockeberglauf-2",
+		"raceKey": "fockeberglauf",
+		"name": "49. Fockeberglauf",
+		"startDate": "2015-11-07",
+		"endDate": null,
+		"location": "Fockeberg, Leipzig",
+		"distance": "6 x 2 km",
+		"time": null,
+		"costs": "5,00 €",
 		"finished": false
 	}
 ]
