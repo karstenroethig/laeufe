@@ -178,7 +178,11 @@
 		"events": [
 			{
 				"key": "2014-getting-tough-race",
-				"name": "Getting Tough - The Rece III 2014"
+				"name": "Getting Tough - The Race III 2014"
+			},
+			{
+				"key": "2015-getting-tough-race",
+				"name": "Getting Tough - The Race IV 2015"
 			}
 		]
 	},

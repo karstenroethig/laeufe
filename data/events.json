@@ -235,7 +235,7 @@
 		"endDate": null,
 		"location": "Festwiese Röntgenstraße, Rudolstadt",
 		"distance": "24 km",
-		"time": null,
+		"time": "Aufgabe",
 		"costs": "69,00 €",
 		"finished": false
 	},
@@ -345,6 +345,18 @@
 		"distance": "6 x 2 km",
 		"time": null,
 		"costs": "5,00 €",
+		"finished": false
+	},
+	{
+		"key": "2015-getting-tough-race",
+		"raceKey": "getting-tough-race",
+		"name": "Getting Tough - The Race IV",
+		"startDate": "2015-12-05",
+		"endDate": null,
+		"location": "Festwiese Röntgenstraße, Rudolstadt",
+		"distance": "24 km",
+		"time": null,
+		"costs": null,
 		"finished": false
 	}
 ]

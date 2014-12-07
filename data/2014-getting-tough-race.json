@@ -13,15 +13,15 @@
 	"runs": [
 		{
 			"startNumber": 1315,
-			"startTime": "2014-12-06T10:00",
+			"startTime": "2014-12-06T10:30",
 			"distance": "24 km",
-			"time": null,
+			"time": "Aufgabe",
 			"team": null,
-			"note": null
+			"note": "Aufgabe wegen Wadenkrämpfen nach 22 km"
 		}
 	],
 	"costs": {
-		"total": "79,00 €",
+		"total": "69,00 €",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
@@ -30,6 +30,10 @@
 			{
 				"description": "Pfand für Handgelenkchip zur Zeitnahme",
 				"subTotal": "10,00 €"
+			},
+			{
+				"description": "Rückgabe Handgelenkchip zur Zeitnahme",
+				"subTotal": "-10,00 €"
 			}
 		]
 	}
