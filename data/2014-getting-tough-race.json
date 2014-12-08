@@ -36,5 +36,20 @@
 				"subTotal": "-10,00 €"
 			}
 		]
+	},
+	"newspaperArticle": {
+		"newspaperName": "OSTTHÜRINGER Zeitung >> Lokales >> Rudolstadt",
+		"date": "Sonntag, 7. Dezember 2014",
+		"title": "Härtester Hindernislauf Deutschlands in Rudolstadt: Etzelbacherin Erste, Saalfelder Dritter",
+		"subtitle": "Mit einer extrem schnellen Zeit gewinnt am Samstag Hagen Brosius aus Ingolstadt die dritte Auflage des härtesten Hindernisrennens Kontinentaleuropas, das Getting Tough - The Race, in Rudolstadt. Der Saalfelder Charles Franzke wird Dritter, die für den SV Gera-Zwötzen startende Susanne Kraus Erste bei den Frauen.",
+		"sections": [
+			{
+				"title": null,
+				"paragraphs": [
+					"Rudolstadt. Der Läufer vom Team \"3 Wetter tough\" absolvierte die knapp 24 Kilometer mit den mehr als 100 künstlichen und natürlichen Hindernissen in 1:56:36 Stunden und verwies damit den Thüringer Christian Seiler, der knapp drei Minuten später ins Ziel kam. Vorjahressieger Charles Franzke aus Saalfeld konnte den Rückstand zum führenden Duo, der auf der Laufstrecke etwa vier Minuten betrug, in den Hindernisparcours nicht mehr aufholen und wurde Dritter (2:01:35 Stunden). Bei den Frauen gewann Susanne Kraus vom SV Gera-Zwötzen in 2:19:05 Stunden, die die favorisierte Friederike Feil aus Baden Württemberg auf Platz zwei verwies. Dritte wurde Christiane Lehmberg aus dem Harz.",
+					"An dem spektakulären Wettkampf nahmen in diesem Jahr mehr als 2200 Läuferinnen und Läufer aus dem In- und Ausland teil. 1738 Frauen und Männer passierten nach zum Teil mehr als fünf Stunden Laufzeit die Ziellinie auf der Rudolstädter Bleichwiese."
+				]
+			}
+		]
 	}
 }
