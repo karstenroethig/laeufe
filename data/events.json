@@ -312,6 +312,18 @@
 		"finished": false
 	},
 	{
+		"key": "2015-wildsau-salzburg",
+		"raceKey": "wildsau",
+		"name": "Wildsau Dirt Race - Salzburg",
+		"startDate": "2015-09-05",
+		"endDate": null,
+		"location": "St. Leonard bei Salzburg, Österreich",
+		"distance": "20 km",
+		"time": null,
+		"costs": null,
+		"finished": false
+	},
+	{
 		"key": "2015-tough-mudder-sueddeutschland",
 		"raceKey": "tough-mudder",
 		"name": "Tough Mudder - Süddeutschland",

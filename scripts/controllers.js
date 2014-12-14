@@ -107,7 +107,8 @@ laeufeControllers.controller( 'MapController', [ '$scope', 'EventDataService',
 		EventDataService.getEventLocations().then( function( res ) {
 			$scope.locations = res.data;
 
-			setMarkers( $scope.locations );
+			setMarkersWithoutMarkercluster( $scope.locations );
+			// setMarkers( $scope.locations );
 		}, function( error ) {
 			console.log( 'An error occurred.', error );
 		});
