@@ -1,0 +1,36 @@
+{
+	"key": "2015-cross-de-luxe",
+	"raceKey": "cross-de-luxe",
+	"name": "CROSS DE LUXE",
+	"startDate": "2015-09-26",
+	"endDate": null,
+	"location": {
+		"name": "Markkleeberger See",
+		"latitude": 51.25534,
+		"longitude": 12.42442
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2015-09-26T12:00",
+			"distance": "2 x 8 km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": "32,00 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "40,00 €"
+			},
+			{
+				"description": "Rabatt für SK-Konto (20%)",
+				"subTotal": "-8,00 €"
+			}
+		]
+	}
+}

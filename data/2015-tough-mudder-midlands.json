@@ -32,7 +32,11 @@
 		"total": "? €",
 		"positions": [
 			{
-				"description": "2015 European Season Pass",
+				"description": "Teilnahmegebühr über European Season Pass 2015",
+				"subTotal": "0,00 €"
+			},
+			{
+				"description": "Versicherungsgebühr",
 				"subTotal": "? €"
 			}
 		]

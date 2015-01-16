@@ -1,0 +1,48 @@
+{
+	"key": "2015-fishermans-friend-strongmanrun-ferropolis",
+	"raceKey": "fishermans-friend-strongmanrun",
+	"name": "Fisherman's Friend StrongmanRun - Ferropolis",
+	"startDate": "2015-08-15",
+	"endDate": null,
+	"location": {
+		"name": "Ferropolis, Gräfenhainichen",
+		"latitude": 51.758284,
+		"longitude": 12.447138
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2015-08-15T22:00",
+			"distance": "2 x 12 km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": "79,00 €",
+		"positions": [
+			{
+				"description": "Startgeld (Starter 1 - 2.000)",
+				"subTotal": "69,00 €"
+			},
+			{
+				"description": "Aufdruck auf der Startnummer",
+				"subTotal": "1,00 €"
+			},
+			{
+				"description": "Chip zur Zeitmessung",
+				"subTotal": "31,00 €"
+			},
+			{
+				"description": "Erstattung für Rückgabe des Chips",
+				"subTotal": "-25,00 €"
+			},
+			{
+				"description": "Parken",
+				"subTotal": "3,00 €"
+			}
+		]
+	}
+}

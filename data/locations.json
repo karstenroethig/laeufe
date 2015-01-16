@@ -56,7 +56,7 @@
 		"events": [
 			{
 				"key": "2013-tough-mudder-nordwestdeutschland",
-				"name": "Tough Mudder - Nordwestdeutschland 2013"
+				"name": "Tough Mudder 2013 - Nordwestdeutschland"
 			}
 		]
 	},
@@ -67,11 +67,11 @@
 		"events": [
 			{
 				"key": "2013-tough-mudder-berlin-brandenburg",
-				"name": "Tough Mudder - Berlin-Brandenburg 2013"
+				"name": "Tough Mudder 2013 - Berlin-Brandenburg"
 			},
 			{
 				"key": "2014-tough-mudder-berlin-brandenburg",
-				"name": "Tough Mudder - Berlin-Brandenburg 2014"
+				"name": "Tough Mudder 2014 - Berlin-Brandenburg"
 			}
 		]
 	},
@@ -82,7 +82,7 @@
 		"events": [
 			{
 				"key": "2014-spartan-race-sprint-muenchen",
-				"name": "Spartan Race - München (Sprint) 2014"
+				"name": "Spartan Race 2014 - München (Sprint)"
 			}
 		]
 	},
@@ -93,7 +93,7 @@
 		"events": [
 			{
 				"key": "2014-fishermans-friend-strongmanrun-nuerburgring",
-				"name": "Fisherman's Friend StrongmanRun - Nürbirgring 2014"
+				"name": "Fisherman's Friend StrongmanRun 2014 - Nürbirgring"
 			}
 		]
 	},
@@ -104,7 +104,7 @@
 		"events": [
 			{
 				"key": "2014-tough-mudder-rhein-main",
-				"name": "Tough Mudder - Rhein-Main 2014"
+				"name": "Tough Mudder 2014 - Rhein-Main"
 			}
 		]
 	},
@@ -126,7 +126,7 @@
 		"events": [
 			{
 				"key": "2014-spartan-race-beast-south-london",
-				"name": "Spartan Race - South London (Beast) 2014"
+				"name": "Spartan Race 2014 - South London (Beast)"
 			}
 		]
 	},
@@ -156,7 +156,7 @@
 		"events": [
 			{
 				"key": "2014-spartan-race-super-koeln",
-				"name": "Spartan Race - Köln (Super) 2014"
+				"name": "Spartan Race 2014 - Köln (Super)"
 			}
 		]
 	},
@@ -178,11 +178,11 @@
 		"events": [
 			{
 				"key": "2014-getting-tough-race",
-				"name": "Getting Tough - The Race III 2014"
+				"name": "Getting Tough - The Race III (2014)"
 			},
 			{
 				"key": "2015-getting-tough-race",
-				"name": "Getting Tough - The Race IV 2015"
+				"name": "Getting Tough - The Race IV (2015)"
 			}
 		]
 	},
@@ -193,7 +193,7 @@
 		"events": [
 			{
 				"key": "2015-tough-mudder-nrw",
-				"name": "Tough Mudder - NRW 2015"
+				"name": "Tough Mudder 2015 - NRW"
 			}
 		]
 	},
@@ -204,7 +204,7 @@
 		"events": [
 			{
 				"key": "2015-tough-mudder-midlands",
-				"name": "Tough Mudder - Midlands 2015"
+				"name": "Tough Mudder 2015 - Midlands"
 			}
 		]
 	},
@@ -215,7 +215,7 @@
 		"events": [
 			{
 				"key": "2015-tough-mudder-scotland",
-				"name": "Tough Mudder - Scotland 2015"
+				"name": "Tough Mudder 2015 - Scotland"
 			}
 		]
 	},
@@ -226,7 +226,7 @@
 		"events": [
 			{
 				"key": "2015-tough-mudder-norddeutschland",
-				"name": "Tough Mudder - Norddeutschland 2015"
+				"name": "Tough Mudder 2015 - Norddeutschland"
 			}
 		]
 	},
@@ -237,7 +237,7 @@
 		"events": [
 			{
 				"key": "2015-fishermans-friend-strongmanrun-ferropolis",
-				"name": "Fisherman's Friend StrongmanRun - Ferropolis 2015"
+				"name": "Fisherman's Friend StrongmanRun 2015 - Ferropolis"
 			}
 		]
 	},
@@ -248,7 +248,7 @@
 		"events": [
 			{
 				"key": "2015-tough-mudder-sueddeutschland",
-				"name": "Tough Mudder - Süddeutschland 2015"
+				"name": "Tough Mudder 2015 - Süddeutschland"
 			}
 		]
 	},
@@ -259,7 +259,7 @@
 		"events": [
 			{
 				"key": "2015-wildsau-salzburg",
-				"name": "Wildsau Dirt Race - Salzburg 2015"
+				"name": "Wildsau Dirt Race 2015 - Salzburg"
 			}
 		]
 	}

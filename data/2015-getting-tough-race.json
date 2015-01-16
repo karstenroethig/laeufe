@@ -1,0 +1,40 @@
+{
+	"key": "2015-getting-tough-race",
+	"raceKey": "getting-tough-race",
+	"name": "Getting Tough - The Race IV",
+	"startDate": "2015-12-05",
+	"endDate": null,
+	"location": {
+		"name": "Festwiese Röntgenstraße, Rudolstadt",
+		"latitude": 50.7181048,
+		"longitude": 11.3534061
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2015-12-05T10:00",
+			"distance": "24 km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": "69,00 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "69,00 €"
+			},
+			{
+				"description": "Pfand für Handgelenkchip zur Zeitnahme",
+				"subTotal": "10,00 €"
+			},
+			{
+				"description": "Rückgabe Handgelenkchip zur Zeitnahme",
+				"subTotal": "-10,00 €"
+			}
+		]
+	}
+}

@@ -308,7 +308,7 @@
 		"location": "Ferropolis, Gräfenhainichen",
 		"distance": "2 x 12 km",
 		"time": null,
-		"costs": null,
+		"costs": "79,00 €",
 		"finished": false
 	},
 	{
@@ -320,7 +320,7 @@
 		"location": "St. Leonard bei Salzburg, Österreich",
 		"distance": "20 km",
 		"time": null,
-		"costs": null,
+		"costs": "55,00 €",
 		"finished": false
 	},
 	{
@@ -344,7 +344,7 @@
 		"location": "Markkleeberger See",
 		"distance": "2 x 8 km",
 		"time": null,
-		"costs": null,
+		"costs": "32,00 €",
 		"finished": false
 	},
 	{
@@ -368,7 +368,7 @@
 		"location": "Festwiese Röntgenstraße, Rudolstadt",
 		"distance": "24 km",
 		"time": null,
-		"costs": null,
+		"costs": "69,00 €",
 		"finished": false
 	}
 ]

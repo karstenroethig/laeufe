@@ -1,19 +1,19 @@
 {
-	"key": "2015-tough-mudder-scotland",
+	"key": "2015-tough-mudder-sueddeutschland",
 	"raceKey": "tough-mudder",
-	"name": "Tough Mudder - Scotland",
-	"startDate": "2015-06-20",
-	"endDate": "2015-06-21",
+	"name": "Tough Mudder - Süddeutschland",
+	"startDate": "2015-09-12",
+	"endDate": "2015-09-13",
 	"location": {
-		"name": "Drumlanrig Castle, Thornhill, UK",
-		"latitude": 55.27341,
-		"longitude": -3.8064312
+		"name": "Wassertrüdingen am Oettinger Forst",
+		"latitude": 49.0376213,
+		"longitude": 10.5981058
 	},
 	"finished": false,
 	"runs": [
 		{
 			"startNumber": null,
-			"startTime": "2015-06-20T10:00",
+			"startTime": "2015-09-12T10:00",
 			"distance": "18+ km",
 			"time": null,
 			"team": null,
@@ -21,7 +21,7 @@
 		},
 		{
 			"startNumber": null,
-			"startTime": "2015-06-21T10:00",
+			"startTime": "2015-09-13T10:00",
 			"distance": "18+ km",
 			"time": null,
 			"team": null,
@@ -38,6 +38,10 @@
 			{
 				"description": "Versicherungsgebühr",
 				"subTotal": "? €"
+			},
+			{
+				"description": "Wochenendticket Camping (inkl. Parkschein)",
+				"subTotal": "35,00 €"
 			}
 		]
 	}
