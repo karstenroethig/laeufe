@@ -260,7 +260,7 @@
 		"location": "Jagdschloss Herdringen, Arnsberg",
 		"distance": "18+ km",
 		"time": null,
-		"costs": null,
+		"costs": "35,00 €",
 		"finished": false
 	},
 	{
@@ -272,7 +272,7 @@
 		"location": "Boughton House, Kettering, UK",
 		"distance": "18+ km",
 		"time": null,
-		"costs": null,
+		"costs": "0,00 €",
 		"finished": false
 	},
 	{
@@ -284,7 +284,7 @@
 		"location": "Drumlanrig Castle, Thornhill, UK",
 		"distance": "18+ km",
 		"time": null,
-		"costs": null,
+		"costs": "0,00 €",
 		"finished": false
 	},
 	{
@@ -296,7 +296,7 @@
 		"location": "Reiter- und Ferienhof Severloh, Hermannsburg",
 		"distance": "18+ km",
 		"time": null,
-		"costs": null,
+		"costs": "35,00 €",
 		"finished": false
 	},
 	{
@@ -332,7 +332,7 @@
 		"location": "Wassertrüdingen am Oettinger Forst",
 		"distance": "18+ km",
 		"time": null,
-		"costs": null,
+		"costs": "35,00 €",
 		"finished": false
 	},
 	{
