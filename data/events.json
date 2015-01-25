@@ -252,6 +252,18 @@
 		"finished": false
 	},
 	{
+		"key": "2015-tough-mudder-london-west",
+		"raceKey": "tough-mudder",
+		"name": "Tough Mudder - London West",
+		"startDate": "2015-05-02",
+		"endDate": "2015-05-03",
+		"location": "Culden Faw, Fawley, Henley on Thames, UK",
+		"distance": "18+ km",
+		"time": null,
+		"costs": "0,00 €",
+		"finished": false
+	},
+	{
 		"key": "2015-tough-mudder-nrw",
 		"raceKey": "tough-mudder",
 		"name": "Tough Mudder - NRW",

@@ -198,6 +198,17 @@
 		]
 	},
 	{
+		"name": "Culden Faw, Fawley, Henley on Thames, UK",
+		"latitude": 51.562231,
+		"longitude": -0.894241,
+		"events": [
+			{
+				"key": "2015-tough-mudder-london-west",
+				"name": "Tough Mudder 2015 - London West"
+			}
+		]
+	},
+	{
 		"name": "Boughton House, Kettering, UK",
 		"latitude": 52.4048609,
 		"longitude": -0.6648779,

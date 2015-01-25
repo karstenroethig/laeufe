@@ -1,0 +1,32 @@
+{
+	"key": "2015-tough-mudder-london-west",
+	"raceKey": "tough-mudder",
+	"name": "Tough Mudder - London West",
+	"startDate": "2015-05-02",
+	"endDate": "2015-05-03",
+	"location": {
+		"name": "Culden Faw, Fawley, Henley on Thames, UK",
+		"latitude": 51.562231,
+		"longitude": -0.894241
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2015-05-02T10:00",
+			"distance": "18+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": "0,00 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr über European Season Pass 2015",
+				"subTotal": "0,00 €"
+			}
+		]
+	}
+}
