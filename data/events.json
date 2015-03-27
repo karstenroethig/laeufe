@@ -240,18 +240,6 @@
 		"finished": false
 	},
 	{
-		"key": "2015-fockeberglauf-1",
-		"raceKey": "fockeberglauf",
-		"name": "48. Fockeberglauf",
-		"startDate": "2015-03-07",
-		"endDate": null,
-		"location": "Fockeberg, Leipzig",
-		"distance": "6 x 2 km",
-		"time": null,
-		"costs": "5,00 €",
-		"finished": false
-	},
-	{
 		"key": "2015-tough-mudder-london-west",
 		"raceKey": "tough-mudder",
 		"name": "Tough Mudder - London West",
@@ -260,7 +248,7 @@
 		"location": "Culden Faw, Fawley, Henley on Thames, UK",
 		"distance": "18+ km",
 		"time": null,
-		"costs": "0,00 €",
+		"costs": "20,85 €",
 		"finished": false
 	},
 	{
@@ -360,7 +348,7 @@
 		"finished": false
 	},
 	{
-		"key": "2015-fockeberglauf-2",
+		"key": "2015-fockeberglauf",
 		"raceKey": "fockeberglauf",
 		"name": "49. Fockeberglauf",
 		"startDate": "2015-11-07",

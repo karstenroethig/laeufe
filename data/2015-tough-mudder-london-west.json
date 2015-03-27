@@ -21,11 +21,15 @@
 		}
 	],
 	"costs": {
-		"total": "0,00 €",
+		"total": "(20,85 €) 15,00 GBP",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr über European Season Pass 2015",
-				"subTotal": "0,00 €"
+				"subTotal": "0,00 GBP"
+			},
+			{
+				"description": "Standard Parking Pass",
+				"subTotal": "15,00 GBP"
 			}
 		]
 	}
