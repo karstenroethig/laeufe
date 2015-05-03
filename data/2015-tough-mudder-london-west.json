@@ -9,19 +9,19 @@
 		"latitude": 51.562231,
 		"longitude": -0.894241
 	},
-	"finished": false,
+	"finished": true,
 	"runs": [
 		{
-			"startNumber": null,
-			"startTime": "2015-05-02T10:00",
-			"distance": "18+ km",
-			"time": null,
+			"startNumber": 1057,
+			"startTime": "2015-05-02T09:00",
+			"distance": "18,35 km",
+			"time": "02:28:27",
 			"team": null,
 			"note": null
 		}
 	],
 	"costs": {
-		"total": "(20,85 €) 15,00 GBP",
+		"total": "(24,91 €) 18,00 GBP",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr über European Season Pass 2015",
@@ -30,6 +30,10 @@
 			{
 				"description": "Standard Parking Pass",
 				"subTotal": "15,00 GBP"
+			},
+			{
+				"description": "Bag Drop",
+				"subTotal": "3,00 GBP"
 			}
 		]
 	}
