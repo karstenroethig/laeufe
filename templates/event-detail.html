@@ -71,24 +71,22 @@
 	<div class="row" ng-if="event.costs">
 		<h1>Kosten</h1>
 		<hr/>
-		<div class="col-md-4">
-			<table class="table table-striped">
-				<thead>
-					<th>Bezeichnung</th>
-					<th class="text-right">Betrag</th>
-				</thead>
-				<tbody>
-					<tr ng-repeat="position in event.costs.positions">
-						<td ng-bind="position.description"></td>
-						<td class="text-right" ng-bind="position.subTotal"></td>
-					</tr>
-					<tr>
-						<th>Gesamt</th>
-						<th class="text-right" ng-bind="event.costs.total"></th>
-					</tr>
-				</tbody>
-			</table>
-		</div>
+		<table class="table table-striped">
+			<thead>
+				<th>Bezeichnung</th>
+				<th class="text-right">Betrag</th>
+			</thead>
+			<tbody>
+				<tr ng-repeat="position in event.costs.positions">
+					<td ng-bind="position.description"></td>
+					<td class="text-right" ng-bind="position.subTotal"></td>
+				</tr>
+				<tr>
+					<th>Gesamt</th>
+					<th class="text-right" ng-bind="event.costs.total"></th>
+				</tr>
+			</tbody>
+		</table>
 
 		<br/>
 	</div>
