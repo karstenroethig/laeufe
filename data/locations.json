@@ -27,6 +27,17 @@
 		]
 	},
 	{
+		"name": "Kleinmesse am Cottaweg, Leipzig",
+		"latitude": 51.33944,
+		"longitude": 12.34275,
+		"events": [
+			{
+				"key": "2015-firmenlauf-leipzig",
+				"name": "8. Leipziger Firmenlauf (2015)"
+			}
+		]
+	},
+	{
 		"name": "Markkleeberger See",
 		"latitude": 51.25534,
 		"longitude": 12.42442,
@@ -164,6 +175,10 @@
 			{
 				"key": "2014-ammelshainer-schlosslauf",
 				"name": "8. Ammelshainer Schlosslauf 2014"
+			},
+			{
+				"key": "2015-ammelshainer-schlosslauf",
+				"name": "9. Ammelshainer Schlosslauf 2015"
 			}
 		]
 	},
