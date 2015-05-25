@@ -9,23 +9,15 @@
 		"latitude": 51.42115,
 		"longitude": 7.96941
 	},
-	"finished": false,
+	"finished": true,
 	"runs": [
 		{
-			"startNumber": null,
-			"startTime": "2015-05-23T10:00",
-			"distance": "18+ km",
-			"time": null,
+			"startNumber": 29025,
+			"startTime": "2015-05-23T08:00",
+			"distance": "15,42 km",
+			"time": "2:10:20",
 			"team": null,
-			"note": null
-		},
-		{
-			"startNumber": null,
-			"startTime": "2015-05-24T10:00",
-			"distance": "18+ km",
-			"time": null,
-			"team": null,
-			"note": null
+			"note": "Top 10 in erster Startwelle"
 		}
 	],
 	"costs": {
@@ -40,5 +32,87 @@
 				"subTotal": "35,00 €"
 			}
 		]
-	}
+	},
+	"obstacles": [
+		{
+			"name": "Kiss of Mud 2.0",
+			"description": "unter Stacheldraht hindurch kriechen"
+		},
+		{
+			"name": "Artic Enema 2.0",
+			"description": "mit Eis gefüllter Container"
+		},
+		{
+			"name": "Haha Ditch",
+			"description": ""
+		},
+		{
+			"name": "Berg- & Talfahrt",
+			"description": ""
+		},
+		{
+			"name": "Balls to the Wall",
+			"description": "an einem Seil eine steile Holzwand hochklettern"
+		},
+		{
+			"name": "Mud Mile",
+			"description": "über Schlammhügel laufen"
+		},
+		{
+			"name": "Funky Monkey 2.0",
+			"description": "Klettergerüst über Wasser"
+		},
+		{
+			"name": "Holzfäller",
+			"description": ""
+		},
+		{
+			"name": "Heuschnupfen",
+			"description": ""
+		},
+		{
+			"name": "Birth Canal",
+			"description": "unter einer mit Wasser gefüllten Plane hindurch kriechen"
+		},
+		{
+			"name": "Holz vor der Hütte",
+			"description": ""
+		},
+		{
+			"name": "Hangover",
+			"description": "schräge Holzwände"
+		},
+		{
+			"name": "Boa Constrictor",
+			"description": ""
+		},
+		{
+			"name": "Mudder Dünnen",
+			"description": ""
+		},
+		{
+			"name": "Huckepack",
+			"description": ""
+		},
+		{
+			"name": "Spiderman",
+			"description": ""
+		},
+		{
+			"name": "Berlin Walls",
+			"description": ""
+		},
+		{
+			"name": "Everest 2.0",
+			"description": "abgerundete Rampe kurz vor dem Ziel"
+		},
+		{
+			"name": "Dead Ringer",
+			"description": "Hindernis für Legionäre kurz vor dem Ziel"
+		},
+		{
+			"name": "Electroshock Therapy",
+			"description": "Stromdrähte kurz vor dem Ziel"
+		}
+	]
 }
