@@ -15,7 +15,7 @@
 			"startNumber": 29025,
 			"startTime": "2015-05-23T08:00",
 			"distance": "15,42 km",
-			"time": "2:10:20",
+			"time": "02:10:20",
 			"team": null,
 			"note": "Top 10 in erster Startwelle"
 		}
@@ -114,5 +114,41 @@
 			"name": "Electroshock Therapy",
 			"description": "Stromdrähte kurz vor dem Ziel"
 		}
-	]
+	],
+	"newspaperArticle": {
+		"newspaperName": "WAZ.de (Der Westen) >> Lokales >> Arnsberg",
+		"date": "Sonntag, 24.05.2015",
+		"title": "Tough Mudder - die ultimative Schlammschlacht im Sauerland",
+		"subtitle": "Herdringen. Tough Mudder, das ist ein Event wie geschaffen für die Region. 7500 Teilnehmer stellten sich bei Herdringen der Herausforderung des Parcours.",
+		"sections": [
+			{
+				"title": null,
+				"paragraphs": [
+					"Funktionswäsche trifft auf Fürstenschloss. Am vergangenen Wochenende diente das Jagdschloss Herdringen wie auch im letzten Jahr wieder als Kulisse für den \"Tough Mudder\", der Hindernislauf, der seine Teilnehmer auf 18 Kilometern über Stock und Stein, durch Schlamm und Eiswasser und über Holzwälle jagt. Sportbegeisterte aus ganz Deutschland und gar aus den Nachbarländern pilgerten ins Sauerland, einem von nur drei Austragungsorten des \"Tough Mudder\" in Deutschland."
+				]
+			},
+			{
+				"title": "Schloss Herdringen idealer Schauplatz",
+				"paragraphs": [
+					"Die Parkplätze auf den Weiden rund um das Herdringer Schloss sind gefüllt mit Autos, deren Kennzeichen mit ihrer Vielfalt selbst für Veteranen des auf Reisen stets beliebten Städteratens eine Herausforderung darstellen dürften. Auch auf dem eigens für den \"Tough Mudder\" eingerichteten Zeltplatz haben dutzende Besucher ihr Quartier aufgeschlagen, um beim Rennen dabei zu sein.",
+					"Bei Anmeldezahlen um die 7500 Teilnehmer und dazu zu zählenden Zuschauern war es ein erheblicher Besucherstrom, der sich am Pfingstwochenende auf Herdringen stürzte. Das Areal der Veranstaltung schmiegt sich an die Weiden vor dem Jagdschloss und bietet mit seiner Zeltlandschaft und den so gar nicht eleganten Bauzäunen dem prachtvollen Bau im Hintergrund frech die Stirn."
+				]
+			},
+			{
+				"title": "Härteparcours bringt \"Mudder\" an ihre Grenzen",
+				"paragraphs": [
+					"\"Tough Mudder\" war ja nicht in Herdringen, um sich Freunde zu machen, das ist eben die Natur des Events: Die Teilnehmer nicht gegeneinander antreten lassen, wie es bei einem klassischen Wettkampf der Fall sein mag, sondern sie stattdessen gemeinsam gegen einen Parcours ins Rennen zu schicken, der mit 18 Kilometern und 21 Hindernissen die Teilnehmer an ihre Grenze zu bringen versucht. Der Weg der Läufer führt dabei quer durch die Wälder rund um Herdringen."
+				]
+			},
+			{
+				"title": "Laufwege auf der Weide und Hindernisse im Schlamm",
+				"paragraphs": [
+					"Das Event passt gut ins Sauerland, bietet viele Möglichkeiten, die Region den vielen Endzwanzigern und Studenten aus den urbanen Ballungsgebieten näher zu bringen, während diese sich der einheimischen Geographie stellen: Die Laufwege sind meist nicht mehr als Treckerspuren auf der Weide. Oder es geht gleich ab in den Bach, in dem knietiefer Schlamm wartet.",
+					"Auch die für die Region nicht untypischen Erhebungen treiben selbst durchtrainierten \"Muddern\", wie die Teilnehmer sich nennen, einen Schweißfilm auf die Stirn und einen Fluch auf die Lippen. Aber, ein \"Mudder\" jammert nicht – das ist eines der Gebote, die alle Teilnehmenden vor ihrem Start in den Himmel über Herdringen brüllen. Neben dem kehlig gegrölten \"Ohhh-rah\" eines der Rituale, die einen Teil des \"Tough Mudder\" ausmachen. Die Stimmung auf dem Gelände ließe sich wohl am besten mit der Atmosphäre auf einem Musikfestival beschreiben.",
+					"Während beim letzteren jeder durch die Musik eine Gemeinsamkeit findet, ist es beim \"Tough Mudder\" die sportliche Herausforderung, die Jüngere und Ältere, Sportfreaks und Alltagssportler verbindet. Teamwork und Teamgeist sind wichtiger als die Zielzeit, das ist auch eines der Gebote. Das bleiben keine irgendwo auf einer Weide im Sauerland gebrüllten Worte: Wenn der Moment kommt, an dem die Teilnehmer noch kurz vor dem Ziel, nach meist fast zwei Stunden Trott durch Wald und Flur, Schlamm und Wasser, einen fünf Meter hohen Wall, passend \"Everest\" getauft, erklimmen müssen, gibt es keine Einzelgänger mehr.",
+					"Und dieses Gefühl, gemeinsam ein Ziel erreicht zu haben, gemeinsam die eigene Angst überwunden zu haben, das ist es, was die \"Mudder\" am vergangenen Wochenende nach Herdringen zog."
+				]
+			}
+		]
+	}
 }
