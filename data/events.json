@@ -271,9 +271,9 @@
 		"endDate": "2015-05-31",
 		"location": "Boughton House, Kettering, UK",
 		"distance": "18+ km",
-		"time": null,
-		"costs": "35,04 €",
-		"finished": false
+		"time": "02:08:16",
+		"costs": "43,22 €",
+		"finished": true
 	},
 	{
 		"key": "2015-firmenlauf-leipzig",
@@ -283,9 +283,9 @@
 		"endDate": null,
 		"location": "Kleinmesse am Cottaweg, Leipzig",
 		"distance": "5 km",
-		"time": null,
+		"time": "00:20:57",
 		"costs": "0,00 €",
-		"finished": false
+		"finished": true
 	},
 	{
 		"key": "2015-tough-mudder-scotland",

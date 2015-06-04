@@ -9,27 +9,27 @@
 		"latitude": 52.4048609,
 		"longitude": -0.6648779
 	},
-	"finished": false,
+	"finished": true,
 	"runs": [
 		{
-			"startNumber": null,
-			"startTime": "2015-05-30T10:00",
-			"distance": "18+ km",
-			"time": null,
+			"startNumber": 49822,
+			"startTime": "2015-05-30T08:20",
+			"distance": "18,01 km",
+			"time": "02:13:15",
 			"team": null,
 			"note": null
 		},
 		{
-			"startNumber": null,
-			"startTime": "2015-05-31T10:00",
-			"distance": "18+ km",
-			"time": null,
+			"startNumber": 30707,
+			"startTime": "2015-05-31T09:00",
+			"distance": "17,92 km",
+			"time": "02:08:16",
 			"team": null,
 			"note": null
 		}
 	],
 	"costs": {
-		"total": "(35,04 €) 22,96 GBP",
+		"total": "(43,22 €) 28,96 GBP",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr über European Season Pass 2015",
@@ -37,19 +37,139 @@
 			},
 			{
 				"description": "General Parking Pass (Saturday)",
-				"subTotal": "(17,52 €) 11,48 GBP"
+				"subTotal": "11,48 GBP"
 			},
 			{
 				"description": "General Parking Pass (Sunday)",
-				"subTotal": "(17,52 €) 11,48 GBP"
+				"subTotal": "11,48 GBP"
 			},
 			{
 				"description": "Bag Drop (Saturday)",
-				"subTotal": "(? €) ? GBP"
+				"subTotal": "3,00 GBP"
 			},
 			{
 				"description": "Bag Drop (Sunday)",
-				"subTotal": "(? €) ? GBP"
+				"subTotal": "3,00 GBP"
+			}
+		]
+	},
+	"obstacles": [
+		{
+			"name": "Bale Bonds",
+			"description": "über Strohballen klettern"
+		},
+		{
+			"name": "Skid Marked",
+			"description": "Climb over a tall angled wall with tires on the back"
+		},
+		{
+			"name": "Shawshanked",
+			"description": "crawl through a narrow tube and drop into a pool of water"
+		},
+		{
+			"name": "Birth Canal",
+			"description": "Crawl under a plastic liner, filled with water"
+		},
+		{
+			"name": "Creek Crusade #1",
+			"description": "knietiefen Fluss durchqueren"
+		},
+		{
+			"name": "Creek Crusade #2",
+			"description": "knietiefen Fluss durchqueren"
+		},
+		{
+			"name": "Island Hopping",
+			"description": ""
+		},
+		{
+			"name": "Devil's Beard",
+			"description": "unter einem Netz durchkriechen"
+		},
+		{
+			"name": "Balls To The Wall",
+			"description": ""
+		},
+		{
+			"name": "Artic Enema 2.0",
+			"description": "Plunge into icy water"
+		},
+		{
+			"name": "Mud Mile #1",
+			"description": ""
+		},
+		{
+			"name": "Hero Carry",
+			"description": ""
+		},
+		{
+			"name": "Killa Gorilla",
+			"description": "querfeldein, viel Gestrüpp, viel Holz"
+		},
+		{
+			"name": "Hero Walls",
+			"description": ""
+		},
+		{
+			"name": "The Liberator",
+			"description": "Climb over an angled wall using pegs"
+		},
+		{
+			"name": "Mud Mile #2",
+			"description": ""
+		},
+		{
+			"name": "Tyre Carry",
+			"description": "einen Autoreifen tragen"
+		},
+		{
+			"name": "King of the Swingers",
+			"description": "Rope swing into water off of a raised platform"
+		},
+		{
+			"name": "Kiss of Mud 2.0",
+			"description": "Crawl under barbed wire"
+		},
+		{
+			"name": "Funky Monkey 2.0",
+			"description": "Monkey bar crossing"
+		},
+		{
+			"name": "Cry Baby",
+			"description": "Crawl through a smoke-filled chamber"
+		},
+		{
+			"name": "Everest 2.0",
+			"description": "Greased up 1/4 pipe"
+		},
+		{
+			"name": "Dead Ringer",
+			"description": ""
+		},
+		{
+			"name": "Electroshock Therapy",
+			"description": ""
+		}
+	],
+	"newspaperArticle": {
+		"newspaperName": "9bar.com",
+		"date": "Dienstag, 02.06.2015",
+		"title": "Sun, wind, rain and of course lots of MUD at Tough Mudder Midlands!",
+		"subtitle": null,
+		"sections": [
+			{
+				"title": null,
+				"paragraphs": [
+					"Sun, wind, rain and of course lots of MUD… we experienced it all at the Midlands Tough Mudder. It was another brilliant weekend with over 11,000 Mudder’s taking to the 12 mile course at Boughton House, Northamptonshire.",
+					"As the Mudder’s arrived at the Midlands location word began to spread of a mystery obstacle that had been added to the course. After weeks of preparation and training and knowing exactly what lied ahead most Mudder’s seemed confident. With the addition of the surprise obstacle this made things a whole lot more challenging but at the same time fun.",
+					"The 9BAR crew were again stationed on course to help cheer on each Mudder, making sure they were fuelled with 9BAR’s and ready to tackle the next obstacle. The finish line brought the same satisfaction to each Mudder’s face, knowing they had just completed a Tough Mudder, and now had the famous orange head band upon their head and 9BAR in hand to prove it!",
+					"The challenge didn’t just finish with the on course obstacles. Every person who visited our 9BAR activation area were invited to take part in another challenge Tough Mudder style… The human hamster wheel used in the American Tough Mudder events! This would test not only strength but commitment and with a six month supply of 9BAR’s up for grabs for whoever finished the day with the record of rotations, everyone wanted a go and of course everyone wanted to finish the day knowing they at least attempted the human hamster wheel.",
+					"A massive 9BAR congratulations to everyone who took part over the weekend.",
+					"Check out our Facebook page to see all of the pictures from the weekend and don’t forget to tag yourself! www.facebook.com/9barofficial",
+					"Also, keep an eye out on our social media pages for any Tough Mudder entry giveaways.",
+					"We’ll be seeing you in Scotland on the 20th and 21st June for the third event of the series!",
+					"Bring on the MUD!"
+				]
 			}
 		]
 	}

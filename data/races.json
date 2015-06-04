@@ -14,8 +14,8 @@
 	{
 		"key": "firmenlauf-leipzig",
 		"name": "Firmenlauf Leipzig",
-		"participations": 5,
-		"participationsPlanned": 1
+		"participations": 6,
+		"participationsPlanned": 0
 	},
 	{
 		"key": "fishermans-friend-strongmanrun",
@@ -56,8 +56,8 @@
 	{
 		"key": "tough-mudder",
 		"name": "Tough Mudder",
-		"participations": 6,
-		"participationsPlanned": 4
+		"participations": 8,
+		"participationsPlanned": 6
 	},
 	{
 		"key": "triathlon-leipzig",

@@ -1,0 +1,23 @@
+{
+	"key": "2015-firmenlauf-leipzig",
+	"raceKey": "firmenlauf-leipzig",
+	"name": "8. Commerzbank Firmenlauf",
+	"startDate": "2015-06-03",
+	"endDate": null,
+	"location": {
+		"name": "Kleinmesse am Cottaweg, Leipzig",
+		"latitude": 51.33944,
+		"longitude": 12.34275
+	},
+	"finished": true,
+	"runs": [
+		{
+			"startNumber": 7323,
+			"startTime": "2015-06-03T19:00",
+			"distance": "5,0 km",
+			"time": "00:20:57",
+			"team": "Run As Java Application",
+			"note": "Platz 438 von 12.022 Startern"
+		}
+	]
+}
