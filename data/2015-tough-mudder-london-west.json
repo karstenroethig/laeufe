@@ -21,19 +21,23 @@
 		}
 	],
 	"costs": {
-		"total": "(24,91 €) 18,00 GBP",
+		"total": "24,91 €",
+		"totalForeignCurrency": "18,00 GBP",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr über European Season Pass 2015",
-				"subTotal": "0,00 GBP"
+				"subTotal": "0,00 €",
+				"subTotalForeignCurrency": "0,00 GBP"
 			},
 			{
 				"description": "Standard Parking Pass",
-				"subTotal": "15,00 GBP"
+				"subTotal": "20,85 €",
+				"subTotalForeignCurrency": "15,00 GBP"
 			},
 			{
 				"description": "Bag Drop",
-				"subTotal": "3,00 GBP"
+				"subTotal": "4,06 €",
+				"subTotalForeignCurrency": "3,00 GBP"
 			}
 		]
 	},
