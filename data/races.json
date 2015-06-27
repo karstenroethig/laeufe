@@ -2,8 +2,8 @@
 	{
 		"key": "ammelshainer-schlosslauf",
 		"name": "Ammelshainer Schlosslauf",
-		"participations": 1,
-		"participationsPlanned": 1
+		"participations": 2,
+		"participationsPlanned": 0
 	},
 	{
 		"key": "cross-de-luxe",
@@ -56,8 +56,8 @@
 	{
 		"key": "tough-mudder",
 		"name": "Tough Mudder",
-		"participations": 8,
-		"participationsPlanned": 6
+		"participations": 10,
+		"participationsPlanned": 4
 	},
 	{
 		"key": "triathlon-leipzig",

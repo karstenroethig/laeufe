@@ -295,19 +295,19 @@
 		"endDate": "2015-06-21",
 		"location": "Drumlanrig Castle, Thornhill, UK",
 		"distance": "18+ km",
-		"time": null,
-		"costs": "0,00 €",
-		"finished": false
+		"time": "02:10:00",
+		"costs": "44,00 €",
+		"finished": true
 	},
 	{
 		"key": "2015-ammelshainer-schlosslauf",
 		"raceKey": "ammelshainer-schlosslauf",
 		"name": "9. Ammelshainer Schlosslauf",
-		"startDate": "2014-06-26",
+		"startDate": "2015-06-26",
 		"endDate": null,
 		"location": "Ammelshainer Schloss, Ammelshain",
 		"distance": "8,5 km",
-		"time": null,
+		"time": "DNP",
 		"costs": "5,00 €",
 		"finished": false
 	},

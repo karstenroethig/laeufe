@@ -1,0 +1,32 @@
+{
+	"key": "2015-ammelshainer-schlosslauf",
+	"raceKey": "ammelshainer-schlosslauf",
+	"name": "9. Ammelshainer Schlosslauf",
+	"startDate": "2015-06-26",
+	"endDate": null,
+	"location": {
+		"name": "Ammelshainer Schloss, Ammelshain",
+		"latitude": 51.294884,
+		"longitude": 12.636619
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2015-06-26T19:00",
+			"distance": "8,5 km",
+			"time": null,
+			"team": null,
+			"note": "Nicht teilgenommen wegen Krankheit im Schottland-Urlaub"
+		}
+	],
+	"costs": {
+		"total": "5,00 €",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "5,00 €"
+			}
+		]
+	}
+}
