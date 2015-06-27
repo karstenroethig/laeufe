@@ -1,0 +1,49 @@
+{
+	"key": "2015-spartan-race-beast-kouty",
+	"raceKey": "spartan-race",
+	"name": "Spartan Race - Kouty (Beast)",
+	"startDate": "2015-10-11",
+	"endDate": null,
+	"location": {
+		"name": "Ski Areal Kouty, Kouty nad Desnou, CZ",
+		"latitude": 50.099103,
+		"longitude": 17.119918
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2015-10-11T08:00",
+			"distance": "20+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": "0,00 €",
+		"totalForeignCurrency": "",
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": "59,00 €",
+				"subTotalForeignCurrency": ""
+			},
+			{
+				"description": "insurance",
+				"subTotal": "2,50 €",
+				"subTotalForeignCurrency": ""
+			},
+			{
+				"description": "parking",
+				"subTotal": "3,00 €",
+				"subTotalForeignCurrency": "100,00 Kc"
+			},
+			{
+				"description": "bagcheck",
+				"subTotal": "1,00 €",
+				"subTotalForeignCurrency": "30,00 Kc"
+			}
+		]
+	}
+}

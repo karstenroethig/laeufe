@@ -372,6 +372,18 @@
 		"finished": false
 	},
 	{
+		"key": "2015-spartan-race-beast-kouty",
+		"raceKey": "spartan-race",
+		"name": "Spartan Race - Kouty (Beast)",
+		"startDate": "2015-10-11",
+		"endDate": null,
+		"location": "Ski Areal Kouty, Kouty nad Desnou, CZ",
+		"distance": "20+ km",
+		"time": null,
+		"costs": "0,00 €",
+		"finished": false
+	},
+	{
 		"key": "2015-fockeberglauf",
 		"raceKey": "fockeberglauf",
 		"name": "49. Fockeberglauf",

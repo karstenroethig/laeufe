@@ -284,5 +284,16 @@
 				"name": "Wildsau Dirt Race 2015 - Salzburg"
 			}
 		]
+	},
+	{
+		"name": "Ski Areal Kouty, Kouty nad Desnou, CZ",
+		"latitude": 50.099103,
+		"longitude": 17.119918,
+		"events": [
+			{
+				"key": "2015-spartan-race-beast-kouty",
+				"name": "Spartan Race 2015 - Kouty (Beast)"
+			}
+		]
 	}
 ]
