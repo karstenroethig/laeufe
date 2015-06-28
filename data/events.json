@@ -8,7 +8,7 @@
 		"location": "Sportforum, Leipzig",
 		"distance": "5 km",
 		"time": "00:22:53",
-		"costs": "0,00 €",
+		"costs": 0.00,
 		"finished": true
 	},
 	{
@@ -20,7 +20,7 @@
 		"location": "Sportforum, Leipzig",
 		"distance": "5,2 km",
 		"time": "00:24:07",
-		"costs": "0,00 €",
+		"costs": 0.00,
 		"finished": true
 	},
 	{
@@ -32,7 +32,7 @@
 		"location": "Sportforum, Leipzig",
 		"distance": "5 km",
 		"time": "ca. 00:20:00",
-		"costs": "0,00 €",
+		"costs": 0.00,
 		"finished": true
 	},
 	{
@@ -44,7 +44,7 @@
 		"location": "Markkleeberger See",
 		"distance": "2 x 8 km",
 		"time": "01:59:34",
-		"costs": "24,00 €",
+		"costs": 24.00,
 		"finished": true
 	},
 	{
@@ -56,7 +56,7 @@
 		"location": "Sportforum, Leipzig",
 		"distance": "4,8 km",
 		"time": "00:19:29",
-		"costs": "0,00 €",
+		"costs": 0.00,
 		"finished": true
 	},
 	{
@@ -68,7 +68,7 @@
 		"location": "Fursten Forest, Fürstenau",
 		"distance": "18+ km",
 		"time": "02:10:00",
-		"costs": "192,77 €",
+		"costs": 192.77,
 		"finished": true
 	},
 	{
@@ -80,7 +80,7 @@
 		"location": "Markkleeberger See",
 		"distance": "2 x 8,65 km",
 		"time": "01:49:16",
-		"costs": "56,90 €",
+		"costs": 56.90,
 		"finished": true
 	},
 	{
@@ -92,7 +92,7 @@
 		"location": "Lausitzring, Klettwitz",
 		"distance": "18+ km",
 		"time": null,
-		"costs": "172,77 €",
+		"costs": 172.77,
 		"finished": true
 	},
 	{
@@ -104,7 +104,7 @@
 		"location": "Olympiapark, München",
 		"distance": "6+ km",
 		"time": "< 01:15:41",
-		"costs": "47,00 €",
+		"costs": 47.00,
 		"finished": true
 	},
 	{
@@ -116,7 +116,7 @@
 		"location": "Nürburgring, Nürburg",
 		"distance": "2 x 12 km",
 		"time": "03:13:39",
-		"costs": "143,89 €",
+		"costs": 143.89,
 		"finished": true
 	},
 	{
@@ -128,7 +128,7 @@
 		"location": "Sportforum, Leipzig",
 		"distance": "4,8 km",
 		"time": "00:18:14",
-		"costs": "0,00 €",
+		"costs": 0.00,
 		"finished": true
 	},
 	{
@@ -140,7 +140,7 @@
 		"location": "Ammelshainer Schloss, Ammelshain",
 		"distance": "8,5 km",
 		"time": "00:36:19",
-		"costs": "5,00 €",
+		"costs": 5.00,
 		"finished": true
 	},
 	{
@@ -152,7 +152,7 @@
 		"location": "Motocross Bielstein, Wiehl",
 		"distance": "13+ km",
 		"time": "01:39:20",
-		"costs": "74,75 €",
+		"costs": 74.75,
 		"finished": true
 	},
 	{
@@ -164,7 +164,7 @@
 		"location": "Lausitzring, Klettwitz",
 		"distance": "18+ km",
 		"time": "02:15:00",
-		"costs": "50,00 €",
+		"costs": 50.00,
 		"finished": true
 	},
 	{
@@ -176,7 +176,7 @@
 		"location": "Hofgut Luisenlust, Hirzenhain",
 		"distance": "18+ km",
 		"time": "02:00:00",
-		"costs": "52,97 €",
+		"costs": 52.97,
 		"finished": true
 	},
 	{
@@ -188,7 +188,7 @@
 		"location": "Serengeti Park, Hodenhagen",
 		"distance": "2 x 8 km",
 		"time": "01:29:59",
-		"costs": "68,99 €",
+		"costs": 68.99,
 		"finished": true
 	},
 	{
@@ -200,7 +200,7 @@
 		"location": "Markkleeberger See",
 		"distance": "2 x 8 km",
 		"time": "01:48:42",
-		"costs": "51,99 €",
+		"costs": 51.99,
 		"finished": true
 	},
 	{
@@ -212,7 +212,7 @@
 		"location": "Pippingford Park, East Sussex, UK",
 		"distance": "20+ km",
 		"time": "02:53:01",
-		"costs": "86,79 €",
+		"costs": 86.79,
 		"finished": true
 	},
 	{
@@ -224,7 +224,7 @@
 		"location": "Fockeberg, Leipzig",
 		"distance": "6 x 2 km",
 		"time": "01:00:50",
-		"costs": "5,00 €",
+		"costs": 5.00,
 		"finished": true
 	},
 	{
@@ -236,7 +236,7 @@
 		"location": "Festwiese Röntgenstraße, Rudolstadt",
 		"distance": "24 km",
 		"time": "Aufgabe",
-		"costs": "69,00 €",
+		"costs": 69.00,
 		"finished": false
 	},
 	{
@@ -248,7 +248,7 @@
 		"location": "Culden Faw, Fawley, Henley on Thames, UK",
 		"distance": "18+ km",
 		"time": "02:28:27",
-		"costs": "24,91 €",
+		"costs": 24.91,
 		"finished": true
 	},
 	{
@@ -260,7 +260,7 @@
 		"location": "Jagdschloss Herdringen, Arnsberg",
 		"distance": "18+ km",
 		"time": "02:10:20",
-		"costs": "35,00 €",
+		"costs": 35.00,
 		"finished": true
 	},
 	{
@@ -272,7 +272,7 @@
 		"location": "Boughton House, Kettering, UK",
 		"distance": "18+ km",
 		"time": "02:08:16",
-		"costs": "43,22 €",
+		"costs": 43.22,
 		"finished": true
 	},
 	{
@@ -284,7 +284,7 @@
 		"location": "Kleinmesse am Cottaweg, Leipzig",
 		"distance": "5 km",
 		"time": "00:20:57",
-		"costs": "0,00 €",
+		"costs": 0.00,
 		"finished": true
 	},
 	{
@@ -296,7 +296,7 @@
 		"location": "Drumlanrig Castle, Thornhill, UK",
 		"distance": "18+ km",
 		"time": "02:10:00",
-		"costs": "44,00 €",
+		"costs": 44.00,
 		"finished": true
 	},
 	{
@@ -308,7 +308,7 @@
 		"location": "Ammelshainer Schloss, Ammelshain",
 		"distance": "8,5 km",
 		"time": "DNP",
-		"costs": "5,00 €",
+		"costs": 5.00,
 		"finished": false
 	},
 	{
@@ -320,7 +320,7 @@
 		"location": "Reiter- und Ferienhof Severloh, Hermannsburg",
 		"distance": "18+ km",
 		"time": null,
-		"costs": "35,00 €",
+		"costs": 35.00,
 		"finished": false
 	},
 	{
@@ -332,7 +332,7 @@
 		"location": "Ferropolis, Gräfenhainichen",
 		"distance": "2 x 12 km",
 		"time": null,
-		"costs": "79,00 €",
+		"costs": 79.00,
 		"finished": false
 	},
 	{
@@ -344,7 +344,7 @@
 		"location": "St. Leonard bei Salzburg, Österreich",
 		"distance": "20 km",
 		"time": null,
-		"costs": "55,00 €",
+		"costs": 55.00,
 		"finished": false
 	},
 	{
@@ -356,7 +356,7 @@
 		"location": "Wassertrüdingen am Oettinger Forst",
 		"distance": "18+ km",
 		"time": null,
-		"costs": "35,00 €",
+		"costs": 35.00,
 		"finished": false
 	},
 	{
@@ -368,7 +368,7 @@
 		"location": "Markkleeberger See",
 		"distance": "2 x 8 km",
 		"time": null,
-		"costs": "32,00 €",
+		"costs": 32.00,
 		"finished": false
 	},
 	{
@@ -380,7 +380,7 @@
 		"location": "Ski Areal Kouty, Kouty nad Desnou, CZ",
 		"distance": "20+ km",
 		"time": null,
-		"costs": "0,00 €",
+		"costs": 61.50,
 		"finished": false
 	},
 	{
@@ -392,7 +392,7 @@
 		"location": "Fockeberg, Leipzig",
 		"distance": "6 x 2 km",
 		"time": null,
-		"costs": "5,00 €",
+		"costs": 5.00,
 		"finished": false
 	},
 	{
@@ -404,7 +404,7 @@
 		"location": "Festwiese Röntgenstraße, Rudolstadt",
 		"distance": "24 km",
 		"time": null,
-		"costs": "69,00 €",
+		"costs": 69.00,
 		"finished": false
 	}
 ]

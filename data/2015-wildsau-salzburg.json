@@ -21,23 +21,23 @@
 		}
 	],
 	"costs": {
-		"total": "55,00 €",
+		"total": 55.00,
 		"positions": [
 			{
 				"description": "Startgeld (Starter 1 - x)",
-				"subTotal": "49,00 €"
+				"subTotal": 49.00
 			},
 			{
 				"description": "Transaktionsbearbeitungsgebühr",
-				"subTotal": "1,00 €"
+				"subTotal": 1.00
 			},
 			{
 				"description": "Chip zur Zeitmessung",
-				"subTotal": "25,00 €"
+				"subTotal": 25.00
 			},
 			{
 				"description": "Erstattung für Rückgabe des Chips",
-				"subTotal": "-20,00 €"
+				"subTotal": -20.00
 			}
 		]
 	}

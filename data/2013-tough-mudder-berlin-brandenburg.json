@@ -21,27 +21,27 @@
 		}
 	],
 	"costs": {
-		"total": "172,77 €",
+		"total": 172.77,
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
-				"subTotal": "90,00 €"
+				"subTotal": 90.00
 			},
 			{
 				"description": "obligatorische Versicherungsgebühr",
-				"subTotal": "15,00 €"
+				"subTotal": 15.00
 			},
 			{
 				"description": "Transaktionsbearbeitungsgebühr",
-				"subTotal": "7,82 €"
+				"subTotal": 7.82
 			},
 			{
 				"description": "Parken",
-				"subTotal": "10,00 €"
+				"subTotal": 10.00
 			},
 			{
 				"description": "Fotos",
-				"subTotal": "49,95 €"
+				"subTotal": 49.95
 			}
 		]
 	},

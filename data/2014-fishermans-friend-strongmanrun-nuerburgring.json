@@ -21,39 +21,39 @@
 		}
 	],
 	"costs": {
-		"total": "143,89 €",
+		"total": 143.89,
 		"positions": [
 			{
 				"description": "Startgeld (Starter 1 - 3.000)",
-				"subTotal": "79,00 €"
+				"subTotal": 79.00
 			},
 			{
 				"description": "Aufdruck auf der Startnummer",
-				"subTotal": "1,00 €"
+				"subTotal": 1.00
 			},
 			{
 				"description": "Vorabversand der Startunterlagen",
-				"subTotal": "8,90 €"
+				"subTotal": 8.90
 			},
 			{
 				"description": "Chip zur Zeitmessung",
-				"subTotal": "31,00 €"
+				"subTotal": 31.00
 			},
 			{
 				"description": "Erstattung für Rückgabe des Chips",
-				"subTotal": "-25,00 €"
+				"subTotal": -25.00
 			},
 			{
 				"description": "Camping am Nürburgring",
-				"subTotal": "29,00 €"
+				"subTotal": 29.00
 			},
 			{
 				"description": "Parken",
-				"subTotal": "0,00 €"
+				"subTotal": 0.00
 			},
 			{
 				"description": "Fotos",
-				"subTotal": "19,99 €"
+				"subTotal": 19.99
 			}
 		]
 	},

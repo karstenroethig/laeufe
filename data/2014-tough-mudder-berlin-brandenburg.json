@@ -21,19 +21,19 @@
 		}
 	],
 	"costs": {
-		"total": "50,00 €",
+		"total": 50.00,
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
-				"subTotal": "55,00 €"
+				"subTotal": 55.00
 			},
 			{
 				"description": "Rabatt für Frühanmelder",
-				"subTotal": "-5,00 €"
+				"subTotal": -5.00
 			},
 			{
 				"description": "Camping inkl. Parken für Volunteers",
-				"subTotal": "0,00 €"
+				"subTotal": 0.00
 			}
 		]
 	},

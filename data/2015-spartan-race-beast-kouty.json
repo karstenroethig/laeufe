@@ -13,7 +13,7 @@
 	"runs": [
 		{
 			"startNumber": null,
-			"startTime": "2015-10-11T08:00",
+			"startTime": "2015-10-11T09:30",
 			"distance": "20+ km",
 			"time": null,
 			"team": null,
@@ -21,28 +21,29 @@
 		}
 	],
 	"costs": {
-		"total": "0,00 €",
-		"totalForeignCurrency": "",
+		"total": 0.00,
+		"totalForeignCurrency": null,
+		"foreignCurrency": "Kc",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
-				"subTotal": "59,00 €",
-				"subTotalForeignCurrency": ""
+				"subTotal": 59.00,
+				"subTotalForeignCurrency": null
 			},
 			{
 				"description": "insurance",
-				"subTotal": "2,50 €",
-				"subTotalForeignCurrency": ""
+				"subTotal": 2.50,
+				"subTotalForeignCurrency": null
 			},
 			{
 				"description": "parking",
-				"subTotal": "3,00 €",
-				"subTotalForeignCurrency": "100,00 Kc"
+				"subTotal": 3.00,
+				"subTotalForeignCurrency": 100.00
 			},
 			{
 				"description": "bagcheck",
-				"subTotal": "1,00 €",
-				"subTotalForeignCurrency": "30,00 Kc"
+				"subTotal": 1.00,
+				"subTotalForeignCurrency": 30.00
 			}
 		]
 	}

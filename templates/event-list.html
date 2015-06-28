@@ -53,7 +53,7 @@
 			<th>Ort</th>
 			<th class="text-right">Distanz</th>
 			<th class="text-right">Zeit</th>
-			<th class="text-right">Teilnahme-<br>gebühr</th>
+			<th class="text-right">Teilnahme-<br>geb&uuml;hr (&euro;)</th>
 			<th></th>
 		</thead>
 		<tbody>
@@ -68,7 +68,7 @@
 				<td ng-bind="event.location"></td>
 				<td class="text-right" ng-bind="event.distance"></td>
 				<td class="text-right" ng-bind="event.time"></td>
-				<td class="text-right" ng-bind="event.costs"></td>
+				<td class="text-right" ng-bind="event.costs | currency"></td>
 				<td>
 					<a ng-href="#/events/{{event.key}}/edit"><span class="glyphicon glyphicon-edit"></span></a>
 				</td>

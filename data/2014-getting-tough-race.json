@@ -21,19 +21,19 @@
 		}
 	],
 	"costs": {
-		"total": "69,00 €",
+		"total": 69.00,
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
-				"subTotal": "69,00 €"
+				"subTotal": 69.00
 			},
 			{
 				"description": "Pfand für Handgelenkchip zur Zeitnahme",
-				"subTotal": "10,00 €"
+				"subTotal": 10.00
 			},
 			{
 				"description": "Rückgabe Handgelenkchip zur Zeitnahme",
-				"subTotal": "-10,00 €"
+				"subTotal": -10.00
 			}
 		]
 	},

@@ -21,27 +21,27 @@
 		}
 	],
 	"costs": {
-		"total": "79,00 €",
+		"total": 79.00,
 		"positions": [
 			{
 				"description": "Startgeld (Starter 1 - 2.000)",
-				"subTotal": "69,00 €"
+				"subTotal": 69.00
 			},
 			{
 				"description": "Aufdruck auf der Startnummer",
-				"subTotal": "1,00 €"
+				"subTotal": 1.00
 			},
 			{
 				"description": "Chip zur Zeitmessung",
-				"subTotal": "31,00 €"
+				"subTotal": 31.00
 			},
 			{
 				"description": "Erstattung für Rückgabe des Chips",
-				"subTotal": "-25,00 €"
+				"subTotal": -25.00
 			},
 			{
 				"description": "Parken",
-				"subTotal": "3,00 €"
+				"subTotal": 3.00
 			}
 		]
 	}

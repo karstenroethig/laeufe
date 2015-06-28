@@ -29,15 +29,15 @@
 		}
 	],
 	"costs": {
-		"total": "35,00 €",
+		"total": 35.00,
 		"positions": [
 			{
 				"description": "Teilnahmegebühr über European Season Pass 2015",
-				"subTotal": "0,00 €"
+				"subTotal": 0.00
 			},
 			{
 				"description": "Wochenendticket Camping (inkl. Parkschein)",
-				"subTotal": "35,00 €"
+				"subTotal": 35.00
 			}
 		]
 	}

@@ -21,15 +21,15 @@
 		}
 	],
 	"costs": {
-		"total": "68,99 €",
+		"total": 68.99,
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
-				"subTotal": "49,00 €"
+				"subTotal": 49.00
 			},
 			{
 				"description": "Fotos",
-				"subTotal": "19,99 €"
+				"subTotal": 19.99
 			}
 		]
 	}

@@ -74,19 +74,19 @@
 		<table class="table table-striped">
 			<thead>
 				<th>Bezeichnung</th>
-				<th class="text-right" ng-if="event.costs.totalForeignCurrency">Betrag (Fremdw&auml;hrung)</th>
-				<th class="text-right">Betrag</th>
+				<th class="text-right" ng-if="event.costs.foreignCurrency">Betrag ({{event.costs.foreignCurrency}})</th>
+				<th class="text-right">Betrag (&euro;)</th>
 			</thead>
 			<tbody>
 				<tr ng-repeat="position in event.costs.positions">
 					<td ng-bind="position.description"></td>
-					<td ng-if="event.costs.totalForeignCurrency" class="text-right" ng-bind="position.subTotalForeignCurrency"></td>
-					<td class="text-right" ng-bind="position.subTotal"></td>
+					<td ng-if="event.costs.foreignCurrency" class="text-right" ng-bind="position.subTotalForeignCurrency | currency"></td>
+					<td class="text-right" ng-bind="position.subTotal | currency"></td>
 				</tr>
 				<tr>
 					<th>Gesamt</th>
-					<th class="text-right" ng-bind="event.costs.totalForeignCurrency" ng-if="event.costs.totalForeignCurrency"></th>
-					<th class="text-right" ng-bind="event.costs.total"></th>
+					<th class="text-right" ng-bind="event.costs.totalForeignCurrency | currency" ng-if="event.costs.foreignCurrency"></th>
+					<th class="text-right" ng-bind="event.costs.total | currency"></th>
 				</tr>
 			</tbody>
 		</table>

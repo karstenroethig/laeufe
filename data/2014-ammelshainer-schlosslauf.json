@@ -21,11 +21,11 @@
 		}
 	],
 	"costs": {
-		"total": "5,00 €",
+		"total": 5.00,
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
-				"subTotal": "5,00 €"
+				"subTotal": 5.00
 			}
 		]
 	}

@@ -21,33 +21,34 @@
 		}
 	],
 	"costs": {
-		"total": "86,79 €",
-		"totalForeignCurrency": "69,00 GBP",
+		"total": 86.79,
+		"totalForeignCurrency": 69.00,
+		"foreignCurrency": "GBP",
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
-				"subTotal": "",
-				"subTotalForeignCurrency": "50,00 GBP"
+				"subTotal": null,
+				"subTotalForeignCurrency": 50.00
 			},
 			{
 				"description": "VAT",
-				"subTotal": "",
-				"subTotalForeignCurrency": "10,00 GBP"
+				"subTotal": null,
+				"subTotalForeignCurrency": 10.00
 			},
 			{
 				"description": "processing fee",
-				"subTotal": "",
-				"subTotalForeignCurrency": "3,00 GBP"
+				"subTotal": null,
+				"subTotalForeignCurrency": 3.00
 			},
 			{
 				"description": "parking",
-				"subTotal": "",
-				"subTotalForeignCurrency": "5,00 GBP"
+				"subTotal": null,
+				"subTotalForeignCurrency": 5.00
 			},
 			{
 				"description": "bag drop",
-				"subTotal": "",
-				"subTotalForeignCurrency": "1,00 GBP"
+				"subTotal": null,
+				"subTotalForeignCurrency": 1.00
 			}
 		]
 	},
