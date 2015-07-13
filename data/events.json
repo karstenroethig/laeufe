@@ -319,9 +319,9 @@
 		"endDate": "2015-07-12",
 		"location": "Reiter- und Ferienhof Severloh, Hermannsburg",
 		"distance": "18+ km",
-		"time": null,
+		"time": "01:40:00",
 		"costs": 35.00,
-		"finished": false
+		"finished": true
 	},
 	{
 		"key": "2015-fishermans-friend-strongmanrun-ferropolis",
