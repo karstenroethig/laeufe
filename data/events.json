@@ -384,6 +384,18 @@
 		"finished": false
 	},
 	{
+		"key": "2015-xletix-berlin-city",
+		"raceKey": "xletix",
+		"name": "XLETIX Challenge - Berlin City",
+		"startDate": "2015-10-17",
+		"endDate": null,
+		"location": "Trabrennbahn Karlshorst, Berlin",
+		"distance": "12-16 km",
+		"time": null,
+		"costs": 84.00,
+		"finished": false
+	},
+	{
 		"key": "2015-fockeberglauf",
 		"raceKey": "fockeberglauf",
 		"name": "49. Fockeberglauf",

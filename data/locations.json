@@ -295,5 +295,16 @@
 				"name": "Spartan Race 2015 - Kouty (Beast)"
 			}
 		]
+	},
+	{
+		"name": "Trabrennbahn Karlshorst, Berlin",
+		"latitude": 52.4751809,
+		"longitude": 13.5268016,
+		"events": [
+			{
+				"key": "2015-xletix-berlin-city",
+				"name": "XLETIX Challenge 2015 - Berlin City"
+			}
+		]
 	}
 ]
