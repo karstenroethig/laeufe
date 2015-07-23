@@ -44,19 +44,19 @@
 		"events": [
 			{
 				"key": "2012-cross-de-luxe",
-				"name": "CROSS DE LUXE 2012"
+				"name": "CROSS DE LUXE (2012)"
 			},
 			{
 				"key": "2013-cross-de-luxe",
-				"name": "CROSS DE LUXE 2013"
+				"name": "CROSS DE LUXE (2013)"
 			},
 			{
 				"key": "2014-cross-de-luxe",
-				"name": "CROSS DE LUXE 2014"
+				"name": "CROSS DE LUXE (2014)"
 			},
 			{
 				"key": "2015-cross-de-luxe",
-				"name": "CROSS DE LUXE 2015"
+				"name": "CROSS DE LUXE (2015)"
 			}
 		]
 	},
@@ -67,7 +67,7 @@
 		"events": [
 			{
 				"key": "2013-tough-mudder-nordwestdeutschland",
-				"name": "Tough Mudder 2013 - Nordwestdeutschland"
+				"name": "Tough Mudder - Nordwestdeutschland (2013)"
 			}
 		]
 	},
@@ -78,11 +78,11 @@
 		"events": [
 			{
 				"key": "2013-tough-mudder-berlin-brandenburg",
-				"name": "Tough Mudder 2013 - Berlin-Brandenburg"
+				"name": "Tough Mudder - Berlin-Brandenburg (2013)"
 			},
 			{
 				"key": "2014-tough-mudder-berlin-brandenburg",
-				"name": "Tough Mudder 2014 - Berlin-Brandenburg"
+				"name": "Tough Mudder - Berlin-Brandenburg (2014)"
 			}
 		]
 	},
@@ -93,7 +93,7 @@
 		"events": [
 			{
 				"key": "2014-spartan-race-sprint-muenchen",
-				"name": "Spartan Race 2014 - München (Sprint)"
+				"name": "Spartan Race - München (Sprint) (2014)"
 			}
 		]
 	},
@@ -104,7 +104,7 @@
 		"events": [
 			{
 				"key": "2014-fishermans-friend-strongmanrun-nuerburgring",
-				"name": "Fisherman's Friend StrongmanRun 2014 - Nürbirgring"
+				"name": "Fisherman's Friend StrongmanRun - Nürbirgring (2014)"
 			}
 		]
 	},
@@ -115,7 +115,7 @@
 		"events": [
 			{
 				"key": "2014-tough-mudder-rhein-main",
-				"name": "Tough Mudder 2014 - Rhein-Main"
+				"name": "Tough Mudder - Rhein-Main (2014)"
 			}
 		]
 	},
@@ -126,7 +126,7 @@
 		"events": [
 			{
 				"key": "2014-survival-run",
-				"name": "Survival Run 2014"
+				"name": "Survival Run (2014)"
 			}
 		]
 	},
@@ -137,7 +137,7 @@
 		"events": [
 			{
 				"key": "2014-spartan-race-beast-south-london",
-				"name": "Spartan Race 2014 - South London (Beast)"
+				"name": "Spartan Race - South London (Beast) (2014)"
 			}
 		]
 	},
@@ -163,7 +163,7 @@
 		"events": [
 			{
 				"key": "2014-spartan-race-super-koeln",
-				"name": "Spartan Race 2014 - Köln (Super)"
+				"name": "Spartan Race - Köln (Super) (2014)"
 			}
 		]
 	},
@@ -174,11 +174,11 @@
 		"events": [
 			{
 				"key": "2014-ammelshainer-schlosslauf",
-				"name": "8. Ammelshainer Schlosslauf 2014"
+				"name": "8. Ammelshainer Schlosslauf (2014)"
 			},
 			{
 				"key": "2015-ammelshainer-schlosslauf",
-				"name": "9. Ammelshainer Schlosslauf 2015"
+				"name": "9. Ammelshainer Schlosslauf (2015)"
 			}
 		]
 	},
@@ -204,7 +204,7 @@
 		"events": [
 			{
 				"key": "2015-tough-mudder-nrw",
-				"name": "Tough Mudder 2015 - NRW"
+				"name": "Tough Mudder - NRW (2015)"
 			}
 		]
 	},
@@ -215,7 +215,7 @@
 		"events": [
 			{
 				"key": "2015-tough-mudder-london-west",
-				"name": "Tough Mudder 2015 - London West"
+				"name": "Tough Mudder - London West (2015)"
 			}
 		]
 	},
@@ -226,7 +226,7 @@
 		"events": [
 			{
 				"key": "2015-tough-mudder-midlands",
-				"name": "Tough Mudder 2015 - Midlands"
+				"name": "Tough Mudder - Midlands (2015)"
 			}
 		]
 	},
@@ -237,7 +237,7 @@
 		"events": [
 			{
 				"key": "2015-tough-mudder-scotland",
-				"name": "Tough Mudder 2015 - Scotland"
+				"name": "Tough Mudder - Scotland (2015)"
 			}
 		]
 	},
@@ -248,7 +248,7 @@
 		"events": [
 			{
 				"key": "2015-tough-mudder-norddeutschland",
-				"name": "Tough Mudder 2015 - Norddeutschland"
+				"name": "Tough Mudder - Norddeutschland (2015)"
 			}
 		]
 	},
@@ -259,7 +259,7 @@
 		"events": [
 			{
 				"key": "2015-fishermans-friend-strongmanrun-ferropolis",
-				"name": "Fisherman's Friend StrongmanRun 2015 - Ferropolis"
+				"name": "Fisherman's Friend StrongmanRun - Ferropolis (2015)"
 			}
 		]
 	},
@@ -270,7 +270,7 @@
 		"events": [
 			{
 				"key": "2015-tough-mudder-sueddeutschland",
-				"name": "Tough Mudder 2015 - Süddeutschland"
+				"name": "Tough Mudder - Süddeutschland (2015)"
 			}
 		]
 	},
@@ -281,7 +281,7 @@
 		"events": [
 			{
 				"key": "2015-wildsau-salzburg",
-				"name": "Wildsau Dirt Race 2015 - Salzburg"
+				"name": "Wildsau Dirt Race - Salzburg (2015)"
 			}
 		]
 	},
@@ -292,7 +292,7 @@
 		"events": [
 			{
 				"key": "2015-spartan-race-beast-kouty",
-				"name": "Spartan Race 2015 - Kouty (Beast)"
+				"name": "Spartan Race - Kouty (Beast) (2015)"
 			}
 		]
 	},
@@ -303,7 +303,7 @@
 		"events": [
 			{
 				"key": "2015-xletix-berlin-city",
-				"name": "XLETIX Challenge 2015 - Berlin City"
+				"name": "XLETIX Challenge - Berlin City (2015)"
 			}
 		]
 	}
