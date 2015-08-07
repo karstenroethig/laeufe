@@ -44,5 +44,67 @@
 				"subTotal": 3.00
 			}
 		]
-	}
+	},
+	"obstacles": [
+		{
+			"name": "Hindernis 1: GIB GUMMI",
+			"description": "Ein Reifenmeer von 80m Länge wartet darauf, von euch bezwungen zu werden. Also springt hinein, watet oder klettert hindurch und ganz wichtig: GEBT GUMMI!"
+		},
+		{
+			"name": "Hindernis 2: DARKNET",
+			"description": "Bei Hindernis Nr. 2 \"DARKNET\" sind Muskelkraft und Kletterfähigkeit gefragt. Denn es gilt das vorgelagerte Netz zu überwinden um auf die Container zu klettern. Den Abstieg ermöglichen schließlich Strohballen. Seid Ihr STARK genug?"
+		},
+		{
+			"name": "Hindernis 3: WOODSTACLE",
+			"description": "Hindernis 3 hat alles an Hürden, was das Läuferherz höher schlagen lässt. In diesem bunten Mix müsst ihr also hüpfen, springen, klettern, laufen und alles, was euch sonst zur Überwindung einfällt."
+		},
+		{
+			"name": "Hindernis 4: SCHLAMMSCHLACHT",
+			"description": "Kämpft euch durch den 30 m langen und 50 m breiten Graben, Matsch gibt es gratis bis zum Abwinken. Und damit keiner schummelt, spannen wir euch ein feines Netz über den Kopf. Aufstehen und weiterlaufen heißt es danach. Wer jetzt noch halbwegs sauber ist, ist selber schuld!"
+		},
+		{
+			"name": "Hindernis 5: GEFÄHRLICHE SEILSCHAFTEN",
+			"description": "Jetzt ist eure Kraft, vor allem in den Armen, gefragt: Wir bieten euch zwei Überseecontainer, eine Holzkonstruktion und natürlich, weil ihr es ja schaffen sollt, ein paar Seile. Und lasst euch gesagt sein, mit Hilfe klappt's hier viel besser. Gebt also aufeinander Acht und schiebt/zieht euch gegenseitig hoch!"
+		},
+		{
+			"name": "Hindernis 6: DAS GROSSE KRABBELN",
+			"description": "Jetzt wird's hart und dreckig – vor euch liegt Hindernis 6 \"Das große Krabbeln\": Eine Matschgrube, über die wir in einer Höhe von 80 cm ein Netz gespannt haben. Um nicht im Schlamm zu versinken, müsst Ihr schnell sein und Eure Kraft aus allen vier Gliedmaßen nutzen – nur dann habt Ihr eine Chance, das 50 m lange Hindernis zu überstehen. Also runter mit Euch auf die Knie!"
+		},
+		{
+			"name": "Hindernis 7: SCHLAMMOPOLIS",
+			"description": "Jetzt wird's versaut: Zumindest bei diesem Hindernis, denn es wird Zeit, dass Ihr euch dreckig macht. Wir haben eine große Schlammgrube ausgehoben und ordentlich Wasser reingekippt. Mit welcher Taktik man hier am schnellsten durchkommt, müsst Ihr selbst rausfinden. Schnallt eure Schuhe gut an, denn manch einer hat sie schon im Matsch verloren. Wer auch immer Euch diesen Schlamassel eingebrockt hat, da müsst Ihr jetzt durch."
+		},
+		{
+			"name": "Hindernis 8: HIGH FIVE - LOW FIVE",
+			"description": "Seid ihr bereit für die nächste Qual? Bei Hindernis 8 ist schließlich eure Fitness gefragt, denn erst geht's hoch, dann runter, dann wieder hoch und runter. Das Ganze mehrmals. Fünf große Holzhürden sind aufgebaut, dazwischen fünf Netze gespannt. Über die Hürden müsst Ihr rüber klettern, unter den Netzen müsst Ihr hindurch kriechen. So kommt Eurer Kreislauf ordentlich in Schwung."
+		},
+		{
+			"name": "Hindernis 9: UP IN THE AIR",
+			"description": "UP IN THE AIR heißt es bei Hindernis Nr. 9 und hier sind ganz klar eure Kletterkünste gefragt. Also alles an Kräften sammeln, was geht!!! Greift in die Holzkonstruktion, zieht euch hoch auf die Überseecontainer, dann geht es noch zwei Mal auf eine Hürde aus Strohballen und ihr habt es geschafft. Zumindest bis zum nächsten Hindernis!!!"
+		},
+		{
+			"name": "Hindernis 10: SENKRECHTSTARTER",
+			"description": "Bei Hindernis 10 \"SENKRECHTSTARTER\" geht ihr am 15. August ganz schön steil, nämlich 2,5 Meter die Wand hoch auf 2 riesige Überseecontainer. Als Hilfe dient eine kleine Holzkletterwand. Also, alle Kraft zusammensuchen, Zähne zusammenbeißen und rauf auf das Ding..."
+		},
+		{
+			"name": "Hindernis 11: DIE WASCHSTRASSE",
+			"description": "Nach all den Strapazen habt ihr euch ein Bad im Schaum redlich verdient. Also, runter mit dem Schmutz: Bei 60m Schaumstrecke begleitet von treibenden Beats sollte das doch kein Problem sein!"
+		},
+		{
+			"name": "Hindernis 12: STAIR RUN",
+			"description": "Auf die Treppe ... fertig ... los! Bei Fisherman's Friend StrongmanRun-Hindernis STAIR RUN ist nochmal eure ganze Ausdauer gefragt. Hier müsst ihr am 15. August zunächst die großen Tribünen-Stufen runter,durch oder über einen Wellenbrecher und anschließend wieder hoch. Damit es ja nicht langweilig wird, macht ihr das ganze nicht nur einmal… Zeigt uns den Rocky!"
+		},
+		{
+			"name": "Hindernis 13: DOWN UNDER",
+			"description": "Auf einer Länge von 8 Metern sind 22 Gitter installiert. Egal ob Hangeln, Krabbeln, Robben oder Kriechen, sucht euch die beste Taktik, um den Käfig zu passieren. Aber passt auf Eure Knie auf, denn der Untergrund ist nicht zu unterschätzen. Kies und Sand fühlen sich wie Schmiergelpapier an, wenn man seine Körperteile absetzt. Also bückt Euch und durch!"
+		},
+		{
+			"name": "Hindernis 14: DARK WATER",
+			"description": "Zeit für eine kleine Abkühlung: In Windeseile müsst Ihr eine Strecke von ca. 300 Metern entlang der Halbinsel von Ferropolis durchs Wasser laufen. Dabei warten kleinere und größere Tücken auf Euch. Also seid stark und stellt Euch Hindernis 14."
+		},
+		{
+			"name": "Hindernis 15: GUTEN RUTSCH!",
+			"description": "Ein echter Fisherman's Friend StrongmanRun wäre nichts ohne die extrem steile Rutsche, die Eurem Hinterteil den letzten Rest gibt. Und wir wollen Euch Jaulen hören. Damit Ihr ja nicht ans Bremsen denkt, wird mit Wasser ordentlich nachgeholfen. Schließlich sollen alle unten ankommen. Und damit's nicht zu eng wird, gibt's das Ganze wieder in schön breiter Ausführung."
+		}
+	]
 }
