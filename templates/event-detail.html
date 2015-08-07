@@ -25,7 +25,7 @@
 		<h3><span class="label label-default">Countdown</span> {{countdown | countdown}}</h3>
 		<br/>
 	</div>
-	
+
 	<div class="row">
 		<div class="col-md-4">
 			<ul class="nav">
@@ -104,7 +104,7 @@
 			</thead>
 			<tbody>
 				<tr ng-repeat="obstacle in event.obstacles">
-					<td ng-bind="obstacle.name"></td>
+					<td ng-bind="obstacle.name" style="white-space: nowrap;"></td>
 					<td ng-if="!obstacle.facts" ng-bind="obstacle.description"></td>
 					<td ng-if="obstacle.facts">
 						<p ng-bind="obstacle.description"></p>
@@ -155,7 +155,7 @@
 			});
 		</script>
 	</div>
-	
+
 </div>
 
 <script>
