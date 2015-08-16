@@ -331,9 +331,9 @@
 		"endDate": null,
 		"location": "Ferropolis, Gräfenhainichen",
 		"distance": "2 x 12 km",
-		"time": null,
+		"time": "01:43:57",
 		"costs": 79.00,
-		"finished": false
+		"finished": true
 	},
 	{
 		"key": "2015-wildsau-salzburg",
