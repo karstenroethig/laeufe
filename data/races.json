@@ -56,8 +56,8 @@
 	{
 		"key": "tough-mudder",
 		"name": "Tough Mudder",
-		"participations": 12,
-		"participationsPlanned": 2
+		"participations": 14,
+		"participationsPlanned": 0
 	},
 	{
 		"key": "triathlon-leipzig",
@@ -68,8 +68,8 @@
 	{
 		"key": "wildsau",
 		"name": "Wildsau Dirt Run",
-		"participations": 0,
-		"participationsPlanned": 1
+		"participations": 1,
+		"participationsPlanned": 0
 	},
 	{
 		"key": "wtm",

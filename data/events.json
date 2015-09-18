@@ -342,10 +342,10 @@
 		"startDate": "2015-09-05",
 		"endDate": null,
 		"location": "St. Leonard bei Salzburg, Österreich",
-		"distance": "20 km",
-		"time": null,
-		"costs": 55.00,
-		"finished": false
+		"distance": "4 x 5 km",
+		"time": "03:58:56",
+		"costs": 57.00,
+		"finished": true
 	},
 	{
 		"key": "2015-tough-mudder-sueddeutschland",
@@ -355,9 +355,9 @@
 		"endDate": "2015-09-13",
 		"location": "Wassertrüdingen am Oettinger Forst",
 		"distance": "18+ km",
-		"time": null,
-		"costs": 35.00,
-		"finished": false
+		"time": "02:10:00",
+		"costs": 43.26,
+		"finished": true
 	},
 	{
 		"key": "2015-cross-de-luxe",
