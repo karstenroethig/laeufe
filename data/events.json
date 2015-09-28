@@ -367,9 +367,9 @@
 		"endDate": null,
 		"location": "Markkleeberger See",
 		"distance": "2 x 8 km",
-		"time": null,
-		"costs": 32.00,
-		"finished": false
+		"time": "01:57:12",
+		"costs": 35.00,
+		"finished": true
 	},
 	{
 		"key": "2015-spartan-race-beast-kouty",
