@@ -32,7 +32,7 @@
 				<li ng-if="event.runs"><a href="#runs">Ergebnisse</a></li>
 				<li ng-if="event.costs"><a href="#costs">Kosten</a></li>
 				<li ng-if="event.obstacles"><a href="#obstacles">Hindernisse</a></li>
-				<li ng-if="event.newspaperArticle"><a href="#newspaperArticle">Zeitungsartikel</a></li>
+				<li ng-if="event.newspaperArticles"><a href="#newspaperArticles">Zeitungsartikel</a></li>
 				<li ng-if="event.pictures"><a href="#pictures">Fotos</a></li>
 			</ul>
 		</div>
@@ -120,14 +120,17 @@
 		<br/>
 	</div>
 
-	<div class="row" ng-if="event.newspaperArticle">
+	<div class="row" ng-if="event.newspaperArticles">
 		<h1>Zeitungsartikel</h1>
 		<hr/>
-		<h2>{{event.newspaperArticle.title}} <small>{{event.newspaperArticle.date}} ({{event.newspaperArticle.newspaperName}})</small></h2>
-		<p ng-if="event.newspaperArticle.subtitle"><strong ng-bind="event.newspaperArticle.subtitle"></strong></p>
-		<span ng-repeat="section in event.newspaperArticle.sections">
-			<p ng-if="section.title"><em ng-bind="section.title"></em></p>
-			<p ng-repeat="paragraph in section.paragraphs" ng-bind="paragraph"></p>
+		<span ng-repeat="newspaperArticle in event.newspaperArticles">
+			<h2>{{newspaperArticle.title}} <small>{{newspaperArticle.date}} ({{newspaperArticle.newspaperName}})</small></h2>
+			<p ng-if="newspaperArticle.subtitle"><strong ng-bind="newspaperArticle.subtitle"></strong></p>
+			<span ng-repeat="section in newspaperArticle.sections">
+				<p ng-if="section.title"><em ng-bind="section.title"></em></p>
+				<p ng-repeat="paragraph in section.paragraphs" ng-bind="paragraph"></p>
+			</span>
+			<br/>
 		</span>
 	</div>
 

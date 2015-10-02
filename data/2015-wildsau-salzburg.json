@@ -45,18 +45,20 @@
 			}
 		]
 	},
-	"newspaperArticle": {
-		"newspaperName": "www.wild-sau.com >> Events >> Rückblick SALZBURG 05.09.2015",
-		"date": "Montag, 07.09.2015",
-		"title": "Klug war’s nicht aber saugeil!",
-		"subtitle": null,
-		"sections": [
-			{
-				"title": null,
-				"paragraphs": [
-					"Am 05.09.2015 war die Wildsau in Salzburg zu Gast und selbst das Sauwetter und die gefühlten Minusgrade konnten die Läufer nicht davon abhalten sich der härtesten Challenge Österreichs zu stellen.  Passend zum Motto \"Go Gatsch or go Home\" hatten die Wildsäue am Gelände des Zementwerks Leube die Gelegenheit sich in einigen Gatschlöchern so richtig dreckig zu machen. Nicht nur die schmalen Wege und Schluchten im Wald, sondern auch die Laufstrecke durch den kompletten Tagbau der Leube mussten gemeistert werden. Herausfordernd waren natürlich wie immer auch unsere Gatschlöcher, die Gatschrutsch, das Glory Whole, das Spinnennetz und all die anderen saugeilen Hindernisse, die wir in den letzten Wochen für euch aufgestellt haben. Mit vereinter Kraft und Teamgeist habt ihr es aber alle geschafft und das freut uns sehr!!! Es war zwar nicht klug, aber saugeil!!! Ein fettes DANKE an alle Läufer und Helfer!!!"
-				]
-			}
-		]
-	}
+	"newspaperArticles": [
+		{
+			"newspaperName": "www.wild-sau.com >> Events >> Rückblick SALZBURG 05.09.2015",
+			"date": "Montag, 07.09.2015",
+			"title": "Klug war’s nicht aber saugeil!",
+			"subtitle": null,
+			"sections": [
+				{
+					"title": null,
+					"paragraphs": [
+						"Am 05.09.2015 war die Wildsau in Salzburg zu Gast und selbst das Sauwetter und die gefühlten Minusgrade konnten die Läufer nicht davon abhalten sich der härtesten Challenge Österreichs zu stellen.  Passend zum Motto \"Go Gatsch or go Home\" hatten die Wildsäue am Gelände des Zementwerks Leube die Gelegenheit sich in einigen Gatschlöchern so richtig dreckig zu machen. Nicht nur die schmalen Wege und Schluchten im Wald, sondern auch die Laufstrecke durch den kompletten Tagbau der Leube mussten gemeistert werden. Herausfordernd waren natürlich wie immer auch unsere Gatschlöcher, die Gatschrutsch, das Glory Whole, das Spinnennetz und all die anderen saugeilen Hindernisse, die wir in den letzten Wochen für euch aufgestellt haben. Mit vereinter Kraft und Teamgeist habt ihr es aber alle geschafft und das freut uns sehr!!! Es war zwar nicht klug, aber saugeil!!! Ein fettes DANKE an alle Läufer und Helfer!!!"
+					]
+				}
+			]
+		}
+	]
 }

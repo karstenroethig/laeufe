@@ -33,27 +33,24 @@
 			}
 		]
 	},
-	"newspaperArticle": {
-		"newspaperName": "LVZ-Online >> Region >> Markkleeberg",
-		"date": "Sonntag, 30. September 2012",
-		"title": "Hart, härter, Cross de Luxe",
-		"subtitle": null,
-		"sections": [
-			{
-				"title": null,
-				"paragraphs": [
-					"Markkleeberg. Fünf Minuten nach dem Rennen hat Enrico Bertram immer noch Puls 120. \"Das müsste eigentlich langsam weniger werden\", staunt er, noch immer außer Atem. Acht Kilometer Cross de Luxe stecken dem Freiwilligen Feuerwehrmann aus Holzhausen in den Knochen.",
-					"Mit vier Kameraden war er beim \"Strongest-Firefighter-Lauf\" gestartet. Rund 70 Brandschützer, Sanitäter und Soldaten machten es ihnen gleich, mussten beim acht Kilometer Geländelauf kreuz und quer am Markkleeberger See mehr als 20 Hindernisse überwältigen: Reifenstapel, Matschstrecken, Steilhänge, Kriechstrecken im Schlamm, Balanceparcours, Pontonbrücke – \"am schlimmsten war, kurz vorm Ziel daran vorbei- und die Steintreppe nach Auenhain hoch laufen zu müssen\", erzählte Bertram. \"Die Rutsche danach habe ich nicht mehr gespürt.\"",
-					"Bertram war noch nicht mal der härteste. Den Wettkampf gewann Thilo Prüfert von der Berufsfeuerwehr Leipzig. Noch härter waren gar die Cross-Läufer, die über 16 Kilometer gingen. Moderator Roman Knoblauch ermutigte sie nach der ersten Runde: \"Das war nur Probe. Jetzt wird‘s richtig ernst.\" Den Lauf gewann Bastian Dobrowald, den \"kleinen Parcours\" Steffen Parek.",
-					"Franziska Olberg wollte auch ernst machen, startete im Brautkleid. \"Mit dem habe ich noch eine Rechnung offen\", schmunzelte sie wissend. Ihr Freund Markus Körner trug rennend die Schleppe. \"Unser Ziel ist anzukommen – und das Kleid zu vernichten\", riefen sie gutgelaunt.",
-					"Bei der Rekordzahl von mehr als 1000 Teilnehmern waren mehrere Spaß-Mannschaften dabei, liefen in Verkleidung, getreu dem Cross-de-Luxe-Motto \"Lauf extrem und unbequem\". Der liebevoll-bösartig ausgeheckte Parcours der Sportfreunde Neuseenland war in diesem Jahr noch schwieriger als bei den ersten beiden Malen – sehr zur Freude der Zuschauer, aber auch der Läufer. Bertram: \"Nächstes Jahr bin ich wieder dabei.\" Bis dahin dürften auch alle Läufer wieder bei Puste sein."
-				]
-			}
-		]
-	}
+	"newspaperArticles": [
+		{
+			"newspaperName": "LVZ-Online >> Region >> Markkleeberg",
+			"date": "Sonntag, 30. September 2012",
+			"title": "Hart, härter, Cross de Luxe",
+			"subtitle": null,
+			"sections": [
+				{
+					"title": null,
+					"paragraphs": [
+						"Markkleeberg. Fünf Minuten nach dem Rennen hat Enrico Bertram immer noch Puls 120. \"Das müsste eigentlich langsam weniger werden\", staunt er, noch immer außer Atem. Acht Kilometer Cross de Luxe stecken dem Freiwilligen Feuerwehrmann aus Holzhausen in den Knochen.",
+						"Mit vier Kameraden war er beim \"Strongest-Firefighter-Lauf\" gestartet. Rund 70 Brandschützer, Sanitäter und Soldaten machten es ihnen gleich, mussten beim acht Kilometer Geländelauf kreuz und quer am Markkleeberger See mehr als 20 Hindernisse überwältigen: Reifenstapel, Matschstrecken, Steilhänge, Kriechstrecken im Schlamm, Balanceparcours, Pontonbrücke – \"am schlimmsten war, kurz vorm Ziel daran vorbei- und die Steintreppe nach Auenhain hoch laufen zu müssen\", erzählte Bertram. \"Die Rutsche danach habe ich nicht mehr gespürt.\"",
+						"Bertram war noch nicht mal der härteste. Den Wettkampf gewann Thilo Prüfert von der Berufsfeuerwehr Leipzig. Noch härter waren gar die Cross-Läufer, die über 16 Kilometer gingen. Moderator Roman Knoblauch ermutigte sie nach der ersten Runde: \"Das war nur Probe. Jetzt wird‘s richtig ernst.\" Den Lauf gewann Bastian Dobrowald, den \"kleinen Parcours\" Steffen Parek.",
+						"Franziska Olberg wollte auch ernst machen, startete im Brautkleid. \"Mit dem habe ich noch eine Rechnung offen\", schmunzelte sie wissend. Ihr Freund Markus Körner trug rennend die Schleppe. \"Unser Ziel ist anzukommen – und das Kleid zu vernichten\", riefen sie gutgelaunt.",
+						"Bei der Rekordzahl von mehr als 1000 Teilnehmern waren mehrere Spaß-Mannschaften dabei, liefen in Verkleidung, getreu dem Cross-de-Luxe-Motto \"Lauf extrem und unbequem\". Der liebevoll-bösartig ausgeheckte Parcours der Sportfreunde Neuseenland war in diesem Jahr noch schwieriger als bei den ersten beiden Malen – sehr zur Freude der Zuschauer, aber auch der Läufer. Bertram: \"Nächstes Jahr bin ich wieder dabei.\" Bis dahin dürften auch alle Läufer wieder bei Puste sein."
+					]
+				}
+			]
+		}
+	]
 }
-
-
-
-
-

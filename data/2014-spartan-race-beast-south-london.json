@@ -52,32 +52,34 @@
 			}
 		]
 	},
-	"newspaperArticle": {
-		"newspaperName": "East Grinstead Courier",
-		"date": "Donnerstag, 16.10.2014",
-		"title": "Elite racers unleash their inner Beast at Nutley Spartan Run",
-		"subtitle": null,
-		"sections": [
-			{
-				"title": null,
-				"paragraphs": [
-					"OVER 3,000 Spartan wannabes gathered in Pippingford Park in Nutley on Saturday to tackle a \"bruising battlefield\" designed to test even the toughest racers.",
-					"The Spartan Race event finished off the elite racing season with its toughest challenge – a 22km obstacle course featuring rope climbs, slippery seven-foot ramps, spear target-throwing, carrying sandbags up steep hills and even barbed-wire endurance mud crawls.",
-					"During the course, known as \"The Beast\", male and female competitors had to scale 25-foot-high cargo nets and leap through fire, while failure to complete an obstacle was punishable by a set of 30 burpees (penalty jumps), dished out by course marshals.",
-					"Pippingford Park – once a royal hunting ground favoured by Henry VIII – welcomed competitors with a wide variety of ages and backgrounds, including doctors, nurses, a 63-year-old \"Supermum\" and a homeless man.",
-					"The international event came to the UK in 2010 and in four years it has grown so quickly that next year they are planning to host a whopping ten races.",
-					"Dan Tuffnell, Spartan Race director, believes the growth is due to the fact that elite racing has become more than just something to do at the weekends.",
-					"\"It's becoming a habit and a lifestyle – not just hobby.\" he explained. \"There's a definite community where friendships are built and people want to be part of that.",
-					"\"This year our youngest racer was 14-years-old and the eldest was our race director's mum who is 63. A sense of achievement will be flowing through all their veins right now.\"",
-					"This community spirit is shared by Caine Johnson, 18, a personal trainer who completed the course in 2 hours 14 minutes.",
-					"But despite having a determination to improve and beat his time, Caine – who celebrates his 18th birthday today – said he would stop to help a fellow competitor.",
-					"The Burstow resident, who has completed three other Spartan events this year, said: \"All the elite racers are really friendly.\"",
-					"\"They would stop for someone if they hurt themselves to help them stretch out if they got cramp – yes, even if it meant losing time.\"",
-					"Caine is no stranger to injury himself, as he suffered cramp at 11km into the race on Saturday, but battled through the remainder of the course which he described as one \"long slope of pain.\"",
-					"He is now planning on flying out to Europe next year to test his mettle in the international Spartan events.",
-					"To find out more about the Spartan Run, visit www.uk. spartanrace.com."
-				]
-			}
-		]
-	}
+	"newspaperArticles": [
+		{
+			"newspaperName": "East Grinstead Courier",
+			"date": "Donnerstag, 16.10.2014",
+			"title": "Elite racers unleash their inner Beast at Nutley Spartan Run",
+			"subtitle": null,
+			"sections": [
+				{
+					"title": null,
+					"paragraphs": [
+						"OVER 3,000 Spartan wannabes gathered in Pippingford Park in Nutley on Saturday to tackle a \"bruising battlefield\" designed to test even the toughest racers.",
+						"The Spartan Race event finished off the elite racing season with its toughest challenge – a 22km obstacle course featuring rope climbs, slippery seven-foot ramps, spear target-throwing, carrying sandbags up steep hills and even barbed-wire endurance mud crawls.",
+						"During the course, known as \"The Beast\", male and female competitors had to scale 25-foot-high cargo nets and leap through fire, while failure to complete an obstacle was punishable by a set of 30 burpees (penalty jumps), dished out by course marshals.",
+						"Pippingford Park – once a royal hunting ground favoured by Henry VIII – welcomed competitors with a wide variety of ages and backgrounds, including doctors, nurses, a 63-year-old \"Supermum\" and a homeless man.",
+						"The international event came to the UK in 2010 and in four years it has grown so quickly that next year they are planning to host a whopping ten races.",
+						"Dan Tuffnell, Spartan Race director, believes the growth is due to the fact that elite racing has become more than just something to do at the weekends.",
+						"\"It's becoming a habit and a lifestyle – not just hobby.\" he explained. \"There's a definite community where friendships are built and people want to be part of that.",
+						"\"This year our youngest racer was 14-years-old and the eldest was our race director's mum who is 63. A sense of achievement will be flowing through all their veins right now.\"",
+						"This community spirit is shared by Caine Johnson, 18, a personal trainer who completed the course in 2 hours 14 minutes.",
+						"But despite having a determination to improve and beat his time, Caine – who celebrates his 18th birthday today – said he would stop to help a fellow competitor.",
+						"The Burstow resident, who has completed three other Spartan events this year, said: \"All the elite racers are really friendly.\"",
+						"\"They would stop for someone if they hurt themselves to help them stretch out if they got cramp – yes, even if it meant losing time.\"",
+						"Caine is no stranger to injury himself, as he suffered cramp at 11km into the race on Saturday, but battled through the remainder of the course which he described as one \"long slope of pain.\"",
+						"He is now planning on flying out to Europe next year to test his mettle in the international Spartan events.",
+						"To find out more about the Spartan Run, visit www.uk. spartanrace.com."
+					]
+				}
+			]
+		}
+	]
 }

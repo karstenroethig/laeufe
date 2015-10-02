@@ -107,30 +107,32 @@
 			"description": "Ein echter Fisherman's Friend StrongmanRun wäre nichts ohne die extrem steile Rutsche, die Eurem Hinterteil den letzten Rest gibt. Und wir wollen Euch Jaulen hören. Damit Ihr ja nicht ans Bremsen denkt, wird mit Wasser ordentlich nachgeholfen. Schließlich sollen alle unten ankommen. Und damit's nicht zu eng wird, gibt's das Ganze wieder in schön breiter Ausführung."
 		}
 	],
-	"newspaperArticle": {
-		"newspaperName": "Runner's World",
-		"date": "Sonntag, 16.08.2015",
-		"title": "StrongmanRun Ferropolis 2015 - Nächtliche Schlammschlacht-Premiere",
-		"subtitle": "Premiere auf dem Ferropolis-Gelände: Zum ersten Mal startete ein StrongmanRun bei Nacht. Mehr als 2.500 Läufer genossen das Hindernislauf-Highlight.",
-		"sections": [
-			{
-				"title": null,
-				"paragraphs": [
-					"\"Nachts sieht dich keiner heulen\" lautete das Motto des StrongmanRuns auf dem Festival-Gelände Ferropolis am Samstag, den 15. August. Zum ersten Mal startete der deutschlandweit bekannte Hindernislauf nach Einbruch der Dunkelheit. Nach Veranstalterangaben handelte es sich hierbei um eine Welt-Premiere. So sorgten neben den üblichen Hindernissen, tiefen Schlamm-Becken und rutschigem Boden auch treibende Beats und Lichteffekte für eine einzigartige Atmosphäre. Mehr als 2.500 Läufer stellten sich der außergewöhnlichen Herausforderung."
-				]
-			},
-			{
-				"title": "Nächtliche Schlammschlacht beim StrongmanRun",
-				"paragraphs": [
-					"Nur das fehlende Tageslicht unterschied den StrongmanRun Ferropolis von den anderen Ausgaben der Hindernislauf-Serie. Auf zwei 11-Kilometer-Runde galt es jeweils 15 Hindernisse zu überwinden. So musste über Strohballen gekrabbelt, durch den eisigen See geschwommen, eine steile Rutsche runtergerutscht, auf Übersee-Container geklettert und durch tiefe Matschgruben gekrochen werden."
-				]
-			},
-			{
-				"title": "Ehemalige Marathon-Läuferinnen unter den Schnellsten",
-				"paragraphs": [
-					"Thomas Wittwer absolvierte den Parcours des StrongmanRuns am schnellsten. Vor Baggerkulisse benötigte er 1:12:56 Stunden und ließ den zweitplatzierten Lucas Kempe 45 Sekunden hinter sich. Kempe erreichte das Ziel nach 1:13:41 Stunden. Dritter wurde Charles Franzke in 1:13:57 Stunden. Das Rennen der Frauen gewann Sara Kamzela. Nach 1:25:57 Stunden überquerte sie die Ziellinie. Zweite wurde Annabel Diawuoh in 1:34:52 Stunden. Claudia Dreher, Deutsche Marathon-Meisterin von 1998, belegte den dritten Platz, für den sie 1:36:29 Stunden benötigte."
-				]
-			}
-		]
-	}
+	"newspaperArticles": [
+		{
+			"newspaperName": "Runner's World",
+			"date": "Sonntag, 16.08.2015",
+			"title": "StrongmanRun Ferropolis 2015 - Nächtliche Schlammschlacht-Premiere",
+			"subtitle": "Premiere auf dem Ferropolis-Gelände: Zum ersten Mal startete ein StrongmanRun bei Nacht. Mehr als 2.500 Läufer genossen das Hindernislauf-Highlight.",
+			"sections": [
+				{
+					"title": null,
+					"paragraphs": [
+						"\"Nachts sieht dich keiner heulen\" lautete das Motto des StrongmanRuns auf dem Festival-Gelände Ferropolis am Samstag, den 15. August. Zum ersten Mal startete der deutschlandweit bekannte Hindernislauf nach Einbruch der Dunkelheit. Nach Veranstalterangaben handelte es sich hierbei um eine Welt-Premiere. So sorgten neben den üblichen Hindernissen, tiefen Schlamm-Becken und rutschigem Boden auch treibende Beats und Lichteffekte für eine einzigartige Atmosphäre. Mehr als 2.500 Läufer stellten sich der außergewöhnlichen Herausforderung."
+					]
+				},
+				{
+					"title": "Nächtliche Schlammschlacht beim StrongmanRun",
+					"paragraphs": [
+						"Nur das fehlende Tageslicht unterschied den StrongmanRun Ferropolis von den anderen Ausgaben der Hindernislauf-Serie. Auf zwei 11-Kilometer-Runde galt es jeweils 15 Hindernisse zu überwinden. So musste über Strohballen gekrabbelt, durch den eisigen See geschwommen, eine steile Rutsche runtergerutscht, auf Übersee-Container geklettert und durch tiefe Matschgruben gekrochen werden."
+					]
+				},
+				{
+					"title": "Ehemalige Marathon-Läuferinnen unter den Schnellsten",
+					"paragraphs": [
+						"Thomas Wittwer absolvierte den Parcours des StrongmanRuns am schnellsten. Vor Baggerkulisse benötigte er 1:12:56 Stunden und ließ den zweitplatzierten Lucas Kempe 45 Sekunden hinter sich. Kempe erreichte das Ziel nach 1:13:41 Stunden. Dritter wurde Charles Franzke in 1:13:57 Stunden. Das Rennen der Frauen gewann Sara Kamzela. Nach 1:25:57 Stunden überquerte sie die Ziellinie. Zweite wurde Annabel Diawuoh in 1:34:52 Stunden. Claudia Dreher, Deutsche Marathon-Meisterin von 1998, belegte den dritten Platz, für den sie 1:36:29 Stunden benötigte."
+					]
+				}
+			]
+		}
+	]
 }

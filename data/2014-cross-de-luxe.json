@@ -127,31 +127,33 @@
 			"description": "durch Container voller Schlamm kriechen (Pussy Lane für vorheriges Hindernis)"
 		}
 	],
-	"newspaperArticle": {
-		"newspaperName": "LVZ-Online >> Region >> Markkleeberg",
-		"date": "Sonntag, 28. September 2014",
-		"title": "Super Wetter, gute Stimmung: 2000 Teilnehmer starten bei Leipzig zum Cross de Luxe",
-		"subtitle": null,
-		"sections": [
-			{
-				"title": null,
-				"paragraphs": [
-					"Markkleeberg. Bei Sonnenschein und spätsommerlichen Temperaturen um die 18 Grad sind am Markkleeberger See rund 2000 abenteuerhungrige Sportler zum Cross de Luxe gestartet. 23 Hindernisse sorgten für Nervernkitzel und eine Schlammschlacht auf dem Parcours. Rund 20 Helfer hatten die Strecke für die Extrem-Läufer vorbereitet. Feuer, Wasser, Strom - alles war dabei.",
-					"Wie sehr das Event den Nerv der Abenteuerhungrigen trifft, belegen die Anmeldezahlen der Veranstalter: Die Sportfreunde Neuseenland verzeichnen mit rund 2000 einen neuen Rekord.",
-					"Nach 1400 im Vorjahr würden bei diesem Cross de Luxe nun 2000 Läufer starten, erklärt Henrik Wahlstadt vom Verein. \"1200 gehen auf die Acht-Kilometer-Runde, 800 auf die doppelte Distanz\", erzählt er. Und rund 150 stünden zudem schon auf der Warteliste.",
-					"Es wurde also voll an den Rampen, Rutschen, Reifen, Gräben, Netzen, in den Schlammlöchern und auf der Brücke, über die die Sportler erstmals die Zufahrtstraße kreuzen. Das sei nicht nur ein weiteres Hindernis, so Wahlstadt. Die Querung sei auch günstig, um für die Sportler und Besucher weitere Parkplätze rund um den Kanupark zu erschließen. Denn die, das weiß auch Wahlstadt, seien immer das knappste bei so einer Großveranstaltung. Er bat daher alle Zuschauer, wenn möglich mit dem Rad Auenhain anzusteuern."
-				]
-			},
-			{
-				"title": "23 Hindernisse - Feuer und Strom",
-				"paragraphs": [
-					"Mit dem Motorrad war seit Tagen Ralf Grüneberger am See unterwegs. Er dirigierte die Helfer, koordinierte ihren Einsatz an den verschiedenen Hindernissen. Der Bauleiter des Parcours ließ Reifen aufhängen, Netze spannen, Folien auslegen, die Startwiese mähen - an jeder Ecke wurden Hände benötigt, um den anspruchsvollen Parcours rechtzeitig fertig zu stellen.",
-					"Von den 23 Hindernissen seien sieben anders als im Vorjahr oder ganz neu, freute sich Wahlstadt auf den Lauf. Er gestand gerne, dass er selber \"auch so ein Verrückter\" sei. Bei regelmäßigen Meetings der Sportfreunde werde nachgedacht, wie neue Anforderungen für die Extremsportler aussehen könnten. Er selber brüte dann oft noch bis in die Nacht weiter, denke sich eine Konstruktion aus, die sowohl umsetzbar ist, als auch eine gewisse Sicherheit bietet. \"Und der Kick muss natürlich dabei sein\", schmunzelt er.",
-					"Entstanden ist so in diesem Jahr erstmals \"Get over Fear\" - ein 5,50 Meter hohes Hindernis an lockeren Netzen über doppelt hohe Container hinweg. Jede Menge Adrenalin versprach auch die \"Firewall\": Unter Dachrinnen hindurch, in denen Feuer loderten, ging es durch den Schlamm auf die andere Seite des Grabens. Die Flammen - die Sportfreunde nehmen Brennpaste aus der Gastronomie dafür - dienten dabei nicht der Dekoration, sondern würden die Sportler auch in den Dreck zwingen, freute sich Wahlstadt. \"Wenges Pipeline\" musste durchkrochen, das \"Markkleeberger Horn\" an Seilen erklommen, die Jakobsleiter überstiegen, der \"MP-Shaker\" über den Seekanal gequert, der \"Vollwaschgang\" erduldet, die Höllenstiege genommen, der \"Crazy Rubber\" durchstiegen werden - der Reifendschungel war in diesem Jahr sogar noch fast drei Meter länger geworden.",
-					"Im Kampf gegen die Elemente haben die Sportfreunde in diesem Jahr auch erstmals die Elektrizität hinzugenommen und erfanden ein \"spannendes\" Hindernis: den \"Electric Garden\". Der Kriechgang wurde von einem Weidezaun bedeckt, der unaufmerksamen Sportlern spürbare, kleine Elektroschocks austeilte.",
-					"Helfer Till Beyer, selber Leistungssportler, war am Sonnabend wegen eines Punktspiels verhindert. Aber aufbauen macht hungrig: \"Beim Testlauf am Freitag bin ich dabei. Einmal durchlaufen gehört dazu. Darauf möchte ich nicht verzichten\", sagte er zuvor."
-				]
-			}
-		]
-	}
+	"newspaperArticles": [
+		{
+			"newspaperName": "LVZ-Online >> Region >> Markkleeberg",
+			"date": "Sonntag, 28. September 2014",
+			"title": "Super Wetter, gute Stimmung: 2000 Teilnehmer starten bei Leipzig zum Cross de Luxe",
+			"subtitle": null,
+			"sections": [
+				{
+					"title": null,
+					"paragraphs": [
+						"Markkleeberg. Bei Sonnenschein und spätsommerlichen Temperaturen um die 18 Grad sind am Markkleeberger See rund 2000 abenteuerhungrige Sportler zum Cross de Luxe gestartet. 23 Hindernisse sorgten für Nervernkitzel und eine Schlammschlacht auf dem Parcours. Rund 20 Helfer hatten die Strecke für die Extrem-Läufer vorbereitet. Feuer, Wasser, Strom - alles war dabei.",
+						"Wie sehr das Event den Nerv der Abenteuerhungrigen trifft, belegen die Anmeldezahlen der Veranstalter: Die Sportfreunde Neuseenland verzeichnen mit rund 2000 einen neuen Rekord.",
+						"Nach 1400 im Vorjahr würden bei diesem Cross de Luxe nun 2000 Läufer starten, erklärt Henrik Wahlstadt vom Verein. \"1200 gehen auf die Acht-Kilometer-Runde, 800 auf die doppelte Distanz\", erzählt er. Und rund 150 stünden zudem schon auf der Warteliste.",
+						"Es wurde also voll an den Rampen, Rutschen, Reifen, Gräben, Netzen, in den Schlammlöchern und auf der Brücke, über die die Sportler erstmals die Zufahrtstraße kreuzen. Das sei nicht nur ein weiteres Hindernis, so Wahlstadt. Die Querung sei auch günstig, um für die Sportler und Besucher weitere Parkplätze rund um den Kanupark zu erschließen. Denn die, das weiß auch Wahlstadt, seien immer das knappste bei so einer Großveranstaltung. Er bat daher alle Zuschauer, wenn möglich mit dem Rad Auenhain anzusteuern."
+					]
+				},
+				{
+					"title": "23 Hindernisse - Feuer und Strom",
+					"paragraphs": [
+						"Mit dem Motorrad war seit Tagen Ralf Grüneberger am See unterwegs. Er dirigierte die Helfer, koordinierte ihren Einsatz an den verschiedenen Hindernissen. Der Bauleiter des Parcours ließ Reifen aufhängen, Netze spannen, Folien auslegen, die Startwiese mähen - an jeder Ecke wurden Hände benötigt, um den anspruchsvollen Parcours rechtzeitig fertig zu stellen.",
+						"Von den 23 Hindernissen seien sieben anders als im Vorjahr oder ganz neu, freute sich Wahlstadt auf den Lauf. Er gestand gerne, dass er selber \"auch so ein Verrückter\" sei. Bei regelmäßigen Meetings der Sportfreunde werde nachgedacht, wie neue Anforderungen für die Extremsportler aussehen könnten. Er selber brüte dann oft noch bis in die Nacht weiter, denke sich eine Konstruktion aus, die sowohl umsetzbar ist, als auch eine gewisse Sicherheit bietet. \"Und der Kick muss natürlich dabei sein\", schmunzelt er.",
+						"Entstanden ist so in diesem Jahr erstmals \"Get over Fear\" - ein 5,50 Meter hohes Hindernis an lockeren Netzen über doppelt hohe Container hinweg. Jede Menge Adrenalin versprach auch die \"Firewall\": Unter Dachrinnen hindurch, in denen Feuer loderten, ging es durch den Schlamm auf die andere Seite des Grabens. Die Flammen - die Sportfreunde nehmen Brennpaste aus der Gastronomie dafür - dienten dabei nicht der Dekoration, sondern würden die Sportler auch in den Dreck zwingen, freute sich Wahlstadt. \"Wenges Pipeline\" musste durchkrochen, das \"Markkleeberger Horn\" an Seilen erklommen, die Jakobsleiter überstiegen, der \"MP-Shaker\" über den Seekanal gequert, der \"Vollwaschgang\" erduldet, die Höllenstiege genommen, der \"Crazy Rubber\" durchstiegen werden - der Reifendschungel war in diesem Jahr sogar noch fast drei Meter länger geworden.",
+						"Im Kampf gegen die Elemente haben die Sportfreunde in diesem Jahr auch erstmals die Elektrizität hinzugenommen und erfanden ein \"spannendes\" Hindernis: den \"Electric Garden\". Der Kriechgang wurde von einem Weidezaun bedeckt, der unaufmerksamen Sportlern spürbare, kleine Elektroschocks austeilte.",
+						"Helfer Till Beyer, selber Leistungssportler, war am Sonnabend wegen eines Punktspiels verhindert. Aber aufbauen macht hungrig: \"Beim Testlauf am Freitag bin ich dabei. Einmal durchlaufen gehört dazu. Darauf möchte ich nicht verzichten\", sagte er zuvor."
+					]
+				}
+			]
+		}
+	]
 }

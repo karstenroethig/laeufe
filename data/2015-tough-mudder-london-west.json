@@ -128,24 +128,26 @@
 			"description": ""
 		}
 	],
-	"newspaperArticle": {
-		"newspaperName": "9bar.com",
-		"date": "Donnerstag, 07.05.2015",
-		"title": "Mud, sweat and conquered fears",
-		"subtitle": null,
-		"sections": [
-			{
-				"title": null,
-				"paragraphs": [
-					"As the weekend started on a bright and early Saturday morning, all Mudders were in high spirits and raring to get out on course at the biggest Tough Mudder event in the world. From stag parties to athletes, everyone was there to complete a personal achievement and got very muddy in the process.",
-					"As the Mudder’s made their way through the gruelling 12 mile course, our 9bar crew were on hand every step of the way, handing out bars to all the Mudders along the course and fuelling them all the way to the finish line where they then received the famous victory Tough Mudder head band and another well-deserved 9bar to replenish energy levels.",
-					"The fun didn’t stop there for the Mudders. Also on site was the 9bar hamster wheel! The human hamster wheel gives participants and spectators alike the chance to test how long they can last on the never ending slew of monkey bars. On completing one rotation every Mudder got a 9bar! The record has currently been set at ten rotations! Think you can beat that? Make sure you come and try our hamster wheel in the mudder village and test your strength at any of the UK Tough Mudder events!",
-					"Congratulations to all 20,000 Mudders who made it across the finish line.",
-					"Check out our Facebook page to see all of the pictures from the weekend’s events and don’t forget to tag yourself! www.facebook.com/9barofficial",
-					"Also, keep an eye out on our social media pages for any Tough Mudder entry giveaways.",
-					"We’ll be seeing you in the Midlands on the 30th and 31st May for the second event of the series!"
-				]
-			}
-		]
-	}
+	"newspaperArticles": [
+		{
+			"newspaperName": "9bar.com",
+			"date": "Donnerstag, 07.05.2015",
+			"title": "Mud, sweat and conquered fears",
+			"subtitle": null,
+			"sections": [
+				{
+					"title": null,
+					"paragraphs": [
+						"As the weekend started on a bright and early Saturday morning, all Mudders were in high spirits and raring to get out on course at the biggest Tough Mudder event in the world. From stag parties to athletes, everyone was there to complete a personal achievement and got very muddy in the process.",
+						"As the Mudder’s made their way through the gruelling 12 mile course, our 9bar crew were on hand every step of the way, handing out bars to all the Mudders along the course and fuelling them all the way to the finish line where they then received the famous victory Tough Mudder head band and another well-deserved 9bar to replenish energy levels.",
+						"The fun didn’t stop there for the Mudders. Also on site was the 9bar hamster wheel! The human hamster wheel gives participants and spectators alike the chance to test how long they can last on the never ending slew of monkey bars. On completing one rotation every Mudder got a 9bar! The record has currently been set at ten rotations! Think you can beat that? Make sure you come and try our hamster wheel in the mudder village and test your strength at any of the UK Tough Mudder events!",
+						"Congratulations to all 20,000 Mudders who made it across the finish line.",
+						"Check out our Facebook page to see all of the pictures from the weekend’s events and don’t forget to tag yourself! www.facebook.com/9barofficial",
+						"Also, keep an eye out on our social media pages for any Tough Mudder entry giveaways.",
+						"We’ll be seeing you in the Midlands on the 30th and 31st May for the second event of the series!"
+					]
+				}
+			]
+		}
+	]
 }

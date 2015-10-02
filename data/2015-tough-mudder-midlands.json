@@ -158,26 +158,28 @@
 			"description": ""
 		}
 	],
-	"newspaperArticle": {
-		"newspaperName": "9bar.com",
-		"date": "Dienstag, 02.06.2015",
-		"title": "Sun, wind, rain and of course lots of MUD at Tough Mudder Midlands!",
-		"subtitle": null,
-		"sections": [
-			{
-				"title": null,
-				"paragraphs": [
-					"Sun, wind, rain and of course lots of MUD… we experienced it all at the Midlands Tough Mudder. It was another brilliant weekend with over 11,000 Mudder’s taking to the 12 mile course at Boughton House, Northamptonshire.",
-					"As the Mudder’s arrived at the Midlands location word began to spread of a mystery obstacle that had been added to the course. After weeks of preparation and training and knowing exactly what lied ahead most Mudder’s seemed confident. With the addition of the surprise obstacle this made things a whole lot more challenging but at the same time fun.",
-					"The 9BAR crew were again stationed on course to help cheer on each Mudder, making sure they were fuelled with 9BAR’s and ready to tackle the next obstacle. The finish line brought the same satisfaction to each Mudder’s face, knowing they had just completed a Tough Mudder, and now had the famous orange head band upon their head and 9BAR in hand to prove it!",
-					"The challenge didn’t just finish with the on course obstacles. Every person who visited our 9BAR activation area were invited to take part in another challenge Tough Mudder style… The human hamster wheel used in the American Tough Mudder events! This would test not only strength but commitment and with a six month supply of 9BAR’s up for grabs for whoever finished the day with the record of rotations, everyone wanted a go and of course everyone wanted to finish the day knowing they at least attempted the human hamster wheel.",
-					"A massive 9BAR congratulations to everyone who took part over the weekend.",
-					"Check out our Facebook page to see all of the pictures from the weekend and don’t forget to tag yourself! www.facebook.com/9barofficial",
-					"Also, keep an eye out on our social media pages for any Tough Mudder entry giveaways.",
-					"We’ll be seeing you in Scotland on the 20th and 21st June for the third event of the series!",
-					"Bring on the MUD!"
-				]
-			}
-		]
-	}
+	"newspaperArticles": [
+		{
+			"newspaperName": "9bar.com",
+			"date": "Dienstag, 02.06.2015",
+			"title": "Sun, wind, rain and of course lots of MUD at Tough Mudder Midlands!",
+			"subtitle": null,
+			"sections": [
+				{
+					"title": null,
+					"paragraphs": [
+						"Sun, wind, rain and of course lots of MUD… we experienced it all at the Midlands Tough Mudder. It was another brilliant weekend with over 11,000 Mudder’s taking to the 12 mile course at Boughton House, Northamptonshire.",
+						"As the Mudder’s arrived at the Midlands location word began to spread of a mystery obstacle that had been added to the course. After weeks of preparation and training and knowing exactly what lied ahead most Mudder’s seemed confident. With the addition of the surprise obstacle this made things a whole lot more challenging but at the same time fun.",
+						"The 9BAR crew were again stationed on course to help cheer on each Mudder, making sure they were fuelled with 9BAR’s and ready to tackle the next obstacle. The finish line brought the same satisfaction to each Mudder’s face, knowing they had just completed a Tough Mudder, and now had the famous orange head band upon their head and 9BAR in hand to prove it!",
+						"The challenge didn’t just finish with the on course obstacles. Every person who visited our 9BAR activation area were invited to take part in another challenge Tough Mudder style… The human hamster wheel used in the American Tough Mudder events! This would test not only strength but commitment and with a six month supply of 9BAR’s up for grabs for whoever finished the day with the record of rotations, everyone wanted a go and of course everyone wanted to finish the day knowing they at least attempted the human hamster wheel.",
+						"A massive 9BAR congratulations to everyone who took part over the weekend.",
+						"Check out our Facebook page to see all of the pictures from the weekend and don’t forget to tag yourself! www.facebook.com/9barofficial",
+						"Also, keep an eye out on our social media pages for any Tough Mudder entry giveaways.",
+						"We’ll be seeing you in Scotland on the 20th and 21st June for the third event of the series!",
+						"Bring on the MUD!"
+					]
+				}
+			]
+		}
+	]
 }

@@ -166,24 +166,26 @@
 			"description": ""
 		}
 	],
-	"newspaperArticle": {
-		"newspaperName": "9bar.com",
-		"date": "Dienstag, 23.06.2015",
-		"title": "Let the headbands see the Mudders!",
-		"subtitle": null,
-		"sections": [
-			{
-				"title": null,
-				"paragraphs": [
-					"Next stop on the Tough Mudder UK tour was bonny Scotland! 12,000 Mudders took to the ten mile course over the weekend packed with over 20 obstacles to tackle before crossing that finish line to receive that all important headband and 9BAR!",
-					"As the Mudders made their way over the start line they were greeted with their first obstacle within a few hundred metres, the 9BAR skidmarked obstacle. Skidmarked is a menacing ten-foot wall angled toward Mudders. Every Mudder needed to work as part of a team to make their way up and over the wall. Once they had conquered that, there was an identical wall waiting right in front of them!",
-					"Once over the finishing line Mudders got into the party mood at Apre Mud! Our Scottish Mudders partied until sunset to celebrate their amazing achievement!",
-					"A massive 9BAR congratulations to everyone who took part over the weekend.",
-					"Check out our Facebook page to see all of the pictures from the weekend and don’t forget to tag yourself! www.facebook.com/9barofficial",
-					"We are also running a challenge on our 9BAR hamster wheel at every event. Can you beat our current record of 11 rotations of the wheel? Make sure you give it a try at the next event.",
-					"We’ll be seeing you in Ireland on the 11th and 12th June for the fourth event of the series!"
-				]
-			}
-		]
-	}
+	"newspaperArticles": [
+		{
+			"newspaperName": "9bar.com",
+			"date": "Dienstag, 23.06.2015",
+			"title": "Let the headbands see the Mudders!",
+			"subtitle": null,
+			"sections": [
+				{
+					"title": null,
+					"paragraphs": [
+						"Next stop on the Tough Mudder UK tour was bonny Scotland! 12,000 Mudders took to the ten mile course over the weekend packed with over 20 obstacles to tackle before crossing that finish line to receive that all important headband and 9BAR!",
+						"As the Mudders made their way over the start line they were greeted with their first obstacle within a few hundred metres, the 9BAR skidmarked obstacle. Skidmarked is a menacing ten-foot wall angled toward Mudders. Every Mudder needed to work as part of a team to make their way up and over the wall. Once they had conquered that, there was an identical wall waiting right in front of them!",
+						"Once over the finishing line Mudders got into the party mood at Apre Mud! Our Scottish Mudders partied until sunset to celebrate their amazing achievement!",
+						"A massive 9BAR congratulations to everyone who took part over the weekend.",
+						"Check out our Facebook page to see all of the pictures from the weekend and don’t forget to tag yourself! www.facebook.com/9barofficial",
+						"We are also running a challenge on our 9BAR hamster wheel at every event. Can you beat our current record of 11 rotations of the wheel? Make sure you give it a try at the next event.",
+						"We’ll be seeing you in Ireland on the 11th and 12th June for the fourth event of the series!"
+					]
+				}
+			]
+		}
+	]
 }

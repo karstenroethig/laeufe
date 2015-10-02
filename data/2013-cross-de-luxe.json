@@ -37,22 +37,21 @@
 			}
 		]
 	},
-	"newspaperArticle": {
-		"newspaperName": "LVZ-Online >> Sport >> Regionalsport",
-		"date": "Sonntag, 29. September 2013",
-		"title": "Der innere Schweinehund als Gegner – 4. Cross-Deluxe-Lauf verbucht Teilnehmer-Rekord",
-		"subtitle": null,
-		"sections": [
-			{
-				"title": null,
-				"paragraphs": [
-					"Leipzig. Wider die Verweichlichung – beim Cross-Deluxe-Lauf am Markkleeberger See gingen die Teilnehmer den Hindernissen nicht aus dem Weg, sie nutzten sie als Bereicherung. Acht Kilometer hatten die Sportler am Samstag zu überstehen. Die ganz harten Frauen und Männer bewältigten den Parcours gleich zweimal – 16 Kilometer Qual. Doch es ging während des Rennens nicht etwa über Hürden: Vollwaschgang, Grüne Hölle, Psychoterror und Schlammschlacht sorgten auf dem Track für Abwechslung. Die Ausrichter hatten in diesem Jahr noch eine Schippe drauf gelegt. \"Allein die Wasserrutsche war die zweite Runde wert\", berichtet eine begeisterte Läuferin.",
-					"2013 vermeldeten die Veranstalter einen neuen Teilnehmerrekord. Traten bei der Erstaustragung nur 250 Läufer an, waren es bei der vierten Auflage schon 1700. Die schnellsten zwanzig Männer und sieben Frauen (jeweils auf beiden Distanzen) durften zur Belohnung nochmals auf die Strecke. Die Finalläufe fanden auf einem straffen, mit Hindernissen gespickten 2-Kilometer-Kurs statt."
-				]
-			}
-		]
-	}
+	"newspaperArticles": [
+		{
+			"newspaperName": "LVZ-Online >> Sport >> Regionalsport",
+			"date": "Sonntag, 29. September 2013",
+			"title": "Der innere Schweinehund als Gegner – 4. Cross-Deluxe-Lauf verbucht Teilnehmer-Rekord",
+			"subtitle": null,
+			"sections": [
+				{
+					"title": null,
+					"paragraphs": [
+						"Leipzig. Wider die Verweichlichung – beim Cross-Deluxe-Lauf am Markkleeberger See gingen die Teilnehmer den Hindernissen nicht aus dem Weg, sie nutzten sie als Bereicherung. Acht Kilometer hatten die Sportler am Samstag zu überstehen. Die ganz harten Frauen und Männer bewältigten den Parcours gleich zweimal – 16 Kilometer Qual. Doch es ging während des Rennens nicht etwa über Hürden: Vollwaschgang, Grüne Hölle, Psychoterror und Schlammschlacht sorgten auf dem Track für Abwechslung. Die Ausrichter hatten in diesem Jahr noch eine Schippe drauf gelegt. \"Allein die Wasserrutsche war die zweite Runde wert\", berichtet eine begeisterte Läuferin.",
+						"2013 vermeldeten die Veranstalter einen neuen Teilnehmerrekord. Traten bei der Erstaustragung nur 250 Läufer an, waren es bei der vierten Auflage schon 1700. Die schnellsten zwanzig Männer und sieben Frauen (jeweils auf beiden Distanzen) durften zur Belohnung nochmals auf die Strecke. Die Finalläufe fanden auf einem straffen, mit Hindernissen gespickten 2-Kilometer-Kurs statt."
+					]
+				}
+			]
+		}
+	]
 }
-
-
-
