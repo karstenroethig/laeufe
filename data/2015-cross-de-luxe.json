@@ -21,7 +21,7 @@
 		}
 	],
 	"costs": {
-		"total": 35.00,
+		"total": 54.99,
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
@@ -34,6 +34,10 @@
 			{
 				"description": "Parken",
 				"subTotal": 3.00
+			},
+			{
+				"description": "Fotos",
+				"subTotal": 19.99
 			}
 		]
 	},
@@ -139,23 +143,45 @@
 			"description": "durch Container voller Schlamm kriechen"
 		}
 	],
-	"newspaperArticle": {
-		"newspaperName": "LVZ-Online >> Region >> Markkleeberg",
-		"date": "Sonntag, 27. September 2015",
-		"title": "Riesengaudi beim Cross de Luxe am Markkleeberger See",
-		"subtitle": "Die Teamnamen sind Programm: Wenn Dreckspatzen, Abrissbirnen, Seitenstecher, gestiefelte Muskelkater, Schlammlappen oder die 50 Shades of Matsch antreten, ist der Startschuss zum Cross de Luxe gefallen.",
-		"sections": [
-			{
-				"title": null,
-				"paragraphs": [
-					"2000 unerschrockene Abenteurer stellten sich am Sonnabend 25 spektakulären Hindernissen am Markkleeberger See.",
-					"Vor sechs Jahren lockten die Sportfreunde Neuseenland mit ihrem ultimativen Geländelauf 300 Starter, heute sind es 2000 und es könnten noch mindestens Tausend mehr sein. Das Limit war schon im Juli erreicht, 100 Nachrücker auf der Warteliste hatten Glück. Die Parkplatzkapazitäten seien das Hauptproblem, so Henrik Wahlstadt, Chef der Sportfreunde. Die Strecke könnte sicher noch einige Teilnehmer mehr vertragen, die sich weder vor den Stromstößen im \"Electric Garden\" noch vor \"Vollwaschgängen\" , steilen Kletterpartien oder rasanten Abgängen fürchten.",
-					"Die Mammut-Aufgabe wird dank 90 freiwilliger Helfer mit Bravour gemeistert. Pünktlich zum Startschuss von Oberbürgermeister Karsten Schütze, der die erste von vier Staffeln über acht und 16 Kilometer auf den Weg schickte, hat es aufgehört zu regnen. Optimale Bedingungen nicht nur für ambitionierte Ausdauersportler, um den Mix aus Matsch, Schweiß und Partystimmung, Ehrgeiz, Spaß und Teamgeist zu genießen.",
-					"\"Die sehen ja alle gleich aus\", hört man immer wieder perplex von Familien und Fans, die ihre Lieben auf der Strecke oder im Ziel kaum erkennen. Aus dem letzten Schlammbad von Kopf bis Fuß krabbeln furchterregende Gestalten. \"Ist das Männlein oder Weiblein?\" frotzelt Moderator Roman Knoblauch. Das sühnt er auf dem Fuße, bei keinem anderen Job muss er so oft die Kleider wechseln, wird selten von so vielen Männern geherzt und geküsst.",
-					"\"Schwarz macht schlank und man sieht den Dreck nicht so\", ulken Claudia, Annika, Jacqueline und Susanne. Die \"Crazy Chicks\" stehen in Diensten der Bundespolizei und sind \"Wiederholungstäter.\" Ihr Plan: \"Wir schieben uns gegenseitig die Berge rauf und laufen Hand in Hand ins Ziel.\" Respekt haben sie vor dem Horn mit 25 Prozent Steigung, aber hoch kommen sie auf jeden Fall. \"Es gibt genügend Männerhände, die schieben\", wissen die knackigen jungen Damen vom letzten Jahr.",
-					"Strahlen unter dem Dreck bei denjenigen, die das Ziel erreicht haben. \"Das ist alles super organisiert, der Team-Spirit ist atemberaubend, unterwegs hilft jeder jedem\", schwärmt Lukas Breitbarth, \"durch den Schlamm zu robben macht den meisten Spaß. Da werden Kindheitserinnerungen wach.\" Freundin Michelle Brecht schmeißt die Waschmaschine danach gerne an: \"Er hat ja nicht seine besten Sachen an und ich bin schon stolz auf ihn.\" Die Finisher sind sich einig: \"Nächstes Jahr wieder, das macht richtig Spaß.\""
-				]
-			}
-		]
-	}
+	"newspaperArticles": [
+		{
+			"newspaperName": "LVZ-Online >> Region >> Markkleeberg",
+			"date": "Sonntag, 27. September 2015",
+			"title": "Riesengaudi beim Cross de Luxe am Markkleeberger See",
+			"subtitle": "Die Teamnamen sind Programm: Wenn Dreckspatzen, Abrissbirnen, Seitenstecher, gestiefelte Muskelkater, Schlammlappen oder die 50 Shades of Matsch antreten, ist der Startschuss zum Cross de Luxe gefallen.",
+			"sections": [
+				{
+					"title": null,
+					"paragraphs": [
+						"2000 unerschrockene Abenteurer stellten sich am Sonnabend 25 spektakulären Hindernissen am Markkleeberger See.",
+						"Vor sechs Jahren lockten die Sportfreunde Neuseenland mit ihrem ultimativen Geländelauf 300 Starter, heute sind es 2000 und es könnten noch mindestens Tausend mehr sein. Das Limit war schon im Juli erreicht, 100 Nachrücker auf der Warteliste hatten Glück. Die Parkplatzkapazitäten seien das Hauptproblem, so Henrik Wahlstadt, Chef der Sportfreunde. Die Strecke könnte sicher noch einige Teilnehmer mehr vertragen, die sich weder vor den Stromstößen im \"Electric Garden\" noch vor \"Vollwaschgängen\" , steilen Kletterpartien oder rasanten Abgängen fürchten.",
+						"Die Mammut-Aufgabe wird dank 90 freiwilliger Helfer mit Bravour gemeistert. Pünktlich zum Startschuss von Oberbürgermeister Karsten Schütze, der die erste von vier Staffeln über acht und 16 Kilometer auf den Weg schickte, hat es aufgehört zu regnen. Optimale Bedingungen nicht nur für ambitionierte Ausdauersportler, um den Mix aus Matsch, Schweiß und Partystimmung, Ehrgeiz, Spaß und Teamgeist zu genießen.",
+						"\"Die sehen ja alle gleich aus\", hört man immer wieder perplex von Familien und Fans, die ihre Lieben auf der Strecke oder im Ziel kaum erkennen. Aus dem letzten Schlammbad von Kopf bis Fuß krabbeln furchterregende Gestalten. \"Ist das Männlein oder Weiblein?\" frotzelt Moderator Roman Knoblauch. Das sühnt er auf dem Fuße, bei keinem anderen Job muss er so oft die Kleider wechseln, wird selten von so vielen Männern geherzt und geküsst.",
+						"\"Schwarz macht schlank und man sieht den Dreck nicht so\", ulken Claudia, Annika, Jacqueline und Susanne. Die \"Crazy Chicks\" stehen in Diensten der Bundespolizei und sind \"Wiederholungstäter.\" Ihr Plan: \"Wir schieben uns gegenseitig die Berge rauf und laufen Hand in Hand ins Ziel.\" Respekt haben sie vor dem Horn mit 25 Prozent Steigung, aber hoch kommen sie auf jeden Fall. \"Es gibt genügend Männerhände, die schieben\", wissen die knackigen jungen Damen vom letzten Jahr.",
+						"Strahlen unter dem Dreck bei denjenigen, die das Ziel erreicht haben. \"Das ist alles super organisiert, der Team-Spirit ist atemberaubend, unterwegs hilft jeder jedem\", schwärmt Lukas Breitbarth, \"durch den Schlamm zu robben macht den meisten Spaß. Da werden Kindheitserinnerungen wach.\" Freundin Michelle Brecht schmeißt die Waschmaschine danach gerne an: \"Er hat ja nicht seine besten Sachen an und ich bin schon stolz auf ihn.\" Die Finisher sind sich einig: \"Nächstes Jahr wieder, das macht richtig Spaß.\""
+					]
+				}
+			]
+		},
+		{
+			"newspaperName": "Laufszene-Sachsen.de (erstellt von ORG Crossdeluxe)",
+			"date": "Mittwoch, 30. September 2015",
+			"title": "Matsch Olé!",
+			"subtitle": "Cross-Wochenende begeistert mit Schlamm, Schmerz und Schweiß 2.000 Sportler aus ganz Deutschland.",
+			"sections": [
+				{
+					"title": null,
+					"paragraphs": [
+						"Der Sparkassen CrossDeLuxe ließ Sportlerherzen am vergangenen Wochenende höher schlagen, als diese sich bei frischen Temperaturen 25 natürlichen und künstlichen Hindernissen entlang des Markkleeberger Sees stellten.",
+						"2010 mit 329 Teilnehmern, von dem Verein Sportfreunde Neuseenland aus der Taufe gehoben, entwickelte sich der Sparkassen-CrossDeLuxe zunehmend vom Insider zu einer deutschlandweit bekannten Großveranstaltung (2011: 507 T., 2012: 1065 T., 2013: 1.700, 2014: 2.000) und geht heutzutage als absoluter Publikumsliebling unter den Hindernisläufen seiner Art in die Laufkalender ein.",
+						"Die sechste Auflage des Sparkassen-CrossDeLuxe hatte es in sich: mittels Staffelstarts (4 x 500 Teilnehmer) nahmen 2.000 Sportler teil. Nicht einer der Finisher kam trocken, geschweige denn sauber ins Ziel. Am Ende des Tages standen die Sieger dann fest:",
+						"Nicole Moritz (TEAM Brothers and Sisters) gewann mit 1:57:55 h auf der 16 km Strecke. Bei den Herren war Maik Willbrandt (TEAM ERDINGER alkoholfrei) mit 1:29:12 h der Schnellste. Bei den Damen querte Lydia Kummich (SC DHfk Leipzig) nach 8 km mit einer Zeit von 0:55:11 h als Erste den Zielbogen. Nach nur 0:45:30 h kam Jens Oswald (Sparkassen Challenge) als Sieger ins Ziel.",
+						"Neben glücklichen Teilnehmern resümierte auch Henrik Wahlstadt, Vereinsvorsitzender, mit Zufriedenheit: \"Der 6. Sparkassen CrossDeLuxe war ein voller Erfolg und ist und bleibt einfach einmalig in ganz Deutschland. Es ist überwältigend, die Begeisterung von fast 2.000 Sportlern zu teilen. Es freut uns, dass neben einigen Blessuren nichts Schlimmeres passiert ist. Wir sind jetzt schon wahnsinnig heiß auf 2016, dann natürlich mit altbewährten aber auch neuen Hindernissen.\"",
+						"Der Verein Sportfreunde Neuseenland e.V. bedankt sich bei allen Partnern, Sponsoren, Feuerwehren und den 100 Helfern, ohne die ein solches Event nicht möglich wäre.",
+						"Schon jetzt lohnt es sich, den Termin für kommendes Jahr zu notieren, denn das Starterfeld ist wieder auf 2.000 Teilnehmer limitiert. Als Teil der Sparkassen-Challenge findet der 7. Sparkassen-CrossDeLuxe am 24.09.2016 statt. Die Anmeldeportale öffnen traditionell am 01.01.2016."
+					]
+				}
+			]
+		}
+	]
 }
