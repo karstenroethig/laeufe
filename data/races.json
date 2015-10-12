@@ -36,10 +36,16 @@
 		"participationsPlanned": 1
 	},
 	{
+		"key": "mud-masters",
+		"name": "Mud Masters Obstacle Run",
+		"participations": 0,
+		"participationsPlanned": 1
+	},
+	{
 		"key": "spartan-race",
 		"name": "Spartan Race",
 		"participations": 4,
-		"participationsPlanned": 0
+		"participationsPlanned": 1
 	},
 	{
 		"key": "survival-run",

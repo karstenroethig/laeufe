@@ -1,0 +1,40 @@
+{
+	"key": "2016-mud-masters-haarlemmermeer",
+	"raceKey": "mud-masters",
+	"name": "Mud Masters - Haarlemmermeer",
+	"startDate": "2016-03-05",
+	"endDate": "2016-03-06",
+	"location": {
+		"name": "Expo Haarlemmermeer, Vijfhuizen, NL",
+		"latitude": 52.344672,
+		"longitude": 4.682941
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2016-03-05T09:30",
+			"distance": "42 km (1 x 18 km + 2 x 12 km)",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": 71.95,
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": 62.50
+			},
+			{
+				"description": "Ticket-Gebühr je Anmeldung",
+				"subTotal": 1.45
+			},
+			{
+				"description": "Parken (erst vor Ort)",
+				"subTotal": 8.00
+			}
+		]
+	}
+}

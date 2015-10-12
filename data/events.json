@@ -418,5 +418,29 @@
 		"time": null,
 		"costs": 69.00,
 		"finished": false
+	},
+	{
+		"key": "2016-mud-masters-haarlemmermeer",
+		"raceKey": "mud-masters",
+		"name": "Mud Masters - Haarlemmermeer",
+		"startDate": "2016-03-05",
+		"endDate": "2016-03-06",
+		"location": "Expo Haarlemmermeer, Vijfhuizen, NL",
+		"distance": "42 km",
+		"time": null,
+		"costs": 71.95,
+		"finished": false
+	},
+	{
+		"key": "2016-spartan-race-sprint-muenchen",
+		"raceKey": "spartan-race",
+		"name": "Spartan Race - München (Sprint)",
+		"startDate": "2016-04-16",
+		"endDate": null,
+		"location": "Olympiapark, München",
+		"distance": "5+ km",
+		"time": null,
+		"costs": 75.21,
+		"finished": false
 	}
 ]

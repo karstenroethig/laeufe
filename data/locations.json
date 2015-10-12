@@ -94,6 +94,10 @@
 			{
 				"key": "2014-spartan-race-sprint-muenchen",
 				"name": "Spartan Race - München (Sprint) (2014)"
+			},
+			{
+				"key": "2016-spartan-race-sprint-muenchen",
+				"name": "Spartan Race - München (Sprint) (2016)"
 			}
 		]
 	},
@@ -304,6 +308,17 @@
 			{
 				"key": "2015-xletix-berlin-city",
 				"name": "XLETIX Challenge - Berlin City (2015)"
+			}
+		]
+	},
+	{
+		"name": "Expo Haarlemmermeer, Vijfhuizen, NL",
+		"latitude": 52.344672,
+		"longitude": 4.682941,
+		"events": [
+			{
+				"key": "2016-mud-masters-haarlemmermeer",
+				"name": "Mud Masters - Haarlemmermeer (2016)"
 			}
 		]
 	}

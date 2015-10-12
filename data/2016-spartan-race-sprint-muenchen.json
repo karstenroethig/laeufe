@@ -1,0 +1,36 @@
+{
+	"key": "2016-spartan-race-sprint-muenchen",
+	"raceKey": "spartan-race",
+	"name": "Spartan Race - München (Sprint)",
+	"startDate": "2016-04-16",
+	"endDate": null,
+	"location": {
+		"name": "Olympiapark, München",
+		"latitude": 48.1729,
+		"longitude": 11.5438
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2016-04-16T09:30",
+			"distance": "5+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": 75.21,
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": 69.00
+			},
+			{
+				"description": "Transaktionsbearbeitungsgebühr",
+				"subTotal": 6.21
+			}
+		]
+	}
+}
