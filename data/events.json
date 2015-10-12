@@ -379,9 +379,9 @@
 		"endDate": null,
 		"location": "Ski Areal Kouty, Kouty nad Desnou, CZ",
 		"distance": "20+ km",
-		"time": null,
-		"costs": 61.50,
-		"finished": false
+		"time": "04:20:17",
+		"costs": 62.50,
+		"finished": true
 	},
 	{
 		"key": "2015-xletix-berlin-city",
