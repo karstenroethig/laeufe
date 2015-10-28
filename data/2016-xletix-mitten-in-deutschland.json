@@ -1,0 +1,36 @@
+{
+	"key": "2016-xletix-mitten-in-deutschland",
+	"raceKey": "xletix",
+	"name": "XLETIX Challenge - Mitten in Deutschland",
+	"startDate": "2016-06-18",
+	"endDate": null,
+	"location": {
+		"name": "Offroad Park Mammut, Stadtoldendorf/Niedersachsen",
+		"latitude": 51.876209,
+		"longitude": 9.645745
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2016-06-18T10:00",
+			"distance": "18+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": 74.00,
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": 69.00
+			},
+			{
+				"description": "Parkplatz",
+				"subTotal": 5.00
+			}
+		]
+	}
+}

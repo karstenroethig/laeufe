@@ -279,7 +279,7 @@
 		]
 	},
 	{
-		"name": "St. Leonard bei Salzburg",
+		"name": "St. Leonard bei Salzburg, AT",
 		"latitude": 47.7224695,
 		"longitude": 13.0550638,
 		"events": [
@@ -319,6 +319,61 @@
 			{
 				"key": "2016-mud-masters-haarlemmermeer",
 				"name": "Mud Masters - Haarlemmermeer (2016)"
+			}
+		]
+	},
+	{
+		"name": "Offroad Park Berlin Brandenburg, Kallinchen",
+		"latitude": 52.208583,
+		"longitude": 13.5354137,
+		"events": [
+			{
+				"key": "2016-xletix-berlin",
+				"name": "XLETIX Challenge - Berlin (2016)"
+			}
+		]
+	},
+	{
+		"name": "Offroad Park Mammut, Stadtoldendorf/Niedersachsen",
+		"latitude": 51.876209,
+		"longitude": 9.645745,
+		"events": [
+			{
+				"key": "2016-xletix-mitten-in-deutschland",
+				"name": "XLETIX Challenge - Mitten in Deutschland (2016)"
+			}
+		]
+	},
+	{
+		"name": "Rathaus Markkleeberg",
+		"latitude": 51.2804709,
+		"longitude": 12.3750767,
+		"events": [
+			{
+				"key": "2016-7-seen-wanderung",
+				"name": "7-Seen-Wanderung (2016)"
+			}
+		]
+	},
+	{
+		"name": "Völkerschlachtdenkmal, Leipzig",
+		"latitude": 51.3123582,
+		"longitude": 12.4111139,
+		"events": [
+			{
+				"key": "2016-halbmarathon-leipzig",
+				"name": "Halbmarathon Leipzig (2016)"
+			}
+		]
+	},
+	{
+		"name": "Oberndorf in Tirol, Kitzbüheler Alpen, AT",
+		"latitude": 47.4978527,
+		"longitude": 12.3576605,
+		"events": [
+			{
+				"key": "2016-spartan-race-beast-tirol",
+				"name": "Spartan Race - Tirol (Beast) (2016)"
 			}
 		]
 	}

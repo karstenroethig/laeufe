@@ -341,7 +341,7 @@
 		"name": "Wildsau Dirt Run - Salzburg",
 		"startDate": "2015-09-05",
 		"endDate": null,
-		"location": "St. Leonard bei Salzburg, Österreich",
+		"location": "St. Leonard bei Salzburg, AT",
 		"distance": "4 x 5 km",
 		"time": "03:58:56",
 		"costs": 57.00,
@@ -441,6 +441,66 @@
 		"distance": "5+ km",
 		"time": null,
 		"costs": 75.21,
+		"finished": false
+	},
+	{
+		"key": "2016-7-seen-wanderung",
+		"raceKey": "7-seen-wanderung",
+		"name": "7-Seen-Wanderung",
+		"startDate": "2016-05-06",
+		"endDate": "2016-05-08",
+		"location": "Rathaus Markkleeberg",
+		"distance": "104 km",
+		"time": null,
+		"costs": 0.00,
+		"finished": false
+	},
+	{
+		"key": "2016-xletix-berlin",
+		"raceKey": "xletix",
+		"name": "XLETIX Challenge - Berlin",
+		"startDate": "2016-05-21",
+		"endDate": "2016-05-22",
+		"location": "Offroad Park Berlin Brandenburg, Kallinchen",
+		"distance": "18+ km",
+		"time": null,
+		"costs": 74.00,
+		"finished": false
+	},
+	{
+		"key": "2016-xletix-mitten-in-deutschland",
+		"raceKey": "xletix",
+		"name": "XLETIX Challenge - Mitten in Deutschland",
+		"startDate": "2016-06-18",
+		"endDate": null,
+		"location": "Offroad Park Mammut, Stadtoldendorf/Niedersachsen",
+		"distance": "18+ km",
+		"time": null,
+		"costs": 74.00,
+		"finished": false
+	},
+	{
+		"key": "2016-spartan-race-beast-tirol",
+		"raceKey": "spartan-race",
+		"name": "Spartan Race - Tirol (Beast)",
+		"startDate": "2016-09-10",
+		"endDate": null,
+		"location": "Oberndorf in Tirol, Kitzbüheler Alpen, AT",
+		"distance": "20+ km",
+		"time": null,
+		"costs": 0.00,
+		"finished": false
+	},
+	{
+		"key": "2016-halbmarathon-leipzig",
+		"raceKey": "halbmarathon-leipzig",
+		"name": "Halbmarathon Leipzig",
+		"startDate": "2016-10-16",
+		"endDate": null,
+		"location": "Völkerschlachtdenkmal, Leipzig",
+		"distance": "21,0975 km",
+		"time": null,
+		"costs": 0.00,
 		"finished": false
 	}
 ]

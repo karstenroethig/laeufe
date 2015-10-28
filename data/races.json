@@ -1,5 +1,11 @@
 [
 	{
+		"key": "7-seen-wanderung",
+		"name": "7-Seen-Wanderung",
+		"participations": 0,
+		"participationsPlanned": 1
+	},
+	{
 		"key": "ammelshainer-schlosslauf",
 		"name": "Ammelshainer Schlosslauf",
 		"participations": 2,
@@ -36,6 +42,12 @@
 		"participationsPlanned": 1
 	},
 	{
+		"key": "halbmarathon-leipzig",
+		"name": "Halbmarathon Leipzig",
+		"participations": 0,
+		"participationsPlanned": 1
+	},
+	{
 		"key": "mud-masters",
 		"name": "Mud Masters Obstacle Run",
 		"participations": 0,
@@ -45,7 +57,7 @@
 		"key": "spartan-race",
 		"name": "Spartan Race",
 		"participations": 4,
-		"participationsPlanned": 1
+		"participationsPlanned": 2
 	},
 	{
 		"key": "survival-run",
@@ -75,6 +87,6 @@
 		"key": "xletix",
 		"name": "XLETIX Challenge",
 		"participations": 1,
-		"participationsPlanned": 0
+		"participationsPlanned": 2
 	}
 ]
