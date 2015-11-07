@@ -403,9 +403,9 @@
 		"endDate": null,
 		"location": "Fockeberg, Leipzig",
 		"distance": "6 x 2 km",
-		"time": null,
+		"time": "01:00:14",
 		"costs": 5.00,
-		"finished": false
+		"finished": true
 	},
 	{
 		"key": "2015-getting-tough-race",

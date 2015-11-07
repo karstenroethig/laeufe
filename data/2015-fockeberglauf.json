@@ -1,0 +1,32 @@
+{
+	"key": "2015-fockeberglauf",
+	"raceKey": "fockeberglauf",
+	"name": "49. Fockeberglauf",
+	"startDate": "2015-11-07",
+	"endDate": null,
+	"location": {
+		"name": "Fockeberg, Leipzig",
+		"latitude": 51.3187,
+		"longitude": 12.3655
+	},
+	"finished": true,
+	"runs": [
+		{
+			"startNumber": 189,
+			"startTime": "2015-11-07T10:00",
+			"distance": "6 x 2 km",
+			"time": "01:00:14",
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": 5.00,
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": 5.00
+			}
+		]
+	}
+}
