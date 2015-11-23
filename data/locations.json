@@ -157,6 +157,10 @@
 			{
 				"key": "2015-fockeberglauf",
 				"name": "49. Fockeberglauf (2015)"
+			},
+			{
+				"key": "2016-fockeberglauf",
+				"name": "51. Fockeberglauf (2016)"
 			}
 		]
 	},
@@ -253,6 +257,10 @@
 			{
 				"key": "2015-tough-mudder-norddeutschland",
 				"name": "Tough Mudder - Norddeutschland (2015)"
+			},
+			{
+				"key": "2016-tough-mudder-norddeutschland",
+				"name": "Tough Mudder - Norddeutschland (2016)"
 			}
 		]
 	},
@@ -374,6 +382,28 @@
 			{
 				"key": "2016-spartan-race-beast-tirol",
 				"name": "Spartan Race - Tirol (Beast) (2016)"
+			}
+		]
+	},
+	{
+		"name": "Kieswerke und Wakeboardpark, Geisenfeld",
+		"latitude": 48.7079756,
+		"longitude": 11.5672152,
+		"events": [
+			{
+				"key": "2016-xletix-sueddeutschland",
+				"name": "XLETIX Challenge - Süddeutschland (2016)"
+			}
+		]
+	},
+	{
+		"name": "Amager Strandpark, Copenhagen, DK",
+		"latitude": 55.6553555,
+		"longitude": 12.6445771,
+		"events": [
+			{
+				"key": "2016-toughest-copenhagen",
+				"name": "Toughest - Copenhagen (2016)"
 			}
 		]
 	}

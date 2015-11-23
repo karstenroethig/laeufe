@@ -33,7 +33,7 @@
 		"key": "fockeberglauf",
 		"name": "Fockeberglauf",
 		"participations": 2,
-		"participationsPlanned": 0
+		"participationsPlanned": 1
 	},
 	{
 		"key": "getting-tough-race",
@@ -69,7 +69,13 @@
 		"key": "tough-mudder",
 		"name": "Tough Mudder",
 		"participations": 14,
-		"participationsPlanned": 0
+		"participationsPlanned": 2
+	},
+	{
+		"key": "toughest",
+		"name": "Toughest",
+		"participations": 0,
+		"participationsPlanned": 1
 	},
 	{
 		"key": "wildsau",
@@ -87,6 +93,6 @@
 		"key": "xletix",
 		"name": "XLETIX Challenge",
 		"participations": 1,
-		"participationsPlanned": 2
+		"participationsPlanned": 3
 	}
 ]

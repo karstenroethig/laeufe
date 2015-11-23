@@ -480,6 +480,30 @@
 		"finished": false
 	},
 	{
+		"key": "2016-tough-mudder-norddeutschland",
+		"raceKey": "tough-mudder",
+		"name": "Tough Mudder - Norddeutschland",
+		"startDate": "2016-07-16",
+		"endDate": "2016-07-17",
+		"location": "Reiter- und Ferienhof Severloh, Hermannsburg",
+		"distance": "18+ km",
+		"time": null,
+		"costs": 174.00,
+		"finished": false
+	},
+	{
+		"key": "2016-xletix-sueddeutschland",
+		"raceKey": "xletix",
+		"name": "XLETIX Challenge - Süddeutschland",
+		"startDate": "2016-08-13",
+		"endDate": null,
+		"location": "Kieswerke und Wakeboardpark, Geisenfeld",
+		"distance": "18+ km",
+		"time": null,
+		"costs": 0.00,
+		"finished": false
+	},
+	{
 		"key": "2016-spartan-race-beast-tirol",
 		"raceKey": "spartan-race",
 		"name": "Spartan Race - Tirol (Beast)",
@@ -487,6 +511,18 @@
 		"endDate": null,
 		"location": "Oberndorf in Tirol, Kitzbüheler Alpen, AT",
 		"distance": "20+ km",
+		"time": null,
+		"costs": 0.00,
+		"finished": false
+	},
+	{
+		"key": "2016-toughest-copenhagen",
+		"raceKey": "toughest",
+		"name": "Toughest - Copenhagen",
+		"startDate": "2016-10-01",
+		"endDate": null,
+		"location": "Amager Strandpark, Copenhagen, DK",
+		"distance": "8 km",
 		"time": null,
 		"costs": 0.00,
 		"finished": false
@@ -501,6 +537,18 @@
 		"distance": "21,0975 km",
 		"time": null,
 		"costs": 0.00,
+		"finished": false
+	},
+	{
+		"key": "2016-fockeberglauf",
+		"raceKey": "fockeberglauf",
+		"name": "51. Fockeberglauf",
+		"startDate": "2016-11-05",
+		"endDate": null,
+		"location": "Fockeberg, Leipzig",
+		"distance": "6 x 2 km",
+		"time": null,
+		"costs": 5.00,
 		"finished": false
 	}
 ]

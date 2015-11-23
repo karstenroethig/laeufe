@@ -1,0 +1,44 @@
+{
+	"key": "2016-tough-mudder-norddeutschland",
+	"raceKey": "tough-mudder",
+	"name": "Tough Mudder - Norddeutschland",
+	"startDate": "2016-07-16",
+	"endDate": "2016-07-17",
+	"location": {
+		"name": "Reiter- und Ferienhof Severloh, Hermannsburg",
+		"latitude": 52.767945,
+		"longitude": 10.118963
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2016-07-16T09:00",
+			"distance": "18+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		},
+		{
+			"startNumber": null,
+			"startTime": "2016-07-17T09:00",
+			"distance": "18+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": 174.00,
+		"positions": [
+			{
+				"description": "Teilnahmegebühr (Sa.)",
+				"subTotal": 89.00
+			},
+			{
+				"description": "Teilnahmegebühr (So.)",
+				"subTotal": 85.00
+			}
+		]
+	}
+}
