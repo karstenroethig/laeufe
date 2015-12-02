@@ -1,0 +1,40 @@
+{
+	"key": "2016-spartan-race-beast-tirol",
+	"raceKey": "spartan-race",
+	"name": "Spartan Race - Tirol (Beast)",
+	"startDate": "2016-09-10",
+	"endDate": null,
+	"location": {
+		"name": "Oberndorf in Tirol, Kitzbüheler Alpen, AT",
+		"latitude": 47.4978527,
+		"longitude": 12.3576605
+	},
+	"finished": false,
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2016-09-10T09:15",
+			"distance": "20+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": 107.74,
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": 99.00
+			},
+			{
+				"description": "Bearbeitungsgebühr",
+				"subTotal": 4.10
+			},
+			{
+				"description": "Bearbeitungsgebühr Kartenzahlung",
+				"subTotal": 4.64
+			}
+		]
+	}
+}
