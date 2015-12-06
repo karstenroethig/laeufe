@@ -9,7 +9,7 @@
 		"latitude": 47.4978527,
 		"longitude": 12.3576605
 	},
-	"finished": false,
+	"status": "registered",
 	"runs": [
 		{
 			"startNumber": null,

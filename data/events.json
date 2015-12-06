@@ -9,7 +9,7 @@
 		"distance": "5 km",
 		"time": "00:22:53",
 		"costs": 0.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2011-firmenlauf-leipzig",
@@ -21,7 +21,7 @@
 		"distance": "5,2 km",
 		"time": "00:24:07",
 		"costs": 0.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2012-firmenlauf-leipzig",
@@ -33,7 +33,7 @@
 		"distance": "5 km",
 		"time": "ca. 00:20:00",
 		"costs": 0.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2012-cross-de-luxe",
@@ -45,7 +45,7 @@
 		"distance": "2 x 8 km",
 		"time": "01:59:34",
 		"costs": 24.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2013-firmenlauf-leipzig",
@@ -57,7 +57,7 @@
 		"distance": "4,8 km",
 		"time": "00:19:29",
 		"costs": 0.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2013-tough-mudder-nordwestdeutschland",
@@ -69,7 +69,7 @@
 		"distance": "18+ km",
 		"time": "02:10:00",
 		"costs": 192.77,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2013-cross-de-luxe",
@@ -81,7 +81,7 @@
 		"distance": "2 x 8,65 km",
 		"time": "01:49:16",
 		"costs": 56.90,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2013-tough-mudder-berlin-brandenburg",
@@ -93,7 +93,7 @@
 		"distance": "18+ km",
 		"time": null,
 		"costs": 172.77,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-spartan-race-sprint-muenchen",
@@ -105,7 +105,7 @@
 		"distance": "6+ km",
 		"time": "< 01:15:41",
 		"costs": 47.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-fishermans-friend-strongmanrun-nuerburgring",
@@ -117,7 +117,7 @@
 		"distance": "2 x 12 km",
 		"time": "03:13:39",
 		"costs": 143.89,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-firmenlauf-leipzig",
@@ -129,7 +129,7 @@
 		"distance": "4,8 km",
 		"time": "00:18:14",
 		"costs": 0.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-ammelshainer-schlosslauf",
@@ -141,7 +141,7 @@
 		"distance": "8,5 km",
 		"time": "00:36:19",
 		"costs": 5.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-spartan-race-super-koeln",
@@ -153,7 +153,7 @@
 		"distance": "13+ km",
 		"time": "01:39:20",
 		"costs": 74.75,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-tough-mudder-berlin-brandenburg",
@@ -165,7 +165,7 @@
 		"distance": "18+ km",
 		"time": "02:15:00",
 		"costs": 50.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-tough-mudder-rhein-main",
@@ -177,7 +177,7 @@
 		"distance": "18+ km",
 		"time": "02:00:00",
 		"costs": 52.97,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-survival-run",
@@ -189,7 +189,7 @@
 		"distance": "2 x 8 km",
 		"time": "01:29:59",
 		"costs": 68.99,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-cross-de-luxe",
@@ -201,7 +201,7 @@
 		"distance": "2 x 8 km",
 		"time": "01:48:42",
 		"costs": 51.99,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-spartan-race-beast-south-london",
@@ -213,7 +213,7 @@
 		"distance": "20+ km",
 		"time": "02:53:01",
 		"costs": 86.79,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-fockeberglauf",
@@ -225,7 +225,7 @@
 		"distance": "6 x 2 km",
 		"time": "01:00:50",
 		"costs": 5.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2014-getting-tough-race",
@@ -237,7 +237,7 @@
 		"distance": "24 km",
 		"time": "Aufgabe",
 		"costs": 69.00,
-		"finished": false
+		"status": "failed"
 	},
 	{
 		"key": "2015-tough-mudder-london-west",
@@ -249,7 +249,7 @@
 		"distance": "18+ km",
 		"time": "02:28:27",
 		"costs": 24.91,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-tough-mudder-nrw",
@@ -261,7 +261,7 @@
 		"distance": "18+ km",
 		"time": "02:10:20",
 		"costs": 35.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-tough-mudder-midlands",
@@ -273,7 +273,7 @@
 		"distance": "18+ km",
 		"time": "02:08:16",
 		"costs": 43.22,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-firmenlauf-leipzig",
@@ -285,7 +285,7 @@
 		"distance": "5 km",
 		"time": "00:20:57",
 		"costs": 0.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-tough-mudder-scotland",
@@ -297,7 +297,7 @@
 		"distance": "18+ km",
 		"time": "02:10:00",
 		"costs": 44.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-ammelshainer-schlosslauf",
@@ -309,7 +309,7 @@
 		"distance": "8,5 km",
 		"time": "DNP",
 		"costs": 5.00,
-		"finished": false
+		"status": "failed"
 	},
 	{
 		"key": "2015-tough-mudder-norddeutschland",
@@ -321,7 +321,7 @@
 		"distance": "18+ km",
 		"time": "01:40:00",
 		"costs": 35.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-fishermans-friend-strongmanrun-ferropolis",
@@ -333,7 +333,7 @@
 		"distance": "2 x 12 km",
 		"time": "01:43:57",
 		"costs": 79.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-wildsau-salzburg",
@@ -345,7 +345,7 @@
 		"distance": "4 x 5 km",
 		"time": "03:58:56",
 		"costs": 57.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-tough-mudder-sueddeutschland",
@@ -357,7 +357,7 @@
 		"distance": "18+ km",
 		"time": "02:10:00",
 		"costs": 43.26,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-cross-de-luxe",
@@ -369,7 +369,7 @@
 		"distance": "2 x 8 km",
 		"time": "01:57:12",
 		"costs": 35.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-spartan-race-beast-kouty",
@@ -381,7 +381,7 @@
 		"distance": "20+ km",
 		"time": "04:20:17",
 		"costs": 62.50,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-xletix-berlin-city",
@@ -393,7 +393,7 @@
 		"distance": "12-16 km",
 		"time": "01:30:00",
 		"costs": 84.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-fockeberglauf",
@@ -405,7 +405,7 @@
 		"distance": "6 x 2 km",
 		"time": "01:00:14",
 		"costs": 5.00,
-		"finished": true
+		"status": "completed"
 	},
 	{
 		"key": "2015-getting-tough-race",
@@ -415,9 +415,9 @@
 		"endDate": null,
 		"location": "Festwiese Röntgenstraße, Rudolstadt",
 		"distance": "24 km",
-		"time": null,
-		"costs": 69.00,
-		"finished": false
+		"time": "Aufgabe",
+		"costs": 72.00,
+		"status": "failed"
 	},
 	{
 		"key": "2016-mud-masters-haarlemmermeer",
@@ -429,7 +429,7 @@
 		"distance": "42 km",
 		"time": null,
 		"costs": 71.95,
-		"finished": false
+		"status": "registered"
 	},
 	{
 		"key": "2016-spartan-race-sprint-muenchen",
@@ -441,7 +441,7 @@
 		"distance": "5+ km",
 		"time": null,
 		"costs": 75.21,
-		"finished": false
+		"status": "registered"
 	},
 	{
 		"key": "2016-7-seen-wanderung",
@@ -453,7 +453,7 @@
 		"distance": "104 km",
 		"time": null,
 		"costs": 0.00,
-		"finished": false
+		"status": "planed"
 	},
 	{
 		"key": "2016-xletix-berlin",
@@ -465,7 +465,7 @@
 		"distance": "18+ km",
 		"time": null,
 		"costs": 74.00,
-		"finished": false
+		"status": "registered"
 	},
 	{
 		"key": "2016-xletix-mitten-in-deutschland",
@@ -477,7 +477,7 @@
 		"distance": "18+ km",
 		"time": null,
 		"costs": 74.00,
-		"finished": false
+		"status": "registered"
 	},
 	{
 		"key": "2016-tough-mudder-norddeutschland",
@@ -489,7 +489,7 @@
 		"distance": "18+ km",
 		"time": null,
 		"costs": 174.00,
-		"finished": false
+		"status": "registered"
 	},
 	{
 		"key": "2016-xletix-sueddeutschland",
@@ -501,7 +501,7 @@
 		"distance": "18+ km",
 		"time": null,
 		"costs": 0.00,
-		"finished": false
+		"status": "planed"
 	},
 	{
 		"key": "2016-spartan-race-beast-tirol",
@@ -513,7 +513,7 @@
 		"distance": "20+ km",
 		"time": null,
 		"costs": 107.74,
-		"finished": false
+		"status": "registered"
 	},
 	{
 		"key": "2016-toughest-copenhagen",
@@ -525,7 +525,7 @@
 		"distance": "8 km",
 		"time": null,
 		"costs": 0.00,
-		"finished": false
+		"status": "planed"
 	},
 	{
 		"key": "2016-halbmarathon-leipzig",
@@ -537,7 +537,7 @@
 		"distance": "21,0975 km",
 		"time": null,
 		"costs": 0.00,
-		"finished": false
+		"status": "planed"
 	},
 	{
 		"key": "2016-fockeberglauf",
@@ -549,6 +549,6 @@
 		"distance": "6 x 2 km",
 		"time": null,
 		"costs": 5.00,
-		"finished": false
+		"status": "planed"
 	}
 ]

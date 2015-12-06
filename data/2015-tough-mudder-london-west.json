@@ -9,7 +9,7 @@
 		"latitude": 51.562231,
 		"longitude": -0.894241
 	},
-	"finished": true,
+	"status": "completed",
 	"runs": [
 		{
 			"startNumber": 1057,

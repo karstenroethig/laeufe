@@ -72,7 +72,7 @@ laeufeServices.factory( 'EventTemplateService', [
 			eventContentLines.push( '\t\t"latitude": ' + ( event.location.latitude ? event.location.latitude : null ) + ',' );
 			eventContentLines.push( '\t\t"longitude": ' + ( event.location.longitude ? event.location.longitude : null ) );
 			eventContentLines.push( '\t},' );
-			eventContentLines.push( '\t"finished": ' + ( event.finished ? event.finished : false ) + ',' );
+			eventContentLines.push( '\t"status": "' + ( event.status ? event.status : 'planed' ) + '",' );
 			eventContentLines.push( '\t"runs": [' );
 			eventContentLines.push( '\t\t{' );
 			eventContentLines.push( '\t\t\t"startNumber": 0,' );
@@ -110,7 +110,7 @@ laeufeServices.factory( 'EventTemplateService', [
 			eventsContentLines.push( '\t\t"distance": "? km",' );
 			eventsContentLines.push( '\t\t"time": null,' );
 			eventsContentLines.push( '\t\t"costs": "0,00 €",' );
-			eventsContentLines.push( '\t\t"finished": ' + ( event.finished ? event.finished : false ) );
+			eventsContentLines.push( '\t\t"status": "' + ( event.status ? event.status : 'planed' ) + '"' );
 			eventsContentLines.push( '\t}' );
 			eventsContentLines.push( ']' );
 
@@ -148,7 +148,7 @@ laeufeServices.factory( 'EventTemplateService', [
 					content: locationsContentLines.join( '\n' )
 				}
 			];
-		};	
+		};
 
 		// Public API
 		return {

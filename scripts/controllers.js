@@ -6,7 +6,27 @@ laeufeControllers.controller( 'EventListController', [ '$scope', 'EventDataServi
 	function( $scope, EventDataService ) {
 
 		$scope.query = '';
+		$scope.status = '';
 		$scope.order = '-startDate';
+
+		$scope.filterEvents = function( event ) {
+
+			var showByQuery = false;
+			var showByStatus = false;
+
+			if( $scope.query === ''
+				|| event.name.toLowerCase().indexOf( $scope.query.toLowerCase() ) != -1
+				|| event.location.toLowerCase().indexOf( $scope.query.toLowerCase() ) != -1 ) {
+				showByQuery = true;
+			}
+
+			if( $scope.status === ''
+				|| event.status.indexOf( $scope.status ) != -1 ) {
+				showByStatus = true;
+			}
+
+			return showByQuery && showByStatus;
+    };
 
 		$scope.events = [];
 

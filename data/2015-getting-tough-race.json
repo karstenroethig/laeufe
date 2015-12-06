@@ -9,31 +9,27 @@
 		"latitude": 50.7181048,
 		"longitude": 11.3534061
 	},
-	"finished": false,
+	"status": "failed",
 	"runs": [
 		{
-			"startNumber": null,
+			"startNumber": 1972,
 			"startTime": "2015-12-05T10:00",
 			"distance": "24 km",
-			"time": null,
+			"time": "Aufgabe",
 			"team": null,
-			"note": null
+			"note": "Aufgabe wegen Wadenkrämpfen nach 22 km"
 		}
 	],
 	"costs": {
-		"total": 69.00,
+		"total": 72.00,
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
 				"subTotal": 69.00
 			},
 			{
-				"description": "Pfand für Handgelenkchip zur Zeitnahme",
-				"subTotal": 10.00
-			},
-			{
-				"description": "Rückgabe Handgelenkchip zur Zeitnahme",
-				"subTotal": -10.00
+				"description": "Parken",
+				"subTotal": 3.00
 			}
 		]
 	}

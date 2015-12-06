@@ -83,12 +83,15 @@
 			</div>
 		</div>
 		<div class="form-group">
-			<div class="col-sm-offset-2 col-sm-10">
-				<div class="checkbox">
-					<label>
-						<input type="checkbox" name="finished" ng-model="event.finished"> Lauf beendet
-					</label>
-				</div>
+			<label for="status" class="col-sm-2 control-label">Status</label>
+			<div class="col-sm-4">
+				<select class="form-control" id="status" name="status" ng-model="event.status" required>
+					<option value="planed">Geplant</option>
+					<option value="registered">Registriert</option>
+					<option value="completed">Geschafft</option>
+					<option value="failed">Gescheitert</option>
+				</select>
+				<span class="help-block" ng-show="eventForm.status.$dirty && eventForm.status.$invalid">Es muss ein Status zugeordnet werden.</span>
 			</div>
 		</div>
 		<div class="form-group">
