@@ -21,8 +21,8 @@
 		}
 	],
 	"costs": {
-		"total": 0.00,
-		"totalForeignCurrency": 534.00,
+		"total": 61.16,
+		"totalForeignCurrency": 445.00,
 		"foreignCurrency": "DKK",
 		"positions": [
 			{
@@ -34,11 +34,6 @@
 				"description": "Discount for early birds pre-regs Copenhagen (PREREGCPH)",
 				"subTotal": null,
 				"subTotalForeignCurrency": -50.00
-			},
-			{
-				"description": "VAT (25%)",
-				"subTotal": null,
-				"subTotalForeignCurrency": 89.00
 			}
 		]
 	}

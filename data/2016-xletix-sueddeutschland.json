@@ -1,0 +1,36 @@
+{
+	"key": "2016-xletix-sueddeutschland",
+	"raceKey": "xletix",
+	"name": "XLETIX Challenge - Süddeutschland",
+	"startDate": "2016-08-13",
+	"endDate": null,
+	"location": {
+		"name": "Kieswerke und Wakeboardpark, Geisenfeld",
+		"latitude": 48.7079756,
+		"longitude": 11.5672152
+	},
+	"status": "registered",
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2016-08-13T10:00",
+			"distance": "18+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": 79.00,
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": 74.00
+			},
+			{
+				"description": "Parkplatz",
+				"subTotal": 5.00
+			}
+		]
+	}
+}

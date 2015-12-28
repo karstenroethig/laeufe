@@ -468,6 +468,18 @@
 		"status": "registered"
 	},
 	{
+		"key": "2016-spartan-race-super-kouty",
+		"raceKey": "spartan-race",
+		"name": "Spartan Race - Kouty (Super)",
+		"startDate": "2016-05-28",
+		"endDate": null,
+		"location": "Ski Areal Kouty, Kouty nad Desnou, CZ",
+		"distance": "13+ km",
+		"time": null,
+		"costs": 0.00,
+		"status": "planed"
+	},
+	{
 		"key": "2016-xletix-mitten-in-deutschland",
 		"raceKey": "xletix",
 		"name": "XLETIX Challenge - Mitten in Deutschland",
@@ -500,8 +512,8 @@
 		"location": "Kieswerke und Wakeboardpark, Geisenfeld",
 		"distance": "18+ km",
 		"time": null,
-		"costs": 0.00,
-		"status": "planed"
+		"costs": 79.00,
+		"status": "registered"
 	},
 	{
 		"key": "2016-spartan-race-beast-tirol",
@@ -524,7 +536,7 @@
 		"location": "Amager Strandpark, Copenhagen, DK",
 		"distance": "8 km",
 		"time": null,
-		"costs": 0.00,
+		"costs": 61.16,
 		"status": "registered"
 	},
 	{
