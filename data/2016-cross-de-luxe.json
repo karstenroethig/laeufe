@@ -1,0 +1,32 @@
+{
+	"key": "2016-cross-de-luxe",
+	"raceKey": "cross-de-luxe",
+	"name": "CROSS DE LUXE",
+	"startDate": "2016-09-24",
+	"endDate": "2016-09-25",
+	"location": {
+		"name": "Markkleeberger See",
+		"latitude": 51.25534,
+		"longitude": 12.42442
+	},
+	"status": "registered",
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2016-09-24T13:00",
+			"distance": "2 x 8 km",
+			"time": null,
+			"team": null,
+			"note": "Start in Staffel 1"
+		}
+	],
+	"costs": {
+		"total": 49.00,
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": 49.00
+			}
+		]
+	}
+}

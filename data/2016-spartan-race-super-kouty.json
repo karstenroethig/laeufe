@@ -1,0 +1,36 @@
+{
+	"key": "2016-spartan-race-super-kouty",
+	"raceKey": "spartan-race",
+	"name": "Spartan Race - Kouty (Super)",
+	"startDate": "2016-05-28",
+	"endDate": null,
+	"location": {
+		"name": "Ski Areal Kouty, Kouty nad Desnou, CZ",
+		"latitude": 50.099103,
+		"longitude": 17.119918
+	},
+	"status": "registered",
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2016-05-28T10:00",
+			"distance": "13+ km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": 52.30,
+		"positions": [
+			{
+				"description": "Entry fee",
+				"subTotal": 49.00
+			},
+			{
+				"description": "insurance",
+				"subTotal": 3.30
+			}
+		]
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"key": "2016-7-seen-wanderung",
+	"raceKey": "7-seen-wanderung",
+	"name": "7-Seen-Wanderung",
+	"startDate": "2016-05-06",
+	"endDate": "2016-05-08",
+	"location": {
+		"name": "Rathaus Markkleeberg",
+		"latitude": 51.2804709,
+		"longitude": 12.3750767
+	},
+	"status": "registered",
+	"runs": [
+		{
+			"startNumber": 303,
+			"startTime": "2016-05-06T18:00",
+			"distance": "108 km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": 27.00,
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": 27.00
+			}
+		]
+	}
+}

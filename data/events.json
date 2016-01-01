@@ -368,7 +368,7 @@
 		"location": "Markkleeberger See",
 		"distance": "2 x 8 km",
 		"time": "01:57:12",
-		"costs": 35.00,
+		"costs": 54.99,
 		"status": "completed"
 	},
 	{
@@ -450,10 +450,10 @@
 		"startDate": "2016-05-06",
 		"endDate": "2016-05-08",
 		"location": "Rathaus Markkleeberg",
-		"distance": "104 km",
+		"distance": "108 km",
 		"time": null,
-		"costs": 0.00,
-		"status": "planed"
+		"costs": 27.00,
+		"status": "registered"
 	},
 	{
 		"key": "2016-xletix-berlin",
@@ -476,8 +476,8 @@
 		"location": "Ski Areal Kouty, Kouty nad Desnou, CZ",
 		"distance": "13+ km",
 		"time": null,
-		"costs": 0.00,
-		"status": "planed"
+		"costs": 52.30,
+		"status": "registered"
 	},
 	{
 		"key": "2016-xletix-mitten-in-deutschland",
@@ -525,6 +525,18 @@
 		"distance": "20+ km",
 		"time": null,
 		"costs": 107.74,
+		"status": "registered"
+	},
+	{
+		"key": "2016-cross-de-luxe",
+		"raceKey": "cross-de-luxe",
+		"name": "CROSS DE LUXE",
+		"startDate": "2016-09-24",
+		"endDate": "2016-09-25",
+		"location": "Markkleeberger See",
+		"distance": "2 x 8 km",
+		"time": null,
+		"costs": 49.00,
 		"status": "registered"
 	},
 	{
