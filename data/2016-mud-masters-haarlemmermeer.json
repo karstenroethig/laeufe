@@ -9,15 +9,15 @@
 		"latitude": 52.344672,
 		"longitude": 4.682941
 	},
-	"status": "registered",
+	"status": "completed",
 	"runs": [
 		{
-			"startNumber": null,
+			"startNumber": 14057,
 			"startTime": "2016-03-05T09:30",
 			"distance": "42 km (1 x 18 km + 2 x 12 km)",
-			"time": null,
+			"time": "06:52:36",
 			"team": null,
-			"note": null
+			"note": "Platz 35 von 79 Marathon-Finishern; schnellste Zeit: 05:02:55; getragene Nummer: M108"
 		}
 	],
 	"costs": {
