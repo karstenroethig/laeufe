@@ -555,13 +555,13 @@
 		"key": "2016-halbmarathon-leipzig",
 		"raceKey": "halbmarathon-leipzig",
 		"name": "Halbmarathon Leipzig",
-		"startDate": "2016-10-16",
+		"startDate": "2016-10-09",
 		"endDate": null,
 		"location": "Völkerschlachtdenkmal, Leipzig",
 		"distance": "21,0975 km",
 		"time": null,
-		"costs": 0.00,
-		"status": "planed"
+		"costs": 25.00,
+		"status": "registered"
 	},
 	{
 		"key": "2016-fockeberglauf",

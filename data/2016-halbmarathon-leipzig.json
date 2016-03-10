@@ -1,0 +1,32 @@
+{
+	"key": "2016-halbmarathon-leipzig",
+	"raceKey": "halbmarathon-leipzig",
+	"name": "Halbmarathon Leipzig",
+	"startDate": "2016-10-09",
+	"endDate": null,
+	"location": {
+		"name": "Völkerschlachtdenkmal, Leipzig",
+		"latitude": 51.3123582,
+		"longitude": 12.4111139
+	},
+	"status": "registered",
+	"runs": [
+		{
+			"startNumber": null,
+			"startTime": "2016-10-09T10:00",
+			"distance": "21,0975 km",
+			"time": null,
+			"team": null,
+			"note": null
+		}
+	],
+	"costs": {
+		"total": 25.00,
+		"positions": [
+			{
+				"description": "Teilnahmegebühr",
+				"subTotal": 25.00
+			}
+		]
+	}
+}
