@@ -9,19 +9,19 @@
 		"latitude": 48.1729,
 		"longitude": 11.5438
 	},
-	"status": "registered",
+	"status": "completed",
 	"runs": [
 		{
-			"startNumber": null,
+			"startNumber": 33464,
 			"startTime": "2016-04-16T09:30",
 			"distance": "5+ km",
-			"time": null,
+			"time": "01:17:09",
 			"team": null,
-			"note": null
+			"note": "3 x 30 Burpees Strafe für nicht geschaffte Hindernisse (Spreewurf, Slagline, Monkey Bars)"
 		}
 	],
 	"costs": {
-		"total": 75.21,
+		"total": 82.21,
 		"positions": [
 			{
 				"description": "Teilnahmegebühr",
@@ -30,6 +30,10 @@
 			{
 				"description": "Transaktionsbearbeitungsgebühr",
 				"subTotal": 6.21
+			},
+			{
+				"description": "Parken (Parkhaus Sea Life am Olympiapark)",
+				"subTotal": 7.00
 			}
 		]
 	}

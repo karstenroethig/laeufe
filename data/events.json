@@ -439,9 +439,9 @@
 		"endDate": null,
 		"location": "Olympiapark, München",
 		"distance": "5+ km",
-		"time": null,
-		"costs": 75.21,
-		"status": "registered"
+		"time": "01:17:09",
+		"costs": 82.21,
+		"status": "completed"
 	},
 	{
 		"key": "2016-7-seen-wanderung",
